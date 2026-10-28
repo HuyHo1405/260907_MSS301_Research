@@ -1,0 +1,36 @@
+# ==============================================================================
+# 🚫 GITIGNORE CHO DỰ ÁN EDGE ALPR RESEARCH
+# ==============================================================================
+
+# 1. Dữ liệu tập huấn luyện nặng (Dataset > 250MB)
+data/
+*.zip
+*.tar.gz
+*.7z
+
+# 2. Thư mục xuất ảnh kết quả thử nghiệm và log tạm
+output/
+*.log
+
+# 3. Code nháp đồ án cũ (đã chuyển giao sang pipeline/)
+playground/
+
+# 4. Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# 5. Môi trường ảo (Virtual Environments)
+.venv/
+venv/
+env/
+ENV/
+
+# 6. Cấu hình IDE & Hệ điều hành
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

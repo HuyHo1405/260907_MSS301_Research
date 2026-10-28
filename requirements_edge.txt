@@ -1,0 +1,13 @@
+# ==============================================================================
+# 🍓 REQUIREMENTS CHO EDGE / RASPBERRY PI 4 (ARM64)
+# ==============================================================================
+# Lưu ý: Không chứa PyTorch hay Ultralytics (Tiết kiệm >1.5GB dung lượng và RAM).
+# Toàn bộ pipeline chạy trên ONNX Runtime siêu nhẹ.
+# ==============================================================================
+
+onnxruntime>=1.15.0
+opencv-python-headless>=4.5.0
+numpy>=1.21.0
+pillow>=9.0.0
+rapidocr-onnxruntime>=1.2.0
+psutil>=5.9.0

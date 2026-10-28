@@ -1,0 +1,37 @@
+# ==============================================================================
+# 🍓 DOCKERFILE MÔ PHỎNG & TRIỂN KHAI RASPBERRY PI 4 (ARM64 / AARCH64)
+# ==============================================================================
+# Base image: Python 3.10 Slim Debian (Tương thích 100% với Raspberry Pi OS 64-bit)
+# Thiết kế siêu nhẹ: < 350 MB (Không nạp PyTorch nặng 2-3 GB).
+# ==============================================================================
+
+FROM python:3.10-slim-bookworm
+
+# Ngăn Python ghi file .pyc và bật stdout unbuffered
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1
+
+WORKDIR /app
+
+# Cài đặt thư viện hệ thống tối thiểu cho OpenCV và xử lý ảnh (Debian Bookworm)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libgl1 \
+    libglib2.0-0 \
+    libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Cài đặt các thư viện Python siêu nhẹ cho Edge
+COPY requirements_edge.txt .
+RUN pip install --no-cache-dir -r requirements_edge.txt
+
+# Sao chép mã nguồn cốt lõi và trọng số mô hình INT8
+COPY pipeline/ ./pipeline/
+COPY samples/ ./samples/
+COPY weights/best_int8.onnx ./weights/
+COPY run_demo.py .
+
+# Tạo thư mục output chứa kết quả
+RUN mkdir -p output
+
+# Lệnh mặc định: Chạy demo nhận diện biển số với mô hình INT8
+CMD ["python", "run_demo.py", "--weights", "weights/best_int8.onnx", "--no_show"]

@@ -1,0 +1,20 @@
+services:
+  alpr-rpi4-simulation:
+    build:
+      context: .
+      dockerfile: Dockerfile.rpi4
+    container_name: alpr_rpi4_edge
+    # ==============================================================================
+    # ⚙️ GIỚI HẠN TÀI NGUYÊN PHẦN CỨNG MÔ PHỎNG CHÍNH XÁC RASPBERRY PI 4 (2GB RAM)
+    # ==============================================================================
+    deploy:
+      resources:
+        limits:
+          cpus: '4.0'       # Tối đa 4 nhân CPU (giống Quad-core Cortex-A72)
+          memory: 2048M     # Tối đa 2GB RAM (giống bản Pi 4 2GB)
+        reservations:
+          cpus: '2.0'
+          memory: 512M
+    volumes:
+      - ./output:/app/output
+    command: ["python", "run_demo.py", "--weights", "weights/best_int8.onnx", "--no_show"]
