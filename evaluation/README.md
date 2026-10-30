@@ -1,5 +1,15 @@
 # 📊 Đánh Giá & Benchmark Hiệu Năng (Model Evaluation)
 
+## Bộ chỉ số độc lập (Phase 6 — Tuấn)
+
+Xem [METRICS.md](METRICS.md) để biết định dạng dữ liệu, quy ước AP/OCR và cách
+tích hợp runner. Chạy từ thư mục gốc dự án, không cần GPU hay model:
+
+```powershell
+python -m unittest discover -s tests -p "test_metrics.py" -v
+python -m evaluation.demo_metrics
+```
+
 Thư mục chứa các công cụ đo lường và thẩm định mô hình AI khi triển khai trên thiết bị phần cứng thực tế (Edge Hardware: Raspberry Pi 4, Jetson Orin Nano, máy trạm cục bộ).
 
 ---
