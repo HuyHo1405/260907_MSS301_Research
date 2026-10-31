@@ -8,6 +8,9 @@ data/
 *.tar.gz
 *.7z
 
+# Dataset Roboflow COCO gốc: không commit, chỉ commit datasets/eval_set/
+datasets/vn_plate_coco/
+
 # 2. Thư mục xuất ảnh kết quả thử nghiệm và log tạm
 output/
 *.log
