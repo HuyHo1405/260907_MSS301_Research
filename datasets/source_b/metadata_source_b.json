@@ -1,0 +1,1033 @@
+{
+  "dataset_name": "Source B - Real-World Challenging Benchmark (Khanh)",
+  "total_images": 60,
+  "total_plates": 60,
+  "distribution": {
+    "low_light": 15,
+    "overexposure": 15,
+    "defocus_blur": 15,
+    "perspective_tilt": 15
+  },
+  "records": [
+    {
+      "image_id": "source_b/-annguyen3528_1780_jpg.rf.c26d0fb0221f96522305fd5ad34455ef.jpg",
+      "file_name": "-annguyen3528_1780_jpg.rf.c26d0fb0221f96522305fd5ad34455ef.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 51.8,
+      "sharpness": 2287.5,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_5982_jpg.rf.96ccf59389fe35f29816f20fdd3cd599.jpg",
+      "file_name": "-annguyen3528_5982_jpg.rf.96ccf59389fe35f29816f20fdd3cd599.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 52.6,
+      "sharpness": 259.0,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_102_jpg.rf.e5ee4207a258f06b05a19f3156aae923.jpg",
+      "file_name": "-annguyen3528_102_jpg.rf.e5ee4207a258f06b05a19f3156aae923.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 58.3,
+      "sharpness": 147.1,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3583_jpg.rf.9111b8824a7714f958a4fa2d5669457d.jpg",
+      "file_name": "-annguyen3528_3583_jpg.rf.9111b8824a7714f958a4fa2d5669457d.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 59.2,
+      "sharpness": 512.7,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2259_jpg.rf.0876ea9bad2713bf3aa35264f54657e0.jpg",
+      "file_name": "-annguyen3528_2259_jpg.rf.0876ea9bad2713bf3aa35264f54657e0.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 60.1,
+      "sharpness": 314.4,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_5989_jpg.rf.b05b41445a02d716d358bf8b21e6109e.jpg",
+      "file_name": "-annguyen3528_5989_jpg.rf.b05b41445a02d716d358bf8b21e6109e.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 60.3,
+      "sharpness": 466.5,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_1293_jpg.rf.56d02f9ed24f42250bf692ebe4e9f503.jpg",
+      "file_name": "-annguyen3528_1293_jpg.rf.56d02f9ed24f42250bf692ebe4e9f503.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 60.7,
+      "sharpness": 419.3,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3152_jpg.rf.ad8ab3996db54c3c620de06b9b151fd7.jpg",
+      "file_name": "-annguyen3528_3152_jpg.rf.ad8ab3996db54c3c620de06b9b151fd7.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 62.3,
+      "sharpness": 138.3,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2024_jpg.rf.7e0040b85a217ff6fe92054cc3463bca.jpg",
+      "file_name": "-annguyen3528_2024_jpg.rf.7e0040b85a217ff6fe92054cc3463bca.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 62.7,
+      "sharpness": 452.6,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "one_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2025_jpg.rf.fddcc2c058f5088936175260be1a11d6.jpg",
+      "file_name": "-annguyen3528_2025_jpg.rf.fddcc2c058f5088936175260be1a11d6.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 65.4,
+      "sharpness": 367.2,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "one_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3155_jpg.rf.eaa97e9d6a6f112355db9ad0d61ebb94.jpg",
+      "file_name": "-annguyen3528_3155_jpg.rf.eaa97e9d6a6f112355db9ad0d61ebb94.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 65.8,
+      "sharpness": 152.9,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2214_jpg.rf.c384a554cf9fa1bda69d495f2ec6bf3a.jpg",
+      "file_name": "-annguyen3528_2214_jpg.rf.c384a554cf9fa1bda69d495f2ec6bf3a.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 65.8,
+      "sharpness": 728.5,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2205_jpg.rf.ff8dcdac5519807cdb246635121d8e44.jpg",
+      "file_name": "-annguyen3528_2205_jpg.rf.ff8dcdac5519807cdb246635121d8e44.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 67.2,
+      "sharpness": 279.1,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2262_jpg.rf.ef4cf34af64ee369eb948d65f39ea3ba.jpg",
+      "file_name": "-annguyen3528_2262_jpg.rf.ef4cf34af64ee369eb948d65f39ea3ba.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 67.6,
+      "sharpness": 398.8,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2279_jpg.rf.141ae5af0dd9ef420a81e6f827824b4b.jpg",
+      "file_name": "-annguyen3528_2279_jpg.rf.141ae5af0dd9ef420a81e6f827824b4b.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 67.7,
+      "sharpness": 469.2,
+      "primary_challenge": "Low Light",
+      "conditions": [
+        "low_light"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "one_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_138_jpg.rf.5c0b345b038f16deb0b18c50c95163e3.jpg",
+      "file_name": "-annguyen3528_138_jpg.rf.5c0b345b038f16deb0b18c50c95163e3.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 189.6,
+      "sharpness": 156.0,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_330_jpg.rf.cc66847b3a4315b5e6ca37fc1f344a9c.jpg",
+      "file_name": "-annguyen3528_330_jpg.rf.cc66847b3a4315b5e6ca37fc1f344a9c.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 160.3,
+      "sharpness": 202.8,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3030_jpg.rf.9a9e00fad609017621093f07578c804a.jpg",
+      "file_name": "-annguyen3528_3030_jpg.rf.9a9e00fad609017621093f07578c804a.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 157.8,
+      "sharpness": 192.1,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_228_jpg.rf.4e16cfc786919192d1ea4069f3242a5d.jpg",
+      "file_name": "-annguyen3528_228_jpg.rf.4e16cfc786919192d1ea4069f3242a5d.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 157.1,
+      "sharpness": 183.3,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_40_jpg.rf.19a71edbf42c6f5d72e68240e0097c24.jpg",
+      "file_name": "-annguyen3528_40_jpg.rf.19a71edbf42c6f5d72e68240e0097c24.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 154.2,
+      "sharpness": 267.6,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3804_jpg.rf.5dbebaac330c361f2df77d03b9240802.jpg",
+      "file_name": "-annguyen3528_3804_jpg.rf.5dbebaac330c361f2df77d03b9240802.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 150.7,
+      "sharpness": 818.0,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "one_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2454_jpg.rf.07ce6f10a8ed69b68b672468908349ea.jpg",
+      "file_name": "-annguyen3528_2454_jpg.rf.07ce6f10a8ed69b68b672468908349ea.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 149.5,
+      "sharpness": 503.2,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_356_jpg.rf.a82a534a8a36fa796d9295abf6aece13.jpg",
+      "file_name": "-annguyen3528_356_jpg.rf.a82a534a8a36fa796d9295abf6aece13.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 142.9,
+      "sharpness": 195.9,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2455_jpg.rf.a7b8f3392eeabc77116ddab5ea8f96d1.jpg",
+      "file_name": "-annguyen3528_2455_jpg.rf.a7b8f3392eeabc77116ddab5ea8f96d1.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 140.3,
+      "sharpness": 524.3,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3026_jpg.rf.7c3709755f2c5100565bcca4a54729fd.jpg",
+      "file_name": "-annguyen3528_3026_jpg.rf.7c3709755f2c5100565bcca4a54729fd.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 135.0,
+      "sharpness": 261.2,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2393_jpg.rf.88f9d78e3ab37628b535c375c75c8cea.jpg",
+      "file_name": "-annguyen3528_2393_jpg.rf.88f9d78e3ab37628b535c375c75c8cea.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 134.3,
+      "sharpness": 185.5,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_4486_jpg.rf.469b31f8c288d26d2f93fbd7598c44be.jpg",
+      "file_name": "-annguyen3528_4486_jpg.rf.469b31f8c288d26d2f93fbd7598c44be.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 130.1,
+      "sharpness": 1037.5,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "one_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2120_jpg.rf.a72d2fe10006740e80d0efff1e154311.jpg",
+      "file_name": "-annguyen3528_2120_jpg.rf.a72d2fe10006740e80d0efff1e154311.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 129.3,
+      "sharpness": 469.5,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_25_jpg.rf.c6f15fb9534262381971f0050a6f00e9.jpg",
+      "file_name": "-annguyen3528_25_jpg.rf.c6f15fb9534262381971f0050a6f00e9.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 127.8,
+      "sharpness": 457.0,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_1599_jpg.rf.b3a6d8e2841efb117f9bf382032269bd.jpg",
+      "file_name": "-annguyen3528_1599_jpg.rf.b3a6d8e2841efb117f9bf382032269bd.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 125.0,
+      "sharpness": 544.3,
+      "primary_challenge": "High Glare / Overexposure",
+      "conditions": [
+        "overexposure"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2625_jpg.rf.0588c785709077ed9686fdc70a1adc5d.jpg",
+      "file_name": "-annguyen3528_2625_jpg.rf.0588c785709077ed9686fdc70a1adc5d.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 116.7,
+      "sharpness": 164.2,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "one_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_4256_jpg.rf.93baa8688c5c3925b1f40f6bddd366d9.jpg",
+      "file_name": "-annguyen3528_4256_jpg.rf.93baa8688c5c3925b1f40f6bddd366d9.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 90.3,
+      "sharpness": 166.7,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "one_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_5606_jpg.rf.91015dd1c0b01357e32621038893741f.jpg",
+      "file_name": "-annguyen3528_5606_jpg.rf.91015dd1c0b01357e32621038893741f.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 94.9,
+      "sharpness": 170.8,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_4257_jpg.rf.0691d513ddfcbb71622bcc20afe0f757.jpg",
+      "file_name": "-annguyen3528_4257_jpg.rf.0691d513ddfcbb71622bcc20afe0f757.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 74.2,
+      "sharpness": 179.4,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "one_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_360_jpg.rf.5bfc361d45a5ae53b12f49dba922db1d.jpg",
+      "file_name": "-annguyen3528_360_jpg.rf.5bfc361d45a5ae53b12f49dba922db1d.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 124.5,
+      "sharpness": 196.1,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/xeomvlog47_frm27480_64_jpg.rf.6e6c1770f812a945cdd4a6de9c808ed9.jpg",
+      "file_name": "xeomvlog47_frm27480_64_jpg.rf.6e6c1770f812a945cdd4a6de9c808ed9.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 72.5,
+      "sharpness": 198.7,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_100_jpg.rf.38d59af0b8f7106261a380cab72eef8f.jpg",
+      "file_name": "-annguyen3528_100_jpg.rf.38d59af0b8f7106261a380cab72eef8f.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 96.8,
+      "sharpness": 199.2,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_5143_jpg.rf.a97bc7b8083d18fb07fcb77accf3bf51.jpg",
+      "file_name": "-annguyen3528_5143_jpg.rf.a97bc7b8083d18fb07fcb77accf3bf51.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 68.3,
+      "sharpness": 222.2,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_4938_jpg.rf.d5eda4a4237e751f221e2de90a58a078.jpg",
+      "file_name": "-annguyen3528_4938_jpg.rf.d5eda4a4237e751f221e2de90a58a078.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 82.3,
+      "sharpness": 234.9,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_375_jpg.rf.b5311a001db1b611c5cab64f02194394.jpg",
+      "file_name": "-annguyen3528_375_jpg.rf.b5311a001db1b611c5cab64f02194394.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 101.1,
+      "sharpness": 237.4,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2796_jpg.rf.92f21a057b19dcea7a0b8caa2a22f12e.jpg",
+      "file_name": "-annguyen3528_2796_jpg.rf.92f21a057b19dcea7a0b8caa2a22f12e.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 90.7,
+      "sharpness": 241.0,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_121_jpg.rf.21c41fd48e88dead4121c2b87d8b56c2.jpg",
+      "file_name": "-annguyen3528_121_jpg.rf.21c41fd48e88dead4121c2b87d8b56c2.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 118.6,
+      "sharpness": 260.6,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_296_jpg.rf.97a669ca7675dc4ac6283c8113e25fc6.jpg",
+      "file_name": "-annguyen3528_296_jpg.rf.97a669ca7675dc4ac6283c8113e25fc6.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 120.0,
+      "sharpness": 265.1,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_660_jpg.rf.377e02a5b1df80558d69deaacb839adf.jpg",
+      "file_name": "-annguyen3528_660_jpg.rf.377e02a5b1df80558d69deaacb839adf.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 70.4,
+      "sharpness": 270.1,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_661_jpg.rf.4b56d002f870e4c1c07b07bacc85497c.jpg",
+      "file_name": "-annguyen3528_661_jpg.rf.4b56d002f870e4c1c07b07bacc85497c.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 85.3,
+      "sharpness": 279.0,
+      "primary_challenge": "Motion / Defocus Blur",
+      "conditions": [
+        "defocus_blur"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_8045_jpg.rf.f15bd808b2d91d7534cadc0456e065b2.jpg",
+      "file_name": "-annguyen3528_8045_jpg.rf.f15bd808b2d91d7534cadc0456e065b2.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 76.7,
+      "sharpness": 434.3,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/xeomvlog47_frm23760_53_jpg.rf.bc242d1f1d2d091afc382204503bc82c.jpg",
+      "file_name": "xeomvlog47_frm23760_53_jpg.rf.bc242d1f1d2d091afc382204503bc82c.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 120.3,
+      "sharpness": 506.5,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3856_jpg.rf.553adcb7ec2ca7339c82279a1142888c.jpg",
+      "file_name": "-annguyen3528_3856_jpg.rf.553adcb7ec2ca7339c82279a1142888c.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 85.3,
+      "sharpness": 598.5,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2043_jpg.rf.6ee16a5be37518d5c27a5df6673c8066.jpg",
+      "file_name": "-annguyen3528_2043_jpg.rf.6ee16a5be37518d5c27a5df6673c8066.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 98.7,
+      "sharpness": 502.9,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_2825_jpg.rf.22fc4d2b4d61afa5e9b97276ed9f7c40.jpg",
+      "file_name": "-annguyen3528_2825_jpg.rf.22fc4d2b4d61afa5e9b97276ed9f7c40.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 117.4,
+      "sharpness": 481.6,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3933_jpg.rf.935f76f5b851f4999fc0710deee0cf32.jpg",
+      "file_name": "-annguyen3528_3933_jpg.rf.935f76f5b851f4999fc0710deee0cf32.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 105.4,
+      "sharpness": 1183.8,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3273_jpg.rf.fea6c720c6e12e0093cba223bb2e0002.jpg",
+      "file_name": "-annguyen3528_3273_jpg.rf.fea6c720c6e12e0093cba223bb2e0002.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 90.1,
+      "sharpness": 349.4,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_4560_jpg.rf.172d1fca3f533ae380a87bb750d8f27e.jpg",
+      "file_name": "-annguyen3528_4560_jpg.rf.172d1fca3f533ae380a87bb750d8f27e.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 110.0,
+      "sharpness": 1045.0,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3932_jpg.rf.153415dfdd0c250d3448d7c32db969a2.jpg",
+      "file_name": "-annguyen3528_3932_jpg.rf.153415dfdd0c250d3448d7c32db969a2.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 116.2,
+      "sharpness": 1523.7,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3859_jpg.rf.b87c392f2d3a5ee717b878623c87f577.jpg",
+      "file_name": "-annguyen3528_3859_jpg.rf.b87c392f2d3a5ee717b878623c87f577.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 122.1,
+      "sharpness": 1153.3,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_1564_jpg.rf.92a0b319d8098f539bfb5c1c436acbdd.jpg",
+      "file_name": "-annguyen3528_1564_jpg.rf.92a0b319d8098f539bfb5c1c436acbdd.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 81.0,
+      "sharpness": 530.4,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_6151_jpg.rf.8ff9432f353e5d511de9e350a48515c8.jpg",
+      "file_name": "-annguyen3528_6151_jpg.rf.8ff9432f353e5d511de9e350a48515c8.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 107.1,
+      "sharpness": 1778.8,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_637_jpg.rf.390312efc4b86dea097e1520685dcc23.jpg",
+      "file_name": "-annguyen3528_637_jpg.rf.390312efc4b86dea097e1520685dcc23.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 106.4,
+      "sharpness": 396.6,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_4581_jpg.rf.4024e1475b459d718693f5fd534353ba.jpg",
+      "file_name": "-annguyen3528_4581_jpg.rf.4024e1475b459d718693f5fd534353ba.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 100.1,
+      "sharpness": 926.4,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    },
+    {
+      "image_id": "source_b/-annguyen3528_3066_jpg.rf.b9ce24d48080068216777955449befc3.jpg",
+      "file_name": "-annguyen3528_3066_jpg.rf.b9ce24d48080068216777955449befc3.jpg",
+      "width": 640,
+      "height": 640,
+      "brightness": 93.7,
+      "sharpness": 300.3,
+      "primary_challenge": "Geometry / Perspective Tilt",
+      "conditions": [
+        "perspective_tilt"
+      ],
+      "num_plates": 1,
+      "layouts": [
+        "two_line"
+      ],
+      "qa_verified": true
+    }
+  ]
+}

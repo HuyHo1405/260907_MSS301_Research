@@ -25,6 +25,7 @@ graph TD
 | **[Phase 4: Resolution & Runtime Tuning](phase_4_resolution_scaling_and_runtime.md)** | Dynamic ONNX Input, khảo sát độ phân giải (640 ➔ 320) & số luồng CPU (4T, 2T, 1T). | Tìm ra điểm ngọt **`480x480`** (tăng tốc 1.64x – 2.07x), xác định chiến lược thread-pinning cho từng con chip. |
 | **[Phase 5: Đột Phá Tầng OCR (Sprint 9)](phase_5_ocr_roi_and_preprocessing.md)** | Mổ xẻ lỗi upscale 736 của RapidOCR, chuẩn hóa ROI $H=96$, tinh giản DBNet no-dilation. | **OCR tăng tốc 5.85x** (từ 3.32s xuống 0.56s trên Pi 4); toàn bộ pipeline đạt **~668ms (1.5 FPS)**! |
 | **[Phase 6: Khung Đánh Giá Robustness & Test Data](phase_6_robustness_benchmark_and_data_preparation.md)** | Thiết lập chiến lược dữ liệu 2 nguồn (Source A & B), 4 nhóm sinh nhiễu môi trường xấu, ma trận chỉ số (mAP, EM, CER, Latency) và phân rã task 6 người. | Chuẩn hóa khung kiểm thử độc lập, sẵn sàng chuyển giao thực nghiệm định lượng độ bền bỉ giữa FP32 và INT8. |
+| **[Phase 6: Nghiệm Thu Source B & QA (Khánh)](phase_6_source_b_field_data_and_qa.md)** | Đóng gói 60 ảnh thực tế 4 nhóm thử thách, nhãn Ground Truth chuẩn hóa OCR, metadata lát cắt và script QA tự động. | Hoàn tất gói bàn giao của Khánh; khắc phục dứt điểm lỗi thiếu nhãn OCR cho cả 322 ảnh Source A. |
 
 ---
 

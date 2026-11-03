@@ -25,7 +25,7 @@ class ALPRPipeline:
     Thiết kế dạng Plug-and-Play để dễ dàng hoán đổi giữa các engine OCR và đo đạc benchmark.
     """
     def __init__(self, detector_weights='weights/best.pt', engine='paddle', lpr_weights='weights/lprnet.pth', conf_threshold=0.25, device=None):
-        print(f"🔧 Khởi tạo ALPRPipeline [Detector: YOLOv8 | OCR Engine: {engine.upper()}]...")
+        print(f"[*] Khoi tao ALPRPipeline [Detector: YOLOv8 | OCR Engine: {engine.upper()}]...")
         if detector_weights.endswith('.onnx'):
             self.detector = ONNXPlateDetector(weights_path=detector_weights, conf_threshold=conf_threshold)
         else:
@@ -43,7 +43,7 @@ class ALPRPipeline:
         else:
             raise ValueError(f"Engine không hỗ trợ: '{engine}'. Chọn 'paddle' hoặc 'lprnet'.")
 
-        print("✅ ALPRPipeline đã sẵn sàng thực nghiệm!")
+        print("[+] ALPRPipeline da san sang thuc nghiem!")
 
     def predict(self, image_input):
         """

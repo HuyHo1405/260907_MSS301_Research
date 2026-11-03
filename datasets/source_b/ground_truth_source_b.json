@@ -1,0 +1,1606 @@
+[
+  {
+    "image_id": "source_b/-annguyen3528_1780_jpg.rf.c26d0fb0221f96522305fd5ad34455ef.jpg",
+    "file_name": "-annguyen3528_1780_jpg.rf.c26d0fb0221f96522305fd5ad34455ef.jpg",
+    "ann_id": 299,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      388.4,
+      371.73,
+      441.6,
+      404.54
+    ],
+    "bbox_coco": [
+      388.4,
+      371.73,
+      53.2,
+      32.81
+    ],
+    "text": "61A-961.36",
+    "raw_ocr": [
+      "61A",
+      "96136"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.62
+  },
+  {
+    "image_id": "source_b/-annguyen3528_5982_jpg.rf.96ccf59389fe35f29816f20fdd3cd599.jpg",
+    "file_name": "-annguyen3528_5982_jpg.rf.96ccf59389fe35f29816f20fdd3cd599.jpg",
+    "ann_id": 197,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      515.0,
+      377.0,
+      592.0,
+      460.0
+    ],
+    "bbox_coco": [
+      515.0,
+      377.0,
+      77.0,
+      83.0
+    ],
+    "text": "0F-366",
+    "raw_ocr": [
+      "0-F",
+      "366"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.93
+  },
+  {
+    "image_id": "source_b/-annguyen3528_102_jpg.rf.e5ee4207a258f06b05a19f3156aae923.jpg",
+    "file_name": "-annguyen3528_102_jpg.rf.e5ee4207a258f06b05a19f3156aae923.jpg",
+    "ann_id": 290,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      371.0,
+      0.0,
+      427.0,
+      37.0
+    ],
+    "bbox_coco": [
+      371.0,
+      0.0,
+      56.0,
+      37.0
+    ],
+    "text": "02560",
+    "raw_ocr": [
+      "02560"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.51
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3583_jpg.rf.9111b8824a7714f958a4fa2d5669457d.jpg",
+    "file_name": "-annguyen3528_3583_jpg.rf.9111b8824a7714f958a4fa2d5669457d.jpg",
+    "ann_id": 106,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      170.63,
+      327.58,
+      255.32,
+      387.42
+    ],
+    "bbox_coco": [
+      170.63,
+      327.58,
+      84.69,
+      59.84
+    ],
+    "text": "61A-827.81",
+    "raw_ocr": [
+      "61A",
+      "827.81"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.42
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2259_jpg.rf.0876ea9bad2713bf3aa35264f54657e0.jpg",
+    "file_name": "-annguyen3528_2259_jpg.rf.0876ea9bad2713bf3aa35264f54657e0.jpg",
+    "ann_id": 169,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      194.54,
+      249.84,
+      306.73,
+      339.22
+    ],
+    "bbox_coco": [
+      194.54,
+      249.84,
+      112.19,
+      89.38
+    ],
+    "text": "L9N1-065.48",
+    "raw_ocr": [
+      "L9-N1",
+      "065.48"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.26
+  },
+  {
+    "image_id": "source_b/-annguyen3528_5989_jpg.rf.b05b41445a02d716d358bf8b21e6109e.jpg",
+    "file_name": "-annguyen3528_5989_jpg.rf.b05b41445a02d716d358bf8b21e6109e.jpg",
+    "ann_id": 305,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      472.0,
+      316.0,
+      528.0,
+      365.0
+    ],
+    "bbox_coco": [
+      472.0,
+      316.0,
+      56.0,
+      49.0
+    ],
+    "text": "7007",
+    "raw_ocr": [
+      "70-07"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.14
+  },
+  {
+    "image_id": "source_b/-annguyen3528_1293_jpg.rf.56d02f9ed24f42250bf692ebe4e9f503.jpg",
+    "file_name": "-annguyen3528_1293_jpg.rf.56d02f9ed24f42250bf692ebe4e9f503.jpg",
+    "ann_id": 314,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      417.5,
+      287.11,
+      484.38,
+      346.02
+    ],
+    "bbox_coco": [
+      417.5,
+      287.11,
+      66.88,
+      58.91
+    ],
+    "text": "8688",
+    "raw_ocr": [
+      "86-88"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.14
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3152_jpg.rf.ad8ab3996db54c3c620de06b9b151fd7.jpg",
+    "file_name": "-annguyen3528_3152_jpg.rf.ad8ab3996db54c3c620de06b9b151fd7.jpg",
+    "ann_id": 168,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      235.2,
+      473.17,
+      386.37,
+      568.72
+    ],
+    "bbox_coco": [
+      235.2,
+      473.17,
+      151.17,
+      95.55
+    ],
+    "text": "50E-706.00",
+    "raw_ocr": [
+      "50E",
+      "70600"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.58
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2024_jpg.rf.7e0040b85a217ff6fe92054cc3463bca.jpg",
+    "file_name": "-annguyen3528_2024_jpg.rf.7e0040b85a217ff6fe92054cc3463bca.jpg",
+    "ann_id": 187,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      242.03,
+      330.14,
+      440.47,
+      394.24
+    ],
+    "bbox_coco": [
+      242.03,
+      330.14,
+      198.44,
+      64.1
+    ],
+    "text": "51K-242.12",
+    "raw_ocr": [
+      "51K-242.12"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 3.1
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2025_jpg.rf.fddcc2c058f5088936175260be1a11d6.jpg",
+    "file_name": "-annguyen3528_2025_jpg.rf.fddcc2c058f5088936175260be1a11d6.jpg",
+    "ann_id": 118,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      219.3,
+      345.11,
+      447.58,
+      423.66
+    ],
+    "bbox_coco": [
+      219.3,
+      345.11,
+      228.28,
+      78.55
+    ],
+    "text": "51K-242.12",
+    "raw_ocr": [
+      "51K-242.12"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.91
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3155_jpg.rf.eaa97e9d6a6f112355db9ad0d61ebb94.jpg",
+    "file_name": "-annguyen3528_3155_jpg.rf.eaa97e9d6a6f112355db9ad0d61ebb94.jpg",
+    "ann_id": 250,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      220.08,
+      510.98,
+      388.36,
+      606.53
+    ],
+    "bbox_coco": [
+      220.08,
+      510.98,
+      168.28,
+      95.55
+    ],
+    "text": "50E-706.00",
+    "raw_ocr": [
+      "50E",
+      "70.600"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.76
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2214_jpg.rf.c384a554cf9fa1bda69d495f2ec6bf3a.jpg",
+    "file_name": "-annguyen3528_2214_jpg.rf.c384a554cf9fa1bda69d495f2ec6bf3a.jpg",
+    "ann_id": 31,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      74.69,
+      298.76,
+      228.13,
+      427.51
+    ],
+    "bbox_coco": [
+      74.69,
+      298.76,
+      153.44,
+      128.75
+    ],
+    "text": "77H9-1890",
+    "raw_ocr": [
+      "77-H9",
+      "1890"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.19
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2205_jpg.rf.ff8dcdac5519807cdb246635121d8e44.jpg",
+    "file_name": "-annguyen3528_2205_jpg.rf.ff8dcdac5519807cdb246635121d8e44.jpg",
+    "ann_id": 58,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      314.53,
+      262.48,
+      419.84,
+      340.64
+    ],
+    "bbox_coco": [
+      314.53,
+      262.48,
+      105.31,
+      78.16
+    ],
+    "text": "77H9-1890",
+    "raw_ocr": [
+      "77-H9",
+      "1890"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.35
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2262_jpg.rf.ef4cf34af64ee369eb948d65f39ea3ba.jpg",
+    "file_name": "-annguyen3528_2262_jpg.rf.ef4cf34af64ee369eb948d65f39ea3ba.jpg",
+    "ann_id": 73,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      192.54,
+      257.15,
+      303.09,
+      342.23
+    ],
+    "bbox_coco": [
+      192.54,
+      257.15,
+      110.55,
+      85.08
+    ],
+    "text": "49N1-065.48",
+    "raw_ocr": [
+      "49-N1",
+      "065.48"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.3
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2279_jpg.rf.141ae5af0dd9ef420a81e6f827824b4b.jpg",
+    "file_name": "-annguyen3528_2279_jpg.rf.141ae5af0dd9ef420a81e6f827824b4b.jpg",
+    "ann_id": 288,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      228.24,
+      376.95,
+      390.74,
+      447.23
+    ],
+    "bbox_coco": [
+      228.24,
+      376.95,
+      162.5,
+      70.28
+    ],
+    "text": "51K-630.90",
+    "raw_ocr": [
+      "51K-630.90"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.31
+  },
+  {
+    "image_id": "source_b/-annguyen3528_138_jpg.rf.5c0b345b038f16deb0b18c50c95163e3.jpg",
+    "file_name": "-annguyen3528_138_jpg.rf.5c0b345b038f16deb0b18c50c95163e3.jpg",
+    "ann_id": 323,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      239.3,
+      320.65,
+      299.14,
+      359.97
+    ],
+    "bbox_coco": [
+      239.3,
+      320.65,
+      59.84,
+      39.32
+    ],
+    "text": "62A-603.27",
+    "raw_ocr": [
+      "62A",
+      "60327"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.52
+  },
+  {
+    "image_id": "source_b/-annguyen3528_330_jpg.rf.cc66847b3a4315b5e6ca37fc1f344a9c.jpg",
+    "file_name": "-annguyen3528_330_jpg.rf.cc66847b3a4315b5e6ca37fc1f344a9c.jpg",
+    "ann_id": 145,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      351.33,
+      299.77,
+      413.67,
+      359.61
+    ],
+    "bbox_coco": [
+      351.33,
+      299.77,
+      62.34,
+      59.84
+    ],
+    "text": "51G-081.56",
+    "raw_ocr": [
+      "51G",
+      "081.56"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.04
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3030_jpg.rf.9a9e00fad609017621093f07578c804a.jpg",
+    "file_name": "-annguyen3528_3030_jpg.rf.9a9e00fad609017621093f07578c804a.jpg",
+    "ann_id": 302,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      255.39,
+      330.63,
+      341.17,
+      376.88
+    ],
+    "bbox_coco": [
+      255.39,
+      330.63,
+      85.78,
+      46.25
+    ],
+    "text": "60K-395.23",
+    "raw_ocr": [
+      "60K",
+      "395.23"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.85
+  },
+  {
+    "image_id": "source_b/-annguyen3528_228_jpg.rf.4e16cfc786919192d1ea4069f3242a5d.jpg",
+    "file_name": "-annguyen3528_228_jpg.rf.4e16cfc786919192d1ea4069f3242a5d.jpg",
+    "ann_id": 270,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      109.24,
+      335.37,
+      158.86,
+      374.04
+    ],
+    "bbox_coco": [
+      109.24,
+      335.37,
+      49.62,
+      38.67
+    ],
+    "text": "51K-402.10",
+    "raw_ocr": [
+      "51K",
+      "402.10"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.28
+  },
+  {
+    "image_id": "source_b/-annguyen3528_40_jpg.rf.19a71edbf42c6f5d72e68240e0097c24.jpg",
+    "file_name": "-annguyen3528_40_jpg.rf.19a71edbf42c6f5d72e68240e0097c24.jpg",
+    "ann_id": 76,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      573.0,
+      405.0,
+      640.0,
+      457.0
+    ],
+    "bbox_coco": [
+      573.0,
+      405.0,
+      67.0,
+      52.0
+    ],
+    "text": "79H-0346",
+    "raw_ocr": [
+      "79H",
+      "034.6"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.29
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3804_jpg.rf.5dbebaac330c361f2df77d03b9240802.jpg",
+    "file_name": "-annguyen3528_3804_jpg.rf.5dbebaac330c361f2df77d03b9240802.jpg",
+    "ann_id": 295,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      241.94,
+      354.86,
+      317.45,
+      372.65
+    ],
+    "bbox_coco": [
+      241.94,
+      354.86,
+      75.51,
+      17.79
+    ],
+    "text": "47T-2385",
+    "raw_ocr": [
+      "47T-2385"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 4.24
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2454_jpg.rf.07ce6f10a8ed69b68b672468908349ea.jpg",
+    "file_name": "-annguyen3528_2454_jpg.rf.07ce6f10a8ed69b68b672468908349ea.jpg",
+    "ann_id": 30,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      508.46,
+      574.15,
+      563.42,
+      608.97
+    ],
+    "bbox_coco": [
+      508.46,
+      574.15,
+      54.96,
+      34.82
+    ],
+    "text": "72E1-522.68",
+    "raw_ocr": [
+      "72E1",
+      "52268"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.58
+  },
+  {
+    "image_id": "source_b/-annguyen3528_356_jpg.rf.a82a534a8a36fa796d9295abf6aece13.jpg",
+    "file_name": "-annguyen3528_356_jpg.rf.a82a534a8a36fa796d9295abf6aece13.jpg",
+    "ann_id": 19,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      265.78,
+      353.01,
+      369.22,
+      427.62
+    ],
+    "bbox_coco": [
+      265.78,
+      353.01,
+      103.44,
+      74.61
+    ],
+    "text": "50H-455.46",
+    "raw_ocr": [
+      "50H",
+      "455.46"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.39
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2455_jpg.rf.a7b8f3392eeabc77116ddab5ea8f96d1.jpg",
+    "file_name": "-annguyen3528_2455_jpg.rf.a7b8f3392eeabc77116ddab5ea8f96d1.jpg",
+    "ann_id": 292,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      248.46,
+      458.56,
+      303.42,
+      490.83
+    ],
+    "bbox_coco": [
+      248.46,
+      458.56,
+      54.96,
+      32.27
+    ],
+    "text": "70B-016.91",
+    "raw_ocr": [
+      "708",
+      "01691"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.7
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3026_jpg.rf.7c3709755f2c5100565bcca4a54729fd.jpg",
+    "file_name": "-annguyen3528_3026_jpg.rf.7c3709755f2c5100565bcca4a54729fd.jpg",
+    "ann_id": 173,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      79.22,
+      371.9,
+      165.94,
+      431.86
+    ],
+    "bbox_coco": [
+      79.22,
+      371.9,
+      86.72,
+      59.96
+    ],
+    "text": "60K-395.23",
+    "raw_ocr": [
+      "60K",
+      "395.23"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.45
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2393_jpg.rf.88f9d78e3ab37628b535c375c75c8cea.jpg",
+    "file_name": "-annguyen3528_2393_jpg.rf.88f9d78e3ab37628b535c375c75c8cea.jpg",
+    "ann_id": 322,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      251.0,
+      297.0,
+      309.0,
+      334.0
+    ],
+    "bbox_coco": [
+      251.0,
+      297.0,
+      58.0,
+      37.0
+    ],
+    "text": "07987",
+    "raw_ocr": [
+      "079.87"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.57
+  },
+  {
+    "image_id": "source_b/-annguyen3528_4486_jpg.rf.469b31f8c288d26d2f93fbd7598c44be.jpg",
+    "file_name": "-annguyen3528_4486_jpg.rf.469b31f8c288d26d2f93fbd7598c44be.jpg",
+    "ann_id": 107,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      279.58,
+      308.02,
+      319.19,
+      326.99
+    ],
+    "bbox_coco": [
+      279.58,
+      308.02,
+      39.61,
+      18.97
+    ],
+    "text": "82699",
+    "raw_ocr": [
+      "82699"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.09
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2120_jpg.rf.a72d2fe10006740e80d0efff1e154311.jpg",
+    "file_name": "-annguyen3528_2120_jpg.rf.a72d2fe10006740e80d0efff1e154311.jpg",
+    "ann_id": 124,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      241.33,
+      472.39,
+      338.99,
+      525.12
+    ],
+    "bbox_coco": [
+      241.33,
+      472.39,
+      97.66,
+      52.73
+    ],
+    "text": "48F-000.49",
+    "raw_ocr": [
+      "48F",
+      "000.49"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.85
+  },
+  {
+    "image_id": "source_b/-annguyen3528_25_jpg.rf.c6f15fb9534262381971f0050a6f00e9.jpg",
+    "file_name": "-annguyen3528_25_jpg.rf.c6f15fb9534262381971f0050a6f00e9.jpg",
+    "ann_id": 301,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      419.04,
+      298.39,
+      483.73,
+      341.78
+    ],
+    "bbox_coco": [
+      419.04,
+      298.39,
+      64.69,
+      43.39
+    ],
+    "text": "51G-035.95",
+    "raw_ocr": [
+      "51G",
+      "035.95"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.49
+  },
+  {
+    "image_id": "source_b/-annguyen3528_1599_jpg.rf.b3a6d8e2841efb117f9bf382032269bd.jpg",
+    "file_name": "-annguyen3528_1599_jpg.rf.b3a6d8e2841efb117f9bf382032269bd.jpg",
+    "ann_id": 235,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      247.56,
+      335.23,
+      296.82,
+      368.53
+    ],
+    "bbox_coco": [
+      247.56,
+      335.23,
+      49.26,
+      33.3
+    ],
+    "text": "506-106.67",
+    "raw_ocr": [
+      "506",
+      "106.67"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.48
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2625_jpg.rf.0588c785709077ed9686fdc70a1adc5d.jpg",
+    "file_name": "-annguyen3528_2625_jpg.rf.0588c785709077ed9686fdc70a1adc5d.jpg",
+    "ann_id": 146,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      32.23,
+      537.52,
+      161.21,
+      579.36
+    ],
+    "bbox_coco": [
+      32.23,
+      537.52,
+      128.98,
+      41.84
+    ],
+    "text": "12N0S094",
+    "raw_ocr": [
+      "12N-0S094"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 3.08
+  },
+  {
+    "image_id": "source_b/-annguyen3528_4256_jpg.rf.93baa8688c5c3925b1f40f6bddd366d9.jpg",
+    "file_name": "-annguyen3528_4256_jpg.rf.93baa8688c5c3925b1f40f6bddd366d9.jpg",
+    "ann_id": 109,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      237.31,
+      375.48,
+      348.01,
+      420.79
+    ],
+    "bbox_coco": [
+      237.31,
+      375.48,
+      110.7,
+      45.31
+    ],
+    "text": "27C-301.03",
+    "raw_ocr": [
+      "27C301.03"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.44
+  },
+  {
+    "image_id": "source_b/-annguyen3528_5606_jpg.rf.91015dd1c0b01357e32621038893741f.jpg",
+    "file_name": "-annguyen3528_5606_jpg.rf.91015dd1c0b01357e32621038893741f.jpg",
+    "ann_id": 225,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      573.0,
+      494.0,
+      640.0,
+      555.0
+    ],
+    "bbox_coco": [
+      573.0,
+      494.0,
+      67.0,
+      61.0
+    ],
+    "text": "63C1-3900",
+    "raw_ocr": [
+      "63-C1",
+      "390.0"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.1
+  },
+  {
+    "image_id": "source_b/-annguyen3528_4257_jpg.rf.0691d513ddfcbb71622bcc20afe0f757.jpg",
+    "file_name": "-annguyen3528_4257_jpg.rf.0691d513ddfcbb71622bcc20afe0f757.jpg",
+    "ann_id": 70,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      203.13,
+      392.62,
+      319.69,
+      447.39
+    ],
+    "bbox_coco": [
+      203.13,
+      392.62,
+      116.56,
+      54.77
+    ],
+    "text": "470-301.03",
+    "raw_ocr": [
+      "470-301.03"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.13
+  },
+  {
+    "image_id": "source_b/-annguyen3528_360_jpg.rf.5bfc361d45a5ae53b12f49dba922db1d.jpg",
+    "file_name": "-annguyen3528_360_jpg.rf.5bfc361d45a5ae53b12f49dba922db1d.jpg",
+    "ann_id": 66,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      227.66,
+      440.4,
+      417.35,
+      551.49
+    ],
+    "bbox_coco": [
+      227.66,
+      440.4,
+      189.69,
+      111.09
+    ],
+    "text": "50H-455.46",
+    "raw_ocr": [
+      "50H",
+      "455.46"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.71
+  },
+  {
+    "image_id": "source_b/xeomvlog47_frm27480_64_jpg.rf.6e6c1770f812a945cdd4a6de9c808ed9.jpg",
+    "file_name": "xeomvlog47_frm27480_64_jpg.rf.6e6c1770f812a945cdd4a6de9c808ed9.jpg",
+    "ann_id": 162,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      546.22,
+      386.7,
+      638.17,
+      448.93
+    ],
+    "bbox_coco": [
+      546.22,
+      386.7,
+      91.95,
+      62.23
+    ],
+    "text": "76F1-3559",
+    "raw_ocr": [
+      "76-F1",
+      "3559"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.48
+  },
+  {
+    "image_id": "source_b/-annguyen3528_100_jpg.rf.38d59af0b8f7106261a380cab72eef8f.jpg",
+    "file_name": "-annguyen3528_100_jpg.rf.38d59af0b8f7106261a380cab72eef8f.jpg",
+    "ann_id": 137,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      184.12,
+      342.87,
+      274.98,
+      402.09
+    ],
+    "bbox_coco": [
+      184.12,
+      342.87,
+      90.86,
+      59.22
+    ],
+    "text": "51G-386.35",
+    "raw_ocr": [
+      "51G",
+      "386.35"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.53
+  },
+  {
+    "image_id": "source_b/-annguyen3528_5143_jpg.rf.a97bc7b8083d18fb07fcb77accf3bf51.jpg",
+    "file_name": "-annguyen3528_5143_jpg.rf.a97bc7b8083d18fb07fcb77accf3bf51.jpg",
+    "ann_id": 272,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      114.0,
+      334.0,
+      224.0,
+      450.0
+    ],
+    "bbox_coco": [
+      114.0,
+      334.0,
+      110.0,
+      116.0
+    ],
+    "text": "43E-007.00",
+    "raw_ocr": [
+      "43E",
+      "00700"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.95
+  },
+  {
+    "image_id": "source_b/-annguyen3528_4938_jpg.rf.d5eda4a4237e751f221e2de90a58a078.jpg",
+    "file_name": "-annguyen3528_4938_jpg.rf.d5eda4a4237e751f221e2de90a58a078.jpg",
+    "ann_id": 234,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      175.0,
+      468.0,
+      235.0,
+      504.0
+    ],
+    "bbox_coco": [
+      175.0,
+      468.0,
+      60.0,
+      36.0
+    ],
+    "text": "00528",
+    "raw_ocr": [
+      "00528"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.67
+  },
+  {
+    "image_id": "source_b/-annguyen3528_375_jpg.rf.b5311a001db1b611c5cab64f02194394.jpg",
+    "file_name": "-annguyen3528_375_jpg.rf.b5311a001db1b611c5cab64f02194394.jpg",
+    "ann_id": 297,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      262.58,
+      399.56,
+      345.24,
+      442.33
+    ],
+    "bbox_coco": [
+      262.58,
+      399.56,
+      82.66,
+      42.77
+    ],
+    "text": "50H-563.92",
+    "raw_ocr": [
+      "50H",
+      "563.92"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.93
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2796_jpg.rf.92f21a057b19dcea7a0b8caa2a22f12e.jpg",
+    "file_name": "-annguyen3528_2796_jpg.rf.92f21a057b19dcea7a0b8caa2a22f12e.jpg",
+    "ann_id": 246,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      433.0,
+      507.0,
+      500.0,
+      569.0
+    ],
+    "bbox_coco": [
+      433.0,
+      507.0,
+      67.0,
+      62.0
+    ],
+    "text": "60-1185",
+    "raw_ocr": [
+      "60",
+      "1185"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.08
+  },
+  {
+    "image_id": "source_b/-annguyen3528_121_jpg.rf.21c41fd48e88dead4121c2b87d8b56c2.jpg",
+    "file_name": "-annguyen3528_121_jpg.rf.21c41fd48e88dead4121c2b87d8b56c2.jpg",
+    "ann_id": 294,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      220.82,
+      543.83,
+      269.18,
+      573.67
+    ],
+    "bbox_coco": [
+      220.82,
+      543.83,
+      48.36,
+      29.84
+    ],
+    "text": "22408",
+    "raw_ocr": [
+      "22408"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.62
+  },
+  {
+    "image_id": "source_b/-annguyen3528_296_jpg.rf.97a669ca7675dc4ac6283c8113e25fc6.jpg",
+    "file_name": "-annguyen3528_296_jpg.rf.97a669ca7675dc4ac6283c8113e25fc6.jpg",
+    "ann_id": 300,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      310.15,
+      351.22,
+      417.34,
+      430.05
+    ],
+    "bbox_coco": [
+      310.15,
+      351.22,
+      107.19,
+      78.83
+    ],
+    "text": "30E-290.75",
+    "raw_ocr": [
+      "30E",
+      "290.75"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.36
+  },
+  {
+    "image_id": "source_b/-annguyen3528_660_jpg.rf.377e02a5b1df80558d69deaacb839adf.jpg",
+    "file_name": "-annguyen3528_660_jpg.rf.377e02a5b1df80558d69deaacb839adf.jpg",
+    "ann_id": 12,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      89.07,
+      356.64,
+      221.26,
+      438.36
+    ],
+    "bbox_coco": [
+      89.07,
+      356.64,
+      132.19,
+      81.72
+    ],
+    "text": "51H-534.07",
+    "raw_ocr": [
+      "51H",
+      "53407"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.62
+  },
+  {
+    "image_id": "source_b/-annguyen3528_661_jpg.rf.4b56d002f870e4c1c07b07bacc85497c.jpg",
+    "file_name": "-annguyen3528_661_jpg.rf.4b56d002f870e4c1c07b07bacc85497c.jpg",
+    "ann_id": 249,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      109.15,
+      376.41,
+      259.62,
+      462.97
+    ],
+    "bbox_coco": [
+      109.15,
+      376.41,
+      150.47,
+      86.56
+    ],
+    "text": "51H-534.07",
+    "raw_ocr": [
+      "51H",
+      "534.07"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.74
+  },
+  {
+    "image_id": "source_b/-annguyen3528_8045_jpg.rf.f15bd808b2d91d7534cadc0456e065b2.jpg",
+    "file_name": "-annguyen3528_8045_jpg.rf.f15bd808b2d91d7534cadc0456e065b2.jpg",
+    "ann_id": 138,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      243.0,
+      403.0,
+      358.0,
+      463.0
+    ],
+    "bbox_coco": [
+      243.0,
+      403.0,
+      115.0,
+      60.0
+    ],
+    "text": "47E-002.50",
+    "raw_ocr": [
+      "47E",
+      "002.50"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.92
+  },
+  {
+    "image_id": "source_b/xeomvlog47_frm23760_53_jpg.rf.bc242d1f1d2d091afc382204503bc82c.jpg",
+    "file_name": "xeomvlog47_frm23760_53_jpg.rf.bc242d1f1d2d091afc382204503bc82c.jpg",
+    "ann_id": 154,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      169.34,
+      318.22,
+      230.04,
+      349.9
+    ],
+    "bbox_coco": [
+      169.34,
+      318.22,
+      60.7,
+      31.68
+    ],
+    "text": "51H-402.76",
+    "raw_ocr": [
+      "51H",
+      "40276"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.92
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3856_jpg.rf.553adcb7ec2ca7339c82279a1142888c.jpg",
+    "file_name": "-annguyen3528_3856_jpg.rf.553adcb7ec2ca7339c82279a1142888c.jpg",
+    "ann_id": 88,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      491.94,
+      13.99,
+      560.57,
+      50.32
+    ],
+    "bbox_coco": [
+      491.94,
+      13.99,
+      68.63,
+      36.33
+    ],
+    "text": "7A-377.31",
+    "raw_ocr": [
+      "7A",
+      "37731"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.89
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2043_jpg.rf.6ee16a5be37518d5c27a5df6673c8066.jpg",
+    "file_name": "-annguyen3528_2043_jpg.rf.6ee16a5be37518d5c27a5df6673c8066.jpg",
+    "ann_id": 18,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      151.05,
+      323.74,
+      238.63,
+      370.65
+    ],
+    "bbox_coco": [
+      151.05,
+      323.74,
+      87.58,
+      46.91
+    ],
+    "text": "71A-196.73",
+    "raw_ocr": [
+      "71A",
+      "196.73"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.87
+  },
+  {
+    "image_id": "source_b/-annguyen3528_2825_jpg.rf.22fc4d2b4d61afa5e9b97276ed9f7c40.jpg",
+    "file_name": "-annguyen3528_2825_jpg.rf.22fc4d2b4d61afa5e9b97276ed9f7c40.jpg",
+    "ann_id": 20,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      373.75,
+      320.32,
+      463.13,
+      368.45
+    ],
+    "bbox_coco": [
+      373.75,
+      320.32,
+      89.38,
+      48.13
+    ],
+    "text": "60A-953.77",
+    "raw_ocr": [
+      "G0A",
+      "953.77"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.86
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3933_jpg.rf.935f76f5b851f4999fc0710deee0cf32.jpg",
+    "file_name": "-annguyen3528_3933_jpg.rf.935f76f5b851f4999fc0710deee0cf32.jpg",
+    "ann_id": 26,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      549.65,
+      328.46,
+      623.48,
+      368.42
+    ],
+    "bbox_coco": [
+      549.65,
+      328.46,
+      73.83,
+      39.96
+    ],
+    "text": "47A-462.01",
+    "raw_ocr": [
+      "47A",
+      "462.01"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.85
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3273_jpg.rf.fea6c720c6e12e0093cba223bb2e0002.jpg",
+    "file_name": "-annguyen3528_3273_jpg.rf.fea6c720c6e12e0093cba223bb2e0002.jpg",
+    "ann_id": 136,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      456.48,
+      337.85,
+      546.64,
+      430.27
+    ],
+    "bbox_coco": [
+      456.48,
+      337.85,
+      90.16,
+      92.42
+    ],
+    "text": "78G1-0785",
+    "raw_ocr": [
+      "78-G1",
+      "L0785"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.98
+  },
+  {
+    "image_id": "source_b/-annguyen3528_4560_jpg.rf.172d1fca3f533ae380a87bb750d8f27e.jpg",
+    "file_name": "-annguyen3528_4560_jpg.rf.172d1fca3f533ae380a87bb750d8f27e.jpg",
+    "ann_id": 21,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      289.87,
+      384.58,
+      344.52,
+      414.81
+    ],
+    "bbox_coco": [
+      289.87,
+      384.58,
+      54.65,
+      30.23
+    ],
+    "text": "87669",
+    "raw_ocr": [
+      "87669"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.81
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3932_jpg.rf.153415dfdd0c250d3448d7c32db969a2.jpg",
+    "file_name": "-annguyen3528_3932_jpg.rf.153415dfdd0c250d3448d7c32db969a2.jpg",
+    "ann_id": 184,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      277.15,
+      300.77,
+      350.35,
+      341.12
+    ],
+    "bbox_coco": [
+      277.15,
+      300.77,
+      73.2,
+      40.35
+    ],
+    "text": "47A-462.01",
+    "raw_ocr": [
+      "47A",
+      "462.01"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.81
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3859_jpg.rf.b87c392f2d3a5ee717b878623c87f577.jpg",
+    "file_name": "-annguyen3528_3859_jpg.rf.b87c392f2d3a5ee717b878623c87f577.jpg",
+    "ann_id": 216,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      226.26,
+      305.53,
+      299.07,
+      345.73
+    ],
+    "bbox_coco": [
+      226.26,
+      305.53,
+      72.81,
+      40.2
+    ],
+    "text": "7A-377.31",
+    "raw_ocr": [
+      "7A",
+      "37731"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.81
+  },
+  {
+    "image_id": "source_b/-annguyen3528_1564_jpg.rf.92a0b319d8098f539bfb5c1c436acbdd.jpg",
+    "file_name": "-annguyen3528_1564_jpg.rf.92a0b319d8098f539bfb5c1c436acbdd.jpg",
+    "ann_id": 81,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      204.62,
+      402.89,
+      311.65,
+      462.73
+    ],
+    "bbox_coco": [
+      204.62,
+      402.89,
+      107.03,
+      59.84
+    ],
+    "text": "50E-106.67",
+    "raw_ocr": [
+      "50E",
+      "106.67"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.79
+  },
+  {
+    "image_id": "source_b/-annguyen3528_6151_jpg.rf.8ff9432f353e5d511de9e350a48515c8.jpg",
+    "file_name": "-annguyen3528_6151_jpg.rf.8ff9432f353e5d511de9e350a48515c8.jpg",
+    "ann_id": 298,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      225.0,
+      353.0,
+      277.0,
+      382.0
+    ],
+    "bbox_coco": [
+      225.0,
+      353.0,
+      52.0,
+      29.0
+    ],
+    "text": "26868",
+    "raw_ocr": [
+      "26868"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.79
+  },
+  {
+    "image_id": "source_b/-annguyen3528_637_jpg.rf.390312efc4b86dea097e1520685dcc23.jpg",
+    "file_name": "-annguyen3528_637_jpg.rf.390312efc4b86dea097e1520685dcc23.jpg",
+    "ann_id": 53,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      226.88,
+      485.11,
+      388.13,
+      575.5
+    ],
+    "bbox_coco": [
+      226.88,
+      485.11,
+      161.25,
+      90.39
+    ],
+    "text": "51G-781.43",
+    "raw_ocr": [
+      "51G",
+      "781.43"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.78
+  },
+  {
+    "image_id": "source_b/-annguyen3528_4581_jpg.rf.4024e1475b459d718693f5fd534353ba.jpg",
+    "file_name": "-annguyen3528_4581_jpg.rf.4024e1475b459d718693f5fd534353ba.jpg",
+    "ann_id": 17,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      273.63,
+      385.71,
+      345.43,
+      426.18
+    ],
+    "bbox_coco": [
+      273.63,
+      385.71,
+      71.8,
+      40.47
+    ],
+    "text": "77B-016.69",
+    "raw_ocr": [
+      "778",
+      "016.69"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.77
+  },
+  {
+    "image_id": "source_b/-annguyen3528_3066_jpg.rf.b9ce24d48080068216777955449befc3.jpg",
+    "file_name": "-annguyen3528_3066_jpg.rf.b9ce24d48080068216777955449befc3.jpg",
+    "ann_id": 264,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      392.31,
+      401.13,
+      477.7,
+      449.49
+    ],
+    "bbox_coco": [
+      392.31,
+      401.13,
+      85.39,
+      48.36
+    ],
+    "text": "51M-031.13",
+    "raw_ocr": [
+      "51M",
+      "031.13"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.77
+  }
+]

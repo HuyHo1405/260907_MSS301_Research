@@ -16,6 +16,7 @@ class RapidOCRRecognizer:
     def __init__(self, target_height=96):
         self.target_height = target_height
         self.engine = RapidOCR(
+            det_model_path=None,
             det_limit_side_len=320,
             det_limit_type='max',
             det_donot_use_dilation=True
