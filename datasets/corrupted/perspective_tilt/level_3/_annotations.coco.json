@@ -1,0 +1,158 @@
+{
+  "info": {
+    "year": "2026",
+    "version": "8",
+    "description": "Exported from roboflow.com",
+    "contributor": "",
+    "url": "https://public.roboflow.com/object-detection/undefined",
+    "date_created": "2026-10-31T11:47:29+00:00"
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "url": "https://choosealicense.com/licenses/mit/",
+      "name": "MIT"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "license-plate",
+      "supercategory": "none"
+    },
+    {
+      "id": 1,
+      "name": "license-plate",
+      "supercategory": "license-plate"
+    }
+  ],
+  "images": [
+    {
+      "id": 0,
+      "license": 1,
+      "file_name": "-annguyen3528_3212_jpg.rf.b33a45e6d379cf2314a939c731adf936.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-10-31T11:47:29+00:00",
+      "extra": {
+        "name": "-annguyen3528_3212.jpg"
+      },
+      "split": "test"
+    },
+    {
+      "id": 1,
+      "license": 1,
+      "file_name": "-annguyen3528_7502_jpg.rf.348914d66fa95f00c9afd4a46c2d6e1f.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-10-31T11:47:29+00:00",
+      "extra": {
+        "name": "-annguyen3528_7502.jpg"
+      },
+      "split": "test"
+    },
+    {
+      "id": 2,
+      "license": 1,
+      "file_name": "-annguyen3528_3075_jpg.rf.01e790f607c25c496f5a77059e11b001.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-10-31T11:47:29+00:00",
+      "extra": {
+        "name": "-annguyen3528_3075.jpg"
+      },
+      "split": "test"
+    },
+    {
+      "id": 3,
+      "license": 1,
+      "file_name": "-annguyen3528_110_jpg.rf.25f2112faeca2f06880a6a0e77a29883.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-10-31T11:47:29+00:00",
+      "extra": {
+        "name": "-annguyen3528_110.jpg"
+      },
+      "split": "test"
+    },
+    {
+      "id": 4,
+      "license": 1,
+      "file_name": "-annguyen3528_8173_jpg.rf.8a4c779d3fed558c53c8a4c4ee8194a1.jpg",
+      "height": 640,
+      "width": 640,
+      "date_captured": "2026-10-31T11:47:29+00:00",
+      "extra": {
+        "name": "-annguyen3528_8173.jpg"
+      },
+      "split": "test"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 1,
+      "bbox": [
+        196.98,
+        286.87,
+        39.22,
+        33.38
+      ],
+      "iscrowd": 0,
+      "area": 1309.16,
+      "segmentation": [],
+      "bbox_xyxy": [
+        196.98,
+        286.87,
+        236.2,
+        320.25
+      ]
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        121.73,
+        373.89,
+        71.55,
+        40.65
+      ],
+      "iscrowd": 0,
+      "area": 2908.51,
+      "segmentation": [],
+      "bbox_xyxy": [
+        121.73,
+        373.89,
+        193.28,
+        414.54
+      ]
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        4.58,
+        482.44,
+        43.83,
+        37.3
+      ],
+      "iscrowd": 0,
+      "area": 1634.86,
+      "segmentation": [],
+      "bbox_xyxy": [
+        4.58,
+        482.44,
+        48.41,
+        519.74
+      ]
+    }
+  ],
+  "corruption": {
+    "scenario": "perspective_tilt",
+    "severity": 3,
+    "source": "Source A (synthetic)"
+  }
+}

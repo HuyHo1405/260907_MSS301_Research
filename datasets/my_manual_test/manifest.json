@@ -1,0 +1,90 @@
+{
+  "source_annotations": "datasets\\eval_set\\_annotations.coco.json",
+  "source_image_dir": "datasets\\eval_set\\images",
+  "total_source_images": 322,
+  "processed_sample_size": 3,
+  "seed": 42,
+  "datasets": [
+    {
+      "name": "perspective_tilt_level_1",
+      "scenario": "perspective_tilt",
+      "severity": 1,
+      "image_count": 3,
+      "annotation_count": 3,
+      "image_dir": "datasets\\my_manual_test\\perspective_tilt\\level_1\\images",
+      "annotations_file": "datasets\\my_manual_test\\perspective_tilt\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "perspective_tilt_level_2",
+      "scenario": "perspective_tilt",
+      "severity": 2,
+      "image_count": 3,
+      "annotation_count": 3,
+      "image_dir": "datasets\\my_manual_test\\perspective_tilt\\level_2\\images",
+      "annotations_file": "datasets\\my_manual_test\\perspective_tilt\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "perspective_tilt_level_3",
+      "scenario": "perspective_tilt",
+      "severity": 3,
+      "image_count": 3,
+      "annotation_count": 3,
+      "image_dir": "datasets\\my_manual_test\\perspective_tilt\\level_3\\images",
+      "annotations_file": "datasets\\my_manual_test\\perspective_tilt\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "overexposure_level_1",
+      "scenario": "overexposure",
+      "severity": 1,
+      "image_count": 3,
+      "annotation_count": 3,
+      "image_dir": "datasets\\my_manual_test\\overexposure\\level_1\\images",
+      "annotations_file": "datasets\\my_manual_test\\overexposure\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "overexposure_level_2",
+      "scenario": "overexposure",
+      "severity": 2,
+      "image_count": 3,
+      "annotation_count": 3,
+      "image_dir": "datasets\\my_manual_test\\overexposure\\level_2\\images",
+      "annotations_file": "datasets\\my_manual_test\\overexposure\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "overexposure_level_3",
+      "scenario": "overexposure",
+      "severity": 3,
+      "image_count": 3,
+      "annotation_count": 3,
+      "image_dir": "datasets\\my_manual_test\\overexposure\\level_3\\images",
+      "annotations_file": "datasets\\my_manual_test\\overexposure\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "rain_streaks_level_1",
+      "scenario": "rain_streaks",
+      "severity": 1,
+      "image_count": 3,
+      "annotation_count": 3,
+      "image_dir": "datasets\\my_manual_test\\rain_streaks\\level_1\\images",
+      "annotations_file": "datasets\\my_manual_test\\rain_streaks\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "rain_streaks_level_2",
+      "scenario": "rain_streaks",
+      "severity": 2,
+      "image_count": 3,
+      "annotation_count": 3,
+      "image_dir": "datasets\\my_manual_test\\rain_streaks\\level_2\\images",
+      "annotations_file": "datasets\\my_manual_test\\rain_streaks\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "rain_streaks_level_3",
+      "scenario": "rain_streaks",
+      "severity": 3,
+      "image_count": 3,
+      "annotation_count": 3,
+      "image_dir": "datasets\\my_manual_test\\rain_streaks\\level_3\\images",
+      "annotations_file": "datasets\\my_manual_test\\rain_streaks\\level_3\\_annotations.coco.json"
+    }
+  ]
+}

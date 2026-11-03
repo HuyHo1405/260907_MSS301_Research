@@ -10,7 +10,35 @@ python -m unittest discover -s tests -p "test_metrics.py" -v
 python -m evaluation.demo_metrics
 ```
 
-Thư mục chứa các công cụ đo lường và thẩm định mô hình AI khi triển khai trên thiết bị phần cứng thực tế (Edge Hardware: Raspberry Pi 4, Jetson Orin Nano, máy trạm cục bộ).
+---
+
+## 🌪️ Bộ Sinh Nhiễu Nhân Tạo & CLI Batch Generator (Phase 6 — Hy)
+
+Module `evaluation/corruptions.py` hỗ trợ 4 nhóm nhiễu với 10 kịch bản thực tế, chia thành 3 cấp độ (Level 1 $\rightarrow$ 3), tự động cập nhật Bounding Box khi biến đổi hình học:
+
+- **Quang Học & Ánh Sáng**: `low_light`, `overexposure`, `uneven_shadows`
+- **Mờ & Chuyển Động**: `motion_blur`, `defocus_blur`
+- **Thời Tiết & Truyền Dẫn**: `rain_streaks`, `sensor_noise`, `jpeg_compression`
+- **Hình Học & Vật Lý**: `perspective_tilt` (tự động re-project BBox), `partial_occlusion`
+
+### Chạy Unit Test kiểm thử bộ sinh nhiễu:
+```powershell
+python -m unittest discover -s tests -p "test_corruptions.py" -v
+```
+
+### Chạy CLI sinh batch dữ liệu ảnh nhiễu:
+```powershell
+# Chạy mẫu thử nghiệm (5 ảnh, vẽ kèm BBox trực quan)
+python -m evaluation.corruptions --sample-size 5 --visualize
+
+# Chạy toàn bộ Source A cho cả 10 kịch bản x 3 cấp độ
+python -m evaluation.corruptions --input-dir datasets/eval_set/images --annotations datasets/eval_set/_annotations.coco.json --output-dir datasets/corrupted --scenarios all --severities 1,2,3
+
+# Chạy riêng kịch bản cụ thể
+python -m evaluation.corruptions --scenarios perspective_tilt,overexposure --severities 1,2,3
+```
+
+Dữ liệu đầu ra được lưu tại `datasets/corrupted/{scenario}/level_{1,2,3}/` kèm file `_annotations.coco.json` cập nhật và bảng chỉ mục `datasets/corrupted/manifest.json`.
 
 ---
 
@@ -33,7 +61,7 @@ Thư mục chứa các công cụ đo lường và thẩm định mô hình AI k
 
 ---
 
-## 🚀 Cách Chạy Benchmark
+## 🚀 Cách Chạy Benchmark Cũ (Phase 1-5)
 
 ```bash
 # Đo đạc mô hình ONNX

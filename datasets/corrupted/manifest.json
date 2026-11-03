@@ -1,0 +1,279 @@
+{
+  "source_annotations": "datasets\\eval_set\\_annotations.coco.json",
+  "source_image_dir": "datasets\\eval_set\\images",
+  "total_source_images": 322,
+  "processed_sample_size": 5,
+  "seed": 42,
+  "datasets": [
+    {
+      "name": "low_light_level_1",
+      "scenario": "low_light",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\low_light\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\low_light\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "low_light_level_2",
+      "scenario": "low_light",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\low_light\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\low_light\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "low_light_level_3",
+      "scenario": "low_light",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\low_light\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\low_light\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "overexposure_level_1",
+      "scenario": "overexposure",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\overexposure\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\overexposure\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "overexposure_level_2",
+      "scenario": "overexposure",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\overexposure\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\overexposure\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "overexposure_level_3",
+      "scenario": "overexposure",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\overexposure\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\overexposure\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "uneven_shadows_level_1",
+      "scenario": "uneven_shadows",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\uneven_shadows\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\uneven_shadows\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "uneven_shadows_level_2",
+      "scenario": "uneven_shadows",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\uneven_shadows\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\uneven_shadows\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "uneven_shadows_level_3",
+      "scenario": "uneven_shadows",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\uneven_shadows\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\uneven_shadows\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "motion_blur_level_1",
+      "scenario": "motion_blur",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\motion_blur\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\motion_blur\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "motion_blur_level_2",
+      "scenario": "motion_blur",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\motion_blur\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\motion_blur\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "motion_blur_level_3",
+      "scenario": "motion_blur",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\motion_blur\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\motion_blur\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "defocus_blur_level_1",
+      "scenario": "defocus_blur",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\defocus_blur\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\defocus_blur\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "defocus_blur_level_2",
+      "scenario": "defocus_blur",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\defocus_blur\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\defocus_blur\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "defocus_blur_level_3",
+      "scenario": "defocus_blur",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\defocus_blur\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\defocus_blur\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "rain_streaks_level_1",
+      "scenario": "rain_streaks",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\rain_streaks\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\rain_streaks\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "rain_streaks_level_2",
+      "scenario": "rain_streaks",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\rain_streaks\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\rain_streaks\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "rain_streaks_level_3",
+      "scenario": "rain_streaks",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\rain_streaks\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\rain_streaks\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "sensor_noise_level_1",
+      "scenario": "sensor_noise",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\sensor_noise\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\sensor_noise\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "sensor_noise_level_2",
+      "scenario": "sensor_noise",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\sensor_noise\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\sensor_noise\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "sensor_noise_level_3",
+      "scenario": "sensor_noise",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\sensor_noise\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\sensor_noise\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "jpeg_compression_level_1",
+      "scenario": "jpeg_compression",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\jpeg_compression\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\jpeg_compression\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "jpeg_compression_level_2",
+      "scenario": "jpeg_compression",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\jpeg_compression\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\jpeg_compression\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "jpeg_compression_level_3",
+      "scenario": "jpeg_compression",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\jpeg_compression\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\jpeg_compression\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "perspective_tilt_level_1",
+      "scenario": "perspective_tilt",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\perspective_tilt\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\perspective_tilt\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "perspective_tilt_level_2",
+      "scenario": "perspective_tilt",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\perspective_tilt\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\perspective_tilt\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "perspective_tilt_level_3",
+      "scenario": "perspective_tilt",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\perspective_tilt\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\perspective_tilt\\level_3\\_annotations.coco.json"
+    },
+    {
+      "name": "partial_occlusion_level_1",
+      "scenario": "partial_occlusion",
+      "severity": 1,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\partial_occlusion\\level_1\\images",
+      "annotations_file": "datasets\\corrupted\\partial_occlusion\\level_1\\_annotations.coco.json"
+    },
+    {
+      "name": "partial_occlusion_level_2",
+      "scenario": "partial_occlusion",
+      "severity": 2,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\partial_occlusion\\level_2\\images",
+      "annotations_file": "datasets\\corrupted\\partial_occlusion\\level_2\\_annotations.coco.json"
+    },
+    {
+      "name": "partial_occlusion_level_3",
+      "scenario": "partial_occlusion",
+      "severity": 3,
+      "image_count": 5,
+      "annotation_count": 3,
+      "image_dir": "datasets\\corrupted\\partial_occlusion\\level_3\\images",
+      "annotations_file": "datasets\\corrupted\\partial_occlusion\\level_3\\_annotations.coco.json"
+    }
+  ]
+}
