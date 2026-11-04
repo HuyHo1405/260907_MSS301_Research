@@ -1,5 +1,10 @@
 # 📊 Đánh Giá & Benchmark Hiệu Năng (Model Evaluation)
 
+## Báo cáo, ảnh lỗi và Docker — Triết
+
+Xem [REPORTING.md](REPORTING.md) để chạy demo, định dạng JSON cho runner của Khôi
+và lệnh xuất báo cáo thật. Chạy nhanh: `python -m evaluation.demo_report`.
+
 ## Bộ chỉ số độc lập (Phase 6 — Tuấn)
 
 Xem [METRICS.md](METRICS.md) để biết định dạng dữ liệu, quy ước AP/OCR và cách

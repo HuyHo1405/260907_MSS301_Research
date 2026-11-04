@@ -1,0 +1,15 @@
+services:
+  benchmark:
+    build:
+      context: .
+      dockerfile: Dockerfile.benchmark
+    # Native architecture by default. CPU/RAM limits do not emulate ARM speed.
+    cpus: 4.0
+    mem_limit: 2048m
+    environment:
+      OMP_NUM_THREADS: '4'
+      OPENBLAS_NUM_THREADS: '4'
+    volumes:
+      - ./datasets:/app/datasets:ro
+      - ./output:/app/output
+    command: ["python", "-m", "evaluation.demo_report"]

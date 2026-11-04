@@ -1,0 +1,14 @@
+FROM python:3.10.16-slim-bookworm
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 MPLBACKEND=Agg \
+    OMP_NUM_THREADS=4 OPENBLAS_NUM_THREADS=4
+WORKDIR /app
+RUN apt-get update && apt-get install -y --no-install-recommends libglib2.0-0 libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
+COPY requirements_edge.txt requirements_report.txt ./
+RUN pip install --no-cache-dir -r requirements_edge.txt -r requirements_report.txt
+COPY evaluation/ ./evaluation/
+COPY pipeline/ ./pipeline/
+COPY samples/ ./samples/
+COPY weights/best.onnx weights/best_int8.onnx ./weights/
+RUN mkdir -p /app/output /app/datasets
+CMD ["python", "-m", "evaluation.demo_report"]
