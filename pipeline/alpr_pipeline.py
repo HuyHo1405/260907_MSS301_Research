@@ -24,10 +24,10 @@ class ALPRPipeline:
     Core Pipeline nghiên cứu nhận diện biển số xe (Two-Stage: Detection + Recognition).
     Thiết kế dạng Plug-and-Play để dễ dàng hoán đổi giữa các engine OCR và đo đạc benchmark.
     """
-    def __init__(self, detector_weights='weights/best.pt', engine='paddle', lpr_weights='weights/lprnet.pth', conf_threshold=0.25, device=None):
+    def __init__(self, detector_weights='weights/best.pt', engine='paddle', lpr_weights='weights/lprnet.pth', conf_threshold=0.25, device=None, *, imgsz=640, num_threads=4, iou_threshold=0.45):
         print(f"[*] Khoi tao ALPRPipeline [Detector: YOLOv8 | OCR Engine: {engine.upper()}]...")
         if detector_weights.endswith('.onnx'):
-            self.detector = ONNXPlateDetector(weights_path=detector_weights, conf_threshold=conf_threshold)
+            self.detector = ONNXPlateDetector(weights_path=detector_weights, conf_threshold=conf_threshold, imgsz=imgsz, num_threads=num_threads, iou_threshold=iou_threshold)
         else:
             if YOLOPlateDetector is None:
                 raise ImportError("Cần cài đặt ultralytics và torch để chạy mô hình PyTorch .pt. Trong môi trường Edge/Docker siêu nhẹ, vui lòng nạp weights dạng .onnx (VD: weights/best_int8.onnx)!")
@@ -45,7 +45,7 @@ class ALPRPipeline:
 
         print("[+] ALPRPipeline da san sang thuc nghiem!")
 
-    def predict(self, image_input):
+    def predict(self, image_input, *, profile=False, annotate=True, fallback_ocr=True, ocr_conf_threshold=None):
         """
         Thực hiện dự đoán end-to-end trên 1 ảnh.
         Input: image_input (str đường dẫn ảnh hoặc numpy.ndarray BGR)
@@ -65,7 +65,9 @@ class ALPRPipeline:
         else:
             raise TypeError("Đầu vào phải là đường dẫn ảnh (str) hoặc cv2 image array (numpy.ndarray).")
 
-        annotated_img = img.copy()
+        started = time.perf_counter()
+        ocr_wall_ms = 0.0
+        annotated_img = img.copy() if annotate else img
         results = []
 
         # 1. Detection Stage
@@ -76,7 +78,12 @@ class ALPRPipeline:
         if len(boxes) > 0:
             for idx, (box, conf, roi) in enumerate(zip(boxes, confs, rois)):
                 # 2. Recognition Stage
-                raw_ocr, formatted_plate, ocr_time_ms = self.recognizer.recognize(roi)
+                ocr_started = time.perf_counter()
+                if ocr_conf_threshold is None or conf >= ocr_conf_threshold:
+                    raw_ocr, formatted_plate, ocr_time_ms = self.recognizer.recognize(roi)
+                else:
+                    raw_ocr, formatted_plate, ocr_time_ms = [], '', 0.0
+                ocr_wall_ms += (time.perf_counter() - ocr_started) * 1000
                 total_ocr_time_ms += ocr_time_ms
 
                 results.append({
@@ -88,6 +95,9 @@ class ALPRPipeline:
                     'ocr_time_ms': ocr_time_ms
                 })
 
+                if not annotate:
+                    continue
+
                 # 3. Vẽ nhãn lên ảnh
                 x1, y1, x2, y2 = box
                 cv2.rectangle(annotated_img, (x1, y1), (x2, y2), (0, 255, 0), 2)
@@ -96,9 +106,11 @@ class ALPRPipeline:
                 cv2.rectangle(annotated_img, (x1, max(0, y1 - 28)), (x1 + tw + 10, y1), (0, 255, 0), -1)
                 cv2.putText(annotated_img, label, (x1 + 5, max(15, y1 - 8)), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 0, 0), 2)
 
-        else:
+        elif fallback_ocr:
             # Fallback: Nếu không bắt được khung, thử OCR toàn cảnh
+            ocr_started = time.perf_counter()
             raw_ocr, formatted_plate, ocr_time_ms = self.recognizer.recognize(img)
+            ocr_wall_ms += (time.perf_counter() - ocr_started) * 1000
             total_ocr_time_ms += ocr_time_ms
             if formatted_plate:
                 results.append({
@@ -109,7 +121,8 @@ class ALPRPipeline:
                     'formatted_plate': formatted_plate,
                     'ocr_time_ms': ocr_time_ms
                 })
-                cv2.putText(annotated_img, f"Biển số: {formatted_plate}", (20, 40), cv2.FONT_HERSHEY_SIMPLEX, 1.0, (0, 255, 0), 2)
+                if annotate:
+                    cv2.putText(annotated_img, f"Biển số: {formatted_plate}", (20, 40), cv2.FONT_HERSHEY_SIMPLEX, 1.0, (0, 255, 0), 2)
 
         total_time_ms = det_time_ms + total_ocr_time_ms
         fps = (1000.0 / total_time_ms) if total_time_ms > 0 else 0.0
@@ -121,4 +134,10 @@ class ALPRPipeline:
             'fps': fps
         }
 
+        if profile:
+            stages = dict(self.detector.last_profile)
+            stages['ocr_ms'] = ocr_wall_ms
+            end_to_end = (time.perf_counter() - started) * 1000
+            stages['overhead_ms'] = end_to_end - sum(stages.values())
+            latency.update(end_to_end_ms=end_to_end, stages_ms=stages)
         return annotated_img, results, latency

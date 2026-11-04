@@ -46,6 +46,11 @@ class ONNXPlateDetector:
         self.session = ort.InferenceSession(resolved_path, sess_options=opts, providers=['CPUExecutionProvider'])
         self.input_name = self.session.get_inputs()[0].name
         self.output_name = self.session.get_outputs()[0].name
+        shape = self.session.get_inputs()[0].shape
+        for actual, requested in zip(shape[-2:], self.input_shape):
+            if isinstance(actual, int) and actual != requested:
+                raise ValueError(f'ONNX static input {shape} incompatible with {self.input_shape}')
+        self.last_profile = {}
 
     @staticmethod
     def letterbox(im, new_shape=(640, 640), color=(114, 114, 114)):
@@ -75,6 +80,7 @@ class ONNXPlateDetector:
           - rois: List các ảnh con cắt vùng biển số
           - duration_ms: Thời gian suy luận (ms)
         """
+        self.last_profile = dict.fromkeys(('preprocess_ms', 'detection_ms', 'postprocess_ms', 'crop_roi_ms'), 0.0)
         if img is None or img.size == 0:
             return [], [], [], 0.0
 
@@ -86,9 +92,13 @@ class ONNXPlateDetector:
         rgb_img = cv2.cvtColor(lb_img, cv2.COLOR_BGR2RGB)
         input_tensor = rgb_img.transpose(2, 0, 1)[np.newaxis, ...].astype(np.float32) / 255.0
 
+        preprocess_end = time.perf_counter()
+        self.last_profile['preprocess_ms'] = (preprocess_end - t0) * 1000
         # 2. Forward inference ONNX
         outputs = self.session.run([self.output_name], {self.input_name: input_tensor})[0]
 
+        inference_end = time.perf_counter()
+        self.last_profile['detection_ms'] = (inference_end - preprocess_end) * 1000
         # 3. Postprocessing & NMS:
         # outputs shape: [1, 5, 8400] -> transpose to [8400, 5]
         predictions = np.squeeze(outputs).T
@@ -134,11 +144,15 @@ class ONNXPlateDetector:
                     orig_x2 = max(0, min(w, int(round((b[0] + b[2] - dw) / r))))
                     orig_y2 = max(0, min(h, int(round((b[1] + b[3] - dh) / r))))
 
+                    crop_start = time.perf_counter()
                     roi = img[orig_y1:orig_y2, orig_x1:orig_x2]
+                    self.last_profile['crop_roi_ms'] += (time.perf_counter() - crop_start) * 1000
                     if roi.size > 0:
                         boxes.append([orig_x1, orig_y1, orig_x2, orig_y2])
                         confidences.append(conf)
                         rois.append(roi)
 
         duration_ms = (time.perf_counter() - t0) * 1000.0
+        self.last_profile['postprocess_ms'] = ((time.perf_counter() - inference_end) * 1000
+                                               - self.last_profile['crop_roi_ms'])
         return boxes, confidences, rois, duration_ms

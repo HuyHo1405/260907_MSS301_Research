@@ -130,3 +130,21 @@ Kế hoạch phân bổ cho nhóm 6 thành viên tập trung vào khâu **chuẩ
 4. Script `run_benchmark.py` nạp được toàn bộ dataset, đo đạc latency/RAM và xuất kết quả thực nghiệm tự động cho cả FP32 và INT8.
 5. Module `visualizer.py` và `error_analysis.py` vẽ được đồ thị suy giảm độ bền bỉ, radar chart và trích xuất các ca nhận diện sai (Failure Cases).
 6. Toàn bộ quy trình kiểm thử benchmark được đóng gói trong Docker, có thể tái lập thực nghiệm tự động bằng một dòng lệnh trên môi trường mô phỏng Raspberry Pi 4.
+
+
+---
+
+## 7. Các điểm cần làm rõ trước khi chạy benchmark chính thức
+
+Các nội dung dưới đây cần được thống nhất để xác định phạm vi thực nghiệm và tiêu chí nghiệm thu runner. Phương án triển khai hiện tại được mô tả trong [spec Benchmark Runner & Profiler](../.spec/2026-11-04-khoi-benchmark-runner.md).
+
+| Nội dung | Hiện trạng / phương án trong spec | Điểm cần xác định |
+|---|---|---|
+| Phạm vi dataset | Source A hiện nằm tại datasets/eval_set; manifest nhiễu ghi 5 ảnh đã xử lý trên 322 ảnh nguồn. Runner dự kiến đọc danh sách ảnh và thống kê số ảnh xử lý theo từng cấu hình. | Danh sách và phiên bản dataset dùng cho nghiệm thu: Source A sạch, các tập nhiễu và Source B; số ảnh dự kiến của từng tập. |
+| Phạm vi đánh giá | Runner thực hiện inference, profiling và xuất dữ liệu thô; accuracy sử dụng module metrics. Nhãn Source A còn UNKNOWN và dữ liệu được sinh nhãn bằng OCR. | Accuracy OCR có bắt buộc trong lần bàn giao runner hay được nghiệm thu sau khi hoàn thiện nhãn; phạm vi chấp nhận của kết quả chỉ có inference/profiling. |
+| Định nghĩa latency | Spec tách preprocess, ONNX inference, postprocess/NMS, crop ROI và OCR. Total đo thời gian predict trên ảnh đã đọc; I/O đo riêng; chế độ benchmark tắt vẽ và OCR fallback. | Ranh giới Detection và Total, đặc biệt việc tính NMS, đọc ảnh, vẽ kết quả và OCR fallback vào thời gian báo cáo. |
+| Định nghĩa Peak RAM | Spec dùng RSS của process, đơn vị MiB; ghi peak toàn lần chạy và peak pha inference. Giá trị được lấy mẫu định kỳ. | Phạm vi RAM nghiệm thu: process hay container; có bao gồm load model/warmup không; đơn vị và cách trình bày giới hạn của phép đo lấy mẫu. |
+| Môi trường và mục tiêu hiệu năng | Spec ghi cấu hình phần cứng/runtime và sử dụng cùng điều kiện khi so FP32/INT8. Docker hiện giới hạn 4 CPU và 2048m; chưa có ngưỡng latency/RAM trong phân công. | Máy đo chính thức và việc có áp dụng ngưỡng hiệu năng để nghiệm thu hay chỉ báo cáo số đo. Kết quả trên PC giới hạn tài nguyên được ghi theo môi trường PC thực tế. |
+| Hợp đồng JSON/CSV | Spec sử dụng schema v1 trong evaluation/REPORTING.md, samples.csv theo ảnh/lần đo và runs.csv tổng hợp. | Các trường bắt buộc, đơn vị, mức chi tiết của CSV và khả năng tương thích với module báo cáo. |
+
+Các tham số vận hành gồm confidence, NMS, threads, warmup, repeats và chu kỳ lấy mẫu RAM được cấu hình trong runner và lưu cùng kết quả. Mỗi báo cáo cần ghi rõ tập ảnh đã chạy, tập nhãn đủ điều kiện tính accuracy và các trường hợp không xử lý được.

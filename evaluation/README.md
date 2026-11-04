@@ -1,5 +1,15 @@
 # 📊 Đánh Giá & Benchmark Hiệu Năng (Model Evaluation)
 
+## Batch Runner & Profiler — Khôi
+
+Xem [BENCHMARK.md](BENCHMARK.md) để chạy ma trận FP32/INT8 × 640/480/320,
+profiling từng công đoạn và xuất raw JSON/CSV. Cấu hình đường dẫn trong
+benchmark_config.json; preflight không khởi tạo mô hình.
+
+```powershell
+python -m evaluation.run_benchmark --preflight-only --output output/preflight
+```
+
 ## Báo cáo, ảnh lỗi và Docker — Triết
 
 Xem [REPORTING.md](REPORTING.md) để chạy demo, định dạng JSON cho runner của Khôi

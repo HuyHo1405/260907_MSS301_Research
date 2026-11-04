@@ -121,5 +121,5 @@ Kết quả là dict/list/số/`None`, dùng được với `json.dumps(..., all
 - `../tests/test_metrics.py`: dữ liệu nhỏ có đáp án tính tay và kiểm thử tích hợp.
 - `demo_metrics.py`: ví dụ chạy độc lập, không cần dataset hay weights.
 
-Nhãn Source A/B và runner chưa có schema JSON thực tế trong repo tại thời điểm
-triển khai. Runner cần chuyển schema của nhóm sang giao diện trên trước khi gọi.
+Runner Phase 6 sử dụng adapter và các hàm metrics trên. Xem
+[BENCHMARK.md](BENCHMARK.md) để kiểm tra dữ liệu, chạy ma trận và xuất JSON/CSV.

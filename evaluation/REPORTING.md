@@ -27,8 +27,8 @@ python -m evaluation.error_analysis --input output/benchmark.json --output outpu
 
 ## Giao diện JSON thống nhất với Khôi
 
-Đây là schema đề xuất vì repo chưa có `run_benchmark.py`. Runner chuyển dữ liệu
-sang schema này; không cần sửa core pipeline. CLI dùng `python -m evaluation...`
+Runner `run_benchmark.py` xuất schema v1 dưới đây; xem thêm
+[BENCHMARK.md](BENCHMARK.md). CLI dùng `python -m evaluation...`
 từ gốc repo. Input là JSON; báo cáo tự xuất cả JSON và CSV.
 
 ```json
@@ -101,7 +101,7 @@ docker compose -f docker-compose.benchmark.yml run --rm benchmark python -m eval
 
 Lệnh đầu chạy demo để kiểm tra đóng gói. Docker image có pipeline ONNX, cả
 weights FP32/INT8, evaluation và thư viện xuất báo cáo; datasets mount read-only,
-output giữ trên máy chủ. Khi runner của Khôi được thêm, build lại image rồi
+output giữ trên máy chủ. Khi cập nhật runner, build lại image rồi
 override command bằng CLI runner đã thống nhất với Khôi.
 
 Giới hạn 4 CPU/2GiB chỉ mô phỏng ngân sách tài nguyên. Trên x86, không gọi kết
