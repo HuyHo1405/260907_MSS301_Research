@@ -36,6 +36,7 @@ graph LR
 6. **[Phase 6: Khung Đánh Giá Robustness & Chuẩn Bị Dữ Liệu Kiểm Thử](doc/phase_6_robustness_benchmark_and_data_preparation.md)**
    - Thiết lập chiến lược dữ liệu 2 nguồn (Source A chuẩn hóa sinh nhiễu vs Source B ảnh thật đối chứng).
    - Xây dựng ma trận 4 nhóm nhiễu (Ánh sáng, Mờ, Thời tiết, Hình học), hệ thống chỉ số mAP, EM, CER và phân rã task 6 người.
+   - Xem thêm **[Báo Cáo Thực Nghiệm Phase 6 (FP32 vs INT8)](doc/phase_6_experiment_report.md)** và **[Nghiệm Thu Source B & QA](doc/phase_6_source_b_field_data_and_qa.md)** (đối chứng trên 300 ảnh Source A clean, 60 ảnh thực địa Source B, và 30 biến thể nhiễu: chênh lệch trung bình `INT8 - FP32` chỉ `-0.09pp mAP@50` và `-0.47pp EM`).
 
 ---
 

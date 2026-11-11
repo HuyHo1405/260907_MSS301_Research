@@ -246,6 +246,86 @@ class TestBatchGenerator(unittest.TestCase):
             tilt_coco = json.load(f)
         self.assertEqual(len(tilt_coco["images"]), 2)
         self.assertEqual(len(tilt_coco["annotations"]), 2)
+        self.assertEqual(tilt_coco["annotations"][0]["original_annotation_id"], 0)
+        self.assertEqual(tilt_coco["annotations"][1]["original_annotation_id"], 1)
+        self.assertIn("homography_matrix", tilt_coco["images"][0])
+        self.assertNotIn("\\", manifest["datasets"][0]["annotations_file"])
+
+    def test_perspective_dropped_box_preserves_lineage_and_loads(self):
+        from pathlib import Path
+        from evaluation.benchmark_data import load_dataset
+
+        coco_data = {
+            "images": [
+                {"id": 1, "file_name": self.img1_name, "width": 150, "height": 100},
+            ],
+            "annotations": [
+                {"id": 10, "image_id": 1, "category_id": 1, "bbox": [-80, -80, 10, 10]},
+                {"id": 20, "image_id": 1, "category_id": 1, "bbox": [30, 30, 50, 25]},
+            ],
+            "categories": [{"id": 1, "name": "license-plate"}],
+        }
+        with open(self.coco_file, "w") as f:
+            json.dump(coco_data, f)
+
+        manifest = CorruptionBatchGenerator(
+            input_dir=self.input_dir,
+            annotations_file=self.coco_file,
+            output_dir=self.output_dir,
+            seed=42,
+        ).generate(scenarios=["perspective_tilt"], severities=[2])
+
+        tilt_coco_path = os.path.join(
+            self.output_dir, "perspective_tilt", "level_2", "_annotations.coco.json"
+        )
+        with open(tilt_coco_path, "r") as f:
+            tilt_coco = json.load(f)
+
+        self.assertEqual(len(tilt_coco["annotations"]), 1)
+        self.assertEqual(tilt_coco["annotations"][0]["original_annotation_id"], 20)
+        self.assertEqual(len(tilt_coco["dropped_annotations"]), 1)
+        self.assertEqual(tilt_coco["dropped_annotations"][0]["original_annotation_id"], 10)
+
+        gt_path = os.path.join(self.temp_dir, "gt.json")
+        gt = [
+            {
+                "file_name": self.img1_name,
+                "ann_id": 10,
+                "width": 150,
+                "height": 100,
+                "class_id": 1,
+                "bbox": [0, 0, 10, 10],
+                "text": "30A-123.45",
+                "layout": "one_line",
+            },
+            {
+                "file_name": self.img1_name,
+                "ann_id": 20,
+                "width": 150,
+                "height": 100,
+                "class_id": 1,
+                "bbox": [30, 30, 80, 55],
+                "text": "51F-999.99",
+                "layout": "one_line",
+            },
+        ]
+        with open(gt_path, "w") as f:
+            json.dump(gt, f)
+        cfg = {
+            "datasets": {
+                "source_a": {
+                    "images": self.input_dir,
+                    "annotations": self.coco_file,
+                    "ground_truth": gt_path,
+                    "labels_verified": True,
+                }
+            }
+        }
+        bundle = load_dataset(
+            Path(self.temp_dir), cfg, "source_a", variant=manifest["datasets"][0]
+        )
+        self.assertEqual(len(bundle["ground_truth"]), 1)
+        self.assertEqual(bundle["ground_truth"][0]["text"], "51F-999.99")
 
 
 if __name__ == "__main__":

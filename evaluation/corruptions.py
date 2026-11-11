@@ -399,19 +399,13 @@ def transform_bbox_perspective(
     ]
 
 
-def apply_perspective_tilt(
+def _warp_perspective_with_mapping(
     image: np.ndarray,
     bboxes: Optional[List[List[float]]] = None,
     severity: int = 1,
     seed: Optional[int] = None,
-) -> Tuple[np.ndarray, List[List[float]]]:
-    """Simulate oblique camera angle / lane tilt (15, 30, 45 degrees).
-
-    Accurately re-projects all BBoxes using the 3x3 homography matrix.
-    Level 1: 15 deg tilt (~0.08 displacement)
-    Level 2: 30 deg tilt (~0.16 displacement)
-    Level 3: 45 deg tilt (~0.25 displacement)
-    """
+) -> Tuple[np.ndarray, List[Optional[List[float]]], List[List[float]]]:
+    """Warp image with perspective tilt and preserve 1-to-1 box index mapping."""
     rng = _get_rng(seed)
     h, w = image.shape[:2]
 
@@ -461,14 +455,29 @@ def apply_perspective_tilt(
         image, matrix, (w, h), borderMode=cv2.BORDER_REFLECT
     )
 
-    transformed_bboxes: List[List[float]] = []
-    if bboxes:
-        for box in bboxes:
-            new_box = transform_bbox_perspective(box, matrix, w, h)
-            if new_box is not None:
-                transformed_bboxes.append(new_box)
+    mapped_bboxes: List[Optional[List[float]]] = [
+        transform_bbox_perspective(box, matrix, w, h) for box in (bboxes or [])
+    ]
+    return warped_img, mapped_bboxes, matrix.tolist()
 
-    return warped_img, transformed_bboxes
+
+def apply_perspective_tilt(
+    image: np.ndarray,
+    bboxes: Optional[List[List[float]]] = None,
+    severity: int = 1,
+    seed: Optional[int] = None,
+) -> Tuple[np.ndarray, List[List[float]]]:
+    """Simulate oblique camera angle / lane tilt (15, 30, 45 degrees).
+
+    Accurately re-projects all BBoxes using the 3x3 homography matrix.
+    Level 1: 15 deg tilt (~0.08 displacement)
+    Level 2: 30 deg tilt (~0.16 displacement)
+    Level 3: 45 deg tilt (~0.25 displacement)
+    """
+    warped_img, mapped_bboxes, _ = _warp_perspective_with_mapping(
+        image, bboxes=bboxes, severity=severity, seed=seed
+    )
+    return warped_img, [box for box in mapped_bboxes if box is not None]
 
 
 def apply_partial_occlusion(
@@ -545,6 +554,55 @@ def apply_partial_occlusion(
 # ---------------------------------------------------------------------------
 
 
+def apply_corruption_with_mapping(
+    scenario: str,
+    severity: int,
+    image: np.ndarray,
+    bboxes: Optional[List[List[float]]] = None,
+    seed: Optional[int] = None,
+) -> Tuple[np.ndarray, List[Optional[List[float]]], Dict[str, Any]]:
+    """Apply corruption and return 1-to-1 indexed box mapping (None if dropped) and metadata."""
+    if scenario not in ALL_SCENARIOS:
+        raise ValueError(
+            f"Unknown scenario '{scenario}'. Available: {ALL_SCENARIOS}"
+        )
+    if severity not in SEVERITY_LEVELS:
+        raise ValueError(
+            f"Severity must be in {SEVERITY_LEVELS}, got {severity}"
+        )
+
+    current_bboxes: List[Optional[List[float]]] = (
+        copy.deepcopy(bboxes) if bboxes is not None else []
+    )
+    metadata: Dict[str, Any] = {}
+
+    if scenario == "low_light":
+        return apply_low_light(image, severity, seed), current_bboxes, metadata
+    if scenario == "overexposure":
+        return apply_overexposure(image, current_bboxes, severity, seed), current_bboxes, metadata
+    if scenario == "uneven_shadows":
+        return apply_uneven_shadows(image, current_bboxes, severity, seed), current_bboxes, metadata
+    if scenario == "motion_blur":
+        return apply_motion_blur(image, severity, seed), current_bboxes, metadata
+    if scenario == "defocus_blur":
+        return apply_defocus_blur(image, severity, seed), current_bboxes, metadata
+    if scenario == "rain_streaks":
+        return apply_rain_streaks(image, severity, seed), current_bboxes, metadata
+    if scenario == "sensor_noise":
+        return apply_sensor_noise(image, severity, seed), current_bboxes, metadata
+    if scenario == "jpeg_compression":
+        return apply_jpeg_compression(image, severity, seed), current_bboxes, metadata
+    if scenario == "perspective_tilt":
+        warped, mapped, matrix = _warp_perspective_with_mapping(
+            image, bboxes=current_bboxes, severity=severity, seed=seed
+        )
+        metadata["homography_matrix"] = matrix
+        return warped, mapped, metadata
+    if scenario == "partial_occlusion":
+        return apply_partial_occlusion(image, current_bboxes, severity, seed), current_bboxes, metadata
+    raise NotImplementedError(f"Scenario {scenario} not implemented")
+
+
 def apply_corruption(
     scenario: str,
     severity: int,
@@ -565,39 +623,14 @@ def apply_corruption(
         Tuple of (corrupted_image, transformed_bboxes).
         For all non-geometric scenarios, transformed_bboxes is identical to bboxes.
     """
-    if scenario not in ALL_SCENARIOS:
-        raise ValueError(
-            f"Unknown scenario '{scenario}'. Available: {ALL_SCENARIOS}"
-        )
-    if severity not in SEVERITY_LEVELS:
-        raise ValueError(
-            f"Severity must be in {SEVERITY_LEVELS}, got {severity}"
-        )
-
-    current_bboxes = copy.deepcopy(bboxes) if bboxes is not None else []
-
-    if scenario == "low_light":
-        return apply_low_light(image, severity, seed), current_bboxes
-    elif scenario == "overexposure":
-        return apply_overexposure(image, current_bboxes, severity, seed), current_bboxes
-    elif scenario == "uneven_shadows":
-        return apply_uneven_shadows(image, current_bboxes, severity, seed), current_bboxes
-    elif scenario == "motion_blur":
-        return apply_motion_blur(image, severity, seed), current_bboxes
-    elif scenario == "defocus_blur":
-        return apply_defocus_blur(image, severity, seed), current_bboxes
-    elif scenario == "rain_streaks":
-        return apply_rain_streaks(image, severity, seed), current_bboxes
-    elif scenario == "sensor_noise":
-        return apply_sensor_noise(image, severity, seed), current_bboxes
-    elif scenario == "jpeg_compression":
-        return apply_jpeg_compression(image, severity, seed), current_bboxes
-    elif scenario == "perspective_tilt":
-        return apply_perspective_tilt(image, current_bboxes, severity, seed)
-    elif scenario == "partial_occlusion":
-        return apply_partial_occlusion(image, current_bboxes, severity, seed), current_bboxes
-    else:
-        raise NotImplementedError(f"Scenario {scenario} not implemented")
+    corrupted_img, mapped_bboxes, _ = apply_corruption_with_mapping(
+        scenario=scenario,
+        severity=severity,
+        image=image,
+        bboxes=bboxes,
+        seed=seed,
+    )
+    return corrupted_img, [box for box in mapped_bboxes if box is not None]
 
 
 # ---------------------------------------------------------------------------
@@ -643,8 +676,8 @@ class CorruptionBatchGenerator:
             images_to_process = images_to_process[:sample_size]
 
         manifest: Dict[str, Any] = {
-            "source_annotations": str(self.annotations_file),
-            "source_image_dir": str(self.input_dir),
+            "source_annotations": self.annotations_file.as_posix(),
+            "source_image_dir": self.input_dir.as_posix(),
             "total_source_images": len(self.coco_data.get("images", [])),
             "processed_sample_size": len(images_to_process),
             "seed": self.seed,
@@ -669,6 +702,7 @@ class CorruptionBatchGenerator:
 
                 new_images = []
                 new_annotations = []
+                dropped_annotations = []
                 ann_id_counter = 0
 
                 for img_info in images_to_process:
@@ -695,7 +729,7 @@ class CorruptionBatchGenerator:
                     # Unique deterministic seed per image & scenario & severity
                     img_seed = (self.seed + img_id * 10007 + severity * 997) % (2**31 - 1)
 
-                    corrupted_img, updated_boxes = apply_corruption(
+                    corrupted_img, mapped_boxes, meta = apply_corruption_with_mapping(
                         scenario=scenario,
                         severity=severity,
                         image=image,
@@ -708,33 +742,49 @@ class CorruptionBatchGenerator:
                     dst_img_path.parent.mkdir(parents=True, exist_ok=True)
                     cv2.imwrite(str(dst_img_path), corrupted_img)
 
-                    # Update image metadata
+                    # Update image metadata with lineage
                     new_img_entry = dict(img_info)
+                    new_img_entry["original_image_id"] = img_id
+                    if "homography_matrix" in meta:
+                        new_img_entry["homography_matrix"] = meta["homography_matrix"]
                     new_images.append(new_img_entry)
 
-                    # Update annotation entries
+                    # Update annotation entries preserving 1-to-1 lineage
+                    retained_boxes = []
                     for idx, ann in enumerate(orig_anns):
+                        new_box = mapped_boxes[idx] if idx < len(mapped_boxes) else None
+                        if new_box is None:
+                            dropped_annotations.append(
+                                {
+                                    "original_annotation_id": ann["id"],
+                                    "original_image_id": img_id,
+                                    "file_name": file_name,
+                                    "reason": "out_of_frame",
+                                }
+                            )
+                            continue
+
                         new_ann = dict(ann)
                         new_ann["id"] = ann_id_counter
+                        new_ann["original_annotation_id"] = ann["id"]
+                        new_ann["original_image_id"] = img_id
                         ann_id_counter += 1
-
-                        if idx < len(updated_boxes):
-                            new_box = updated_boxes[idx]
-                            new_ann["bbox"] = new_box
-                            new_ann["area"] = round(new_box[2] * new_box[3], 2)
-                            # Extra helper field for metrics.py [x1, y1, x2, y2]
-                            new_ann["bbox_xyxy"] = [
-                                new_box[0],
-                                new_box[1],
-                                round(new_box[0] + new_box[2], 2),
-                                round(new_box[1] + new_box[3], 2),
-                            ]
+                        new_ann["bbox"] = new_box
+                        new_ann["area"] = round(new_box[2] * new_box[3], 2)
+                        # Extra helper field for metrics.py [x1, y1, x2, y2]
+                        new_ann["bbox_xyxy"] = [
+                            new_box[0],
+                            new_box[1],
+                            round(new_box[0] + new_box[2], 2),
+                            round(new_box[1] + new_box[3], 2),
+                        ]
                         new_annotations.append(new_ann)
+                        retained_boxes.append(new_box)
 
                     # Optional visual verification render
                     if visualize and len(new_images) <= 20:
                         vis_img = corrupted_img.copy()
-                        for box in updated_boxes:
+                        for box in retained_boxes:
                             x, y, w, h = [int(v) for v in box]
                             cv2.rectangle(
                                 vis_img, (x, y), (x + w, y + h), (0, 255, 0), 2
@@ -758,6 +808,7 @@ class CorruptionBatchGenerator:
                     "categories": self.coco_data.get("categories", []),
                     "images": new_images,
                     "annotations": new_annotations,
+                    "dropped_annotations": dropped_annotations,
                     "corruption": {
                         "scenario": scenario,
                         "severity": severity,
@@ -776,8 +827,9 @@ class CorruptionBatchGenerator:
                         "severity": severity,
                         "image_count": len(new_images),
                         "annotation_count": len(new_annotations),
-                        "image_dir": str(images_out_dir),
-                        "annotations_file": str(out_json_path),
+                        "dropped_count": len(dropped_annotations),
+                        "image_dir": images_out_dir.as_posix(),
+                        "annotations_file": out_json_path.as_posix(),
                     }
                 )
                 print(
