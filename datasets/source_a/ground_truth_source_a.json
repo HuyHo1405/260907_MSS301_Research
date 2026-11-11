@@ -1,0 +1,8255 @@
+[
+  {
+    "image_id": "source_a/CarLongPlate33_jpg.rf.ff0983ae134040007d0e397ac5edde1b.jpg",
+    "file_name": "CarLongPlate33_jpg.rf.ff0983ae134040007d0e397ac5edde1b.jpg",
+    "ann_id": 0,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      171.0,
+      277.0,
+      312.0,
+      344.5
+    ],
+    "bbox_coco": [
+      171.0,
+      277.0,
+      141.0,
+      67.5
+    ],
+    "text": "51F-826.06",
+    "raw_ocr": [
+      "51F-826.06"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.09,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1162_jpg.rf.3efd390b70600ed369f09b9caf450a1f.jpg",
+    "file_name": "xemay1162_jpg.rf.3efd390b70600ed369f09b9caf450a1f.jpg",
+    "ann_id": 1,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      342.0,
+      304.0,
+      477.5,
+      483.5
+    ],
+    "bbox_coco": [
+      342.0,
+      304.0,
+      135.5,
+      179.5
+    ],
+    "text": "77F1-253.89",
+    "raw_ocr": [
+      "77-F1",
+      "253.89"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate637_jpg.rf.d3c33c57a678c6ed65f1e14ac170ac11.jpg",
+    "file_name": "CarLongPlate637_jpg.rf.d3c33c57a678c6ed65f1e14ac170ac11.jpg",
+    "ann_id": 2,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      343.0,
+      376.0,
+      467.5,
+      429.0
+    ],
+    "bbox_coco": [
+      343.0,
+      376.0,
+      124.5,
+      53.0
+    ],
+    "text": "51F-446.14",
+    "raw_ocr": [
+      "51F-446.14"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.35,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate981_jpg.rf.9378403773e548e32ec10df0ba51edcc.jpg",
+    "file_name": "CarLongPlate981_jpg.rf.9378403773e548e32ec10df0ba51edcc.jpg",
+    "ann_id": 3,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      201.0,
+      469.0,
+      335.0,
+      526.0
+    ],
+    "bbox_coco": [
+      201.0,
+      469.0,
+      134.0,
+      57.0
+    ],
+    "text": "51F-132.51",
+    "raw_ocr": [
+      "51F-132.51"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.35,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate56_jpg.rf.f3c86b32131352a0a3d3950f46243bf6.jpg",
+    "file_name": "CarLongPlate56_jpg.rf.f3c86b32131352a0a3d3950f46243bf6.jpg",
+    "ann_id": 4,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      277.0,
+      454.0,
+      419.5,
+      502.5
+    ],
+    "bbox_coco": [
+      277.0,
+      454.0,
+      142.5,
+      48.5
+    ],
+    "text": "51F-763.54",
+    "raw_ocr": [
+      "51F-763.54"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.94,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay671_jpg.rf.8f2ee70bb402796bc805222951f41145.jpg",
+    "file_name": "xemay671_jpg.rf.8f2ee70bb402796bc805222951f41145.jpg",
+    "ann_id": 5,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      175.0,
+      186.0,
+      299.5,
+      340.0
+    ],
+    "bbox_coco": [
+      175.0,
+      186.0,
+      124.5,
+      154.0
+    ],
+    "text": "59H1-193.77",
+    "raw_ocr": [
+      "59-H1",
+      "19377"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.81,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay891_jpg.rf.99614a05b06edb055b4d61f47f9fc779.jpg",
+    "file_name": "xemay891_jpg.rf.99614a05b06edb055b4d61f47f9fc779.jpg",
+    "ann_id": 6,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      241.0,
+      483.0,
+      367.0,
+      640.0
+    ],
+    "bbox_coco": [
+      241.0,
+      483.0,
+      126.0,
+      157.0
+    ],
+    "text": "59C2-527.95",
+    "raw_ocr": [
+      "59-C2",
+      "52795"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate113_jpg.rf.5520ddde540be34557bef08cc55209e9.jpg",
+    "file_name": "CarLongPlate113_jpg.rf.5520ddde540be34557bef08cc55209e9.jpg",
+    "ann_id": 7,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      201.0,
+      174.0,
+      343.5,
+      233.0
+    ],
+    "bbox_coco": [
+      201.0,
+      174.0,
+      142.5,
+      59.0
+    ],
+    "text": "48A-028.66",
+    "raw_ocr": [
+      "48A-028.66"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.42,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate50_jpg.rf.f7ca7748cb366b4a49bd3f0df659f753.jpg",
+    "file_name": "CarLongPlate50_jpg.rf.f7ca7748cb366b4a49bd3f0df659f753.jpg",
+    "ann_id": 8,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      323.0,
+      484.0,
+      475.0,
+      543.0
+    ],
+    "bbox_coco": [
+      323.0,
+      484.0,
+      152.0,
+      59.0
+    ],
+    "text": "51F-079.73",
+    "raw_ocr": [
+      "51F-079.73"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.58,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay830_jpg.rf.da02c39cf86e7ffd954af7971cf9736c.jpg",
+    "file_name": "xemay830_jpg.rf.da02c39cf86e7ffd954af7971cf9736c.jpg",
+    "ann_id": 9,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      226.0,
+      201.0,
+      349.5,
+      344.5
+    ],
+    "bbox_coco": [
+      226.0,
+      201.0,
+      123.5,
+      143.5
+    ],
+    "text": "60F2-019.49",
+    "raw_ocr": [
+      "60-F2",
+      "01949"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.86,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate835_jpg.rf.301614b58d25f28ab750f1128f9c081e.jpg",
+    "file_name": "CarLongPlate835_jpg.rf.301614b58d25f28ab750f1128f9c081e.jpg",
+    "ann_id": 10,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      376.0,
+      524.0,
+      498.0,
+      577.0
+    ],
+    "bbox_coco": [
+      376.0,
+      524.0,
+      122.0,
+      53.0
+    ],
+    "text": "51F-356.13",
+    "raw_ocr": [
+      "51F-356.13"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.3,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate131_jpg.rf.87c74f25df2e53c8b7201c9586db24aa.jpg",
+    "file_name": "xemayBigPlate131_jpg.rf.87c74f25df2e53c8b7201c9586db24aa.jpg",
+    "ann_id": 11,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      236.0,
+      252.0,
+      364.0,
+      388.5
+    ],
+    "bbox_coco": [
+      236.0,
+      252.0,
+      128.0,
+      136.5
+    ],
+    "text": "94E1-022.09",
+    "raw_ocr": [
+      "94-E1",
+      "022.09"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.94,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate216_jpg.rf.ca2a59bbb180c8d4d2401663257c7596.jpg",
+    "file_name": "CarLongPlate216_jpg.rf.ca2a59bbb180c8d4d2401663257c7596.jpg",
+    "ann_id": 12,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      183.0,
+      148.0,
+      326.5,
+      209.5
+    ],
+    "bbox_coco": [
+      183.0,
+      148.0,
+      143.5,
+      61.5
+    ],
+    "text": "51G-505.53",
+    "raw_ocr": [
+      "51G-50553"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.33,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay2357_jpg.rf.de7c811894281007b9b09636f52eb5fd.jpg",
+    "file_name": "xemay2357_jpg.rf.de7c811894281007b9b09636f52eb5fd.jpg",
+    "ann_id": 13,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      163.0,
+      435.0,
+      228.0,
+      519.5
+    ],
+    "bbox_coco": [
+      163.0,
+      435.0,
+      65.0,
+      84.5
+    ],
+    "text": "59C7-618.91",
+    "raw_ocr": [
+      "59-C7",
+      "618.91"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate83_jpg.rf.9340f289d2a4ec63914cb22b146a6ddd.jpg",
+    "file_name": "xemayBigPlate83_jpg.rf.9340f289d2a4ec63914cb22b146a6ddd.jpg",
+    "ann_id": 14,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      189.0,
+      323.0,
+      347.0,
+      479.5
+    ],
+    "bbox_coco": [
+      189.0,
+      323.0,
+      158.0,
+      156.5
+    ],
+    "text": "65D1-092.31",
+    "raw_ocr": [
+      "65-D1",
+      "092.31"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.01,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2377_jpg.rf.6ebdcbdd4ee480b61f8c9e75d3bc9314.jpg",
+    "file_name": "xemay2377_jpg.rf.6ebdcbdd4ee480b61f8c9e75d3bc9314.jpg",
+    "ann_id": 15,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      297.0,
+      289.0,
+      385.0,
+      390.5
+    ],
+    "bbox_coco": [
+      297.0,
+      289.0,
+      88.0,
+      101.5
+    ],
+    "text": "51S6-135.77",
+    "raw_ocr": [
+      "51-S6",
+      "13577"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.87,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay601_jpg.rf.2d41c8027db9ca72a1319b89790b615b.jpg",
+    "file_name": "xemay601_jpg.rf.2d41c8027db9ca72a1319b89790b615b.jpg",
+    "ann_id": 16,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      262.0,
+      296.0,
+      381.5,
+      448.0
+    ],
+    "bbox_coco": [
+      262.0,
+      296.0,
+      119.5,
+      152.0
+    ],
+    "text": "60B2-361.61",
+    "raw_ocr": [
+      "60-B2",
+      "36161"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.79,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate292_jpg.rf.4c2f4df424d0c7f4e828d3442737cfc5.jpg",
+    "file_name": "CarLongPlate292_jpg.rf.4c2f4df424d0c7f4e828d3442737cfc5.jpg",
+    "ann_id": 17,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      292.0,
+      429.0,
+      437.0,
+      503.0
+    ],
+    "bbox_coco": [
+      292.0,
+      429.0,
+      145.0,
+      74.0
+    ],
+    "text": "51F-222.61",
+    "raw_ocr": [
+      "51F-222.61"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.96,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1959_jpg.rf.dc7a4ac7a9190ac10ef88706b38d4897.jpg",
+    "file_name": "xemay1959_jpg.rf.dc7a4ac7a9190ac10ef88706b38d4897.jpg",
+    "ann_id": 18,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      313.0,
+      308.0,
+      381.0,
+      394.5
+    ],
+    "bbox_coco": [
+      313.0,
+      308.0,
+      68.0,
+      86.5
+    ],
+    "text": "55X1-7546",
+    "raw_ocr": [
+      "55X1",
+      "7546"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.79,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1863_jpg.rf.329712b58b390203e76648ae3fbaefad.jpg",
+    "file_name": "xemay1863_jpg.rf.329712b58b390203e76648ae3fbaefad.jpg",
+    "ann_id": 19,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      229.0,
+      264.0,
+      313.0,
+      374.0
+    ],
+    "bbox_coco": [
+      229.0,
+      264.0,
+      84.0,
+      110.0
+    ],
+    "text": "51FR-4779",
+    "raw_ocr": [
+      "51FR",
+      "4779"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.76,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay963_jpg.rf.3ffb10f3e5207b3a846a455182b5e9f2.jpg",
+    "file_name": "xemay963_jpg.rf.3ffb10f3e5207b3a846a455182b5e9f2.jpg",
+    "ann_id": 20,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      324.0,
+      118.0,
+      432.5,
+      263.5
+    ],
+    "bbox_coco": [
+      324.0,
+      118.0,
+      108.5,
+      145.5
+    ],
+    "text": "59C2-281.14",
+    "raw_ocr": [
+      "59C2",
+      "28114"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate915_jpg.rf.3b34ab13f2b07c1fd39b69fb4a7997a9.jpg",
+    "file_name": "CarLongPlate915_jpg.rf.3b34ab13f2b07c1fd39b69fb4a7997a9.jpg",
+    "ann_id": 21,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      208.0,
+      344.0,
+      332.5,
+      394.5
+    ],
+    "bbox_coco": [
+      208.0,
+      344.0,
+      124.5,
+      50.5
+    ],
+    "text": "51A-052.27",
+    "raw_ocr": [
+      "51A-052.27"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.47,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay237_jpg.rf.2e5c78455f58aaeac96f064dcc2570b1.jpg",
+    "file_name": "xemay237_jpg.rf.2e5c78455f58aaeac96f064dcc2570b1.jpg",
+    "ann_id": 22,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      225.0,
+      165.0,
+      337.5,
+      306.5
+    ],
+    "bbox_coco": [
+      225.0,
+      165.0,
+      112.5,
+      141.5
+    ],
+    "text": "59C1-239.68",
+    "raw_ocr": [
+      "59-C1",
+      "239.68"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate215_jpg.rf.4a4752b2524807daa9add395a7af43c0.jpg",
+    "file_name": "xemayBigPlate215_jpg.rf.4a4752b2524807daa9add395a7af43c0.jpg",
+    "ann_id": 23,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      126.0,
+      175.0,
+      411.0,
+      444.5
+    ],
+    "bbox_coco": [
+      126.0,
+      175.0,
+      285.0,
+      269.5
+    ],
+    "text": "86F9-7974",
+    "raw_ocr": [
+      "86-F9",
+      "7974"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.06,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate622_jpg.rf.e6c71136b61efac033473a067c2a897d.jpg",
+    "file_name": "CarLongPlate622_jpg.rf.e6c71136b61efac033473a067c2a897d.jpg",
+    "ann_id": 24,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      160.0,
+      104.0,
+      297.0,
+      171.5
+    ],
+    "bbox_coco": [
+      160.0,
+      104.0,
+      137.0,
+      67.5
+    ],
+    "text": "51C-031.83",
+    "raw_ocr": [
+      "51C-031.83"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.03,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate912_jpg.rf.3ac90a4bc033d9d27ed1e5303a972635.jpg",
+    "file_name": "CarLongPlate912_jpg.rf.3ac90a4bc033d9d27ed1e5303a972635.jpg",
+    "ann_id": 25,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      324.0,
+      239.0,
+      466.5,
+      391.0
+    ],
+    "bbox_coco": [
+      324.0,
+      239.0,
+      142.5,
+      152.0
+    ],
+    "text": "59F1-757.58",
+    "raw_ocr": [
+      "59-F1",
+      "757.58"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.94,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay457_jpg.rf.9da0a8f0d5b16ab5ed2374050b36e9c7.jpg",
+    "file_name": "xemay457_jpg.rf.9da0a8f0d5b16ab5ed2374050b36e9c7.jpg",
+    "ann_id": 26,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      250.0,
+      395.0,
+      364.0,
+      536.5
+    ],
+    "bbox_coco": [
+      250.0,
+      395.0,
+      114.0,
+      141.5
+    ],
+    "text": "59P2-019.20",
+    "raw_ocr": [
+      "59-P2",
+      "019.20"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.81,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay924_jpg.rf.6eca51a6be82474ea152f04a5954cb88.jpg",
+    "file_name": "xemay924_jpg.rf.6eca51a6be82474ea152f04a5954cb88.jpg",
+    "ann_id": 27,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      247.0,
+      325.0,
+      346.0,
+      447.5
+    ],
+    "bbox_coco": [
+      247.0,
+      325.0,
+      99.0,
+      122.5
+    ],
+    "text": "59X1-7207",
+    "raw_ocr": [
+      "59-X1",
+      "E7207"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.81,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate914_jpg.rf.4cd1a489c02348aa5f09a71006b9ee0d.jpg",
+    "file_name": "CarLongPlate914_jpg.rf.4cd1a489c02348aa5f09a71006b9ee0d.jpg",
+    "ann_id": 28,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      418.0,
+      376.0,
+      505.0,
+      424.5
+    ],
+    "bbox_coco": [
+      418.0,
+      376.0,
+      87.0,
+      48.5
+    ],
+    "text": "93LD-001.03",
+    "raw_ocr": [
+      "93LD-001.03"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.79,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate279_jpg.rf.09ffc6a652273e72a46b624a021aee31.jpg",
+    "file_name": "CarLongPlate279_jpg.rf.09ffc6a652273e72a46b624a021aee31.jpg",
+    "ann_id": 29,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      233.0,
+      478.0,
+      375.5,
+      535.0
+    ],
+    "bbox_coco": [
+      233.0,
+      478.0,
+      142.5,
+      57.0
+    ],
+    "text": "51F-869.88",
+    "raw_ocr": [
+      "51F-869.88"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.5,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay275_jpg.rf.b0fe29169cf5c97531392b847fe7b94f.jpg",
+    "file_name": "xemay275_jpg.rf.b0fe29169cf5c97531392b847fe7b94f.jpg",
+    "ann_id": 30,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      259.0,
+      108.0,
+      373.0,
+      253.5
+    ],
+    "bbox_coco": [
+      259.0,
+      108.0,
+      114.0,
+      145.5
+    ],
+    "text": "60C2-323.01",
+    "raw_ocr": [
+      "60-C2",
+      "323.01"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate64_jpg.rf.95b32f77c4f39f7401fc82a1ac5bbe7c.jpg",
+    "file_name": "CarLongPlate64_jpg.rf.95b32f77c4f39f7401fc82a1ac5bbe7c.jpg",
+    "ann_id": 31,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      300.0,
+      344.0,
+      423.5,
+      394.5
+    ],
+    "bbox_coco": [
+      300.0,
+      344.0,
+      123.5,
+      50.5
+    ],
+    "text": "56S-4698",
+    "raw_ocr": [
+      "56S-4698"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.45,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay792_jpg.rf.9efccf7ec4a7cddb14f2924adbb5ef25.jpg",
+    "file_name": "xemay792_jpg.rf.9efccf7ec4a7cddb14f2924adbb5ef25.jpg",
+    "ann_id": 32,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      214.0,
+      186.0,
+      337.5,
+      346.5
+    ],
+    "bbox_coco": [
+      214.0,
+      186.0,
+      123.5,
+      160.5
+    ],
+    "text": "61G1-251.22",
+    "raw_ocr": [
+      "61-G1",
+      "25122"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate787_jpg.rf.e4b0ad2dbeb7ab6b6e62d719fcf39278.jpg",
+    "file_name": "CarLongPlate787_jpg.rf.e4b0ad2dbeb7ab6b6e62d719fcf39278.jpg",
+    "ann_id": 33,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      209.0,
+      556.0,
+      340.5,
+      611.0
+    ],
+    "bbox_coco": [
+      209.0,
+      556.0,
+      131.5,
+      55.0
+    ],
+    "text": "51G-473.40",
+    "raw_ocr": [
+      "51G-473.40"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.39,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay32_jpg.rf.8b183afd13264127d78366cfbc178fff.jpg",
+    "file_name": "xemay32_jpg.rf.8b183afd13264127d78366cfbc178fff.jpg",
+    "ann_id": 34,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      191.0,
+      291.0,
+      297.0,
+      428.5
+    ],
+    "bbox_coco": [
+      191.0,
+      291.0,
+      106.0,
+      137.5
+    ],
+    "text": "59HT-986.79",
+    "raw_ocr": [
+      "59-HT",
+      "98679"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1087_jpg.rf.08b75fa0391fb394449dce7aa0b539bb.jpg",
+    "file_name": "xemay1087_jpg.rf.08b75fa0391fb394449dce7aa0b539bb.jpg",
+    "ann_id": 35,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      254.0,
+      237.0,
+      374.5,
+      397.5
+    ],
+    "bbox_coco": [
+      254.0,
+      237.0,
+      120.5,
+      160.5
+    ],
+    "text": "75F1-298.30",
+    "raw_ocr": [
+      "75-F1",
+      "29830"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate32_jpg.rf.503448e81b5192126687ebc32d2cc1c1.jpg",
+    "file_name": "xemayBigPlate32_jpg.rf.503448e81b5192126687ebc32d2cc1c1.jpg",
+    "ann_id": 36,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      294.0,
+      336.0,
+      428.5,
+      461.0
+    ],
+    "bbox_coco": [
+      294.0,
+      336.0,
+      134.5,
+      125.0
+    ],
+    "text": "95M2-3838",
+    "raw_ocr": [
+      "95·M2",
+      "3838"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.08,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate928_jpg.rf.e511bd34dd979944098ddf8681da25a0.jpg",
+    "file_name": "CarLongPlate928_jpg.rf.e511bd34dd979944098ddf8681da25a0.jpg",
+    "ann_id": 37,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      216.0,
+      564.0,
+      368.0,
+      627.5
+    ],
+    "bbox_coco": [
+      216.0,
+      564.0,
+      152.0,
+      63.5
+    ],
+    "text": "51A-554.33",
+    "raw_ocr": [
+      "51A554.33"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.39,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate22_jpg.rf.44a0223d8f1f41a88941a0095c7f9d26.jpg",
+    "file_name": "CarLongPlate22_jpg.rf.44a0223d8f1f41a88941a0095c7f9d26.jpg",
+    "ann_id": 38,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      399.0,
+      518.0,
+      515.5,
+      568.5
+    ],
+    "bbox_coco": [
+      399.0,
+      518.0,
+      116.5,
+      50.5
+    ],
+    "text": "51G-443.13",
+    "raw_ocr": [
+      "51G-443.13"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.31,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate696_jpg.rf.25457af25f90e038711fdcde5a34a139.jpg",
+    "file_name": "CarLongPlate696_jpg.rf.25457af25f90e038711fdcde5a34a139.jpg",
+    "ann_id": 39,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      326.0,
+      386.0,
+      465.5,
+      449.5
+    ],
+    "bbox_coco": [
+      326.0,
+      386.0,
+      139.5,
+      63.5
+    ],
+    "text": "51D-100.39",
+    "raw_ocr": [
+      "51D-100.39"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.2,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay694_jpg.rf.9b797b68eaee98ea119d1509aa8df1a7.jpg",
+    "file_name": "xemay694_jpg.rf.9b797b68eaee98ea119d1509aa8df1a7.jpg",
+    "ann_id": 40,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      223.0,
+      5.0,
+      349.0,
+      178.0
+    ],
+    "bbox_coco": [
+      223.0,
+      5.0,
+      126.0,
+      173.0
+    ],
+    "text": "59X2-965.53",
+    "raw_ocr": [
+      "59-X2",
+      "96553"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.73,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1748_jpg.rf.a54c6f46c55db603bf722bd1e050cd90.jpg",
+    "file_name": "xemay1748_jpg.rf.a54c6f46c55db603bf722bd1e050cd90.jpg",
+    "ann_id": 41,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      293.0,
+      228.0,
+      377.0,
+      325.0
+    ],
+    "bbox_coco": [
+      293.0,
+      228.0,
+      84.0,
+      97.0
+    ],
+    "text": "59S2-165.55",
+    "raw_ocr": [
+      "59-S2",
+      "16555"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.87,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay705_jpg.rf.4b621274b327975984a2d71078b60c0c.jpg",
+    "file_name": "xemay705_jpg.rf.4b621274b327975984a2d71078b60c0c.jpg",
+    "ann_id": 42,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      221.0,
+      226.0,
+      336.5,
+      376.0
+    ],
+    "bbox_coco": [
+      221.0,
+      226.0,
+      115.5,
+      150.0
+    ],
+    "text": "52P2-0878",
+    "raw_ocr": [
+      "52-P2",
+      "0878"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate196_jpg.rf.ceb3766fea878c9892b7cb7c2c554a7f.jpg",
+    "file_name": "CarLongPlate196_jpg.rf.ceb3766fea878c9892b7cb7c2c554a7f.jpg",
+    "ann_id": 43,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      187.0,
+      279.0,
+      343.0,
+      340.5
+    ],
+    "bbox_coco": [
+      187.0,
+      279.0,
+      156.0,
+      61.5
+    ],
+    "text": "51F-574.93",
+    "raw_ocr": [
+      "51F-574.93"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.54,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay263_jpg.rf.3e19d8cc7956e173dddaf69e0a5264ac.jpg",
+    "file_name": "xemay263_jpg.rf.3e19d8cc7956e173dddaf69e0a5264ac.jpg",
+    "ann_id": 44,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      277.0,
+      347.0,
+      387.0,
+      499.0
+    ],
+    "bbox_coco": [
+      277.0,
+      347.0,
+      110.0,
+      152.0
+    ],
+    "text": "59V2-158.00",
+    "raw_ocr": [
+      "59-V2",
+      "158.00"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.72,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate303_jpg.rf.2c2dbb0044030e4527420abfc31b07d1.jpg",
+    "file_name": "CarLongPlate303_jpg.rf.2c2dbb0044030e4527420abfc31b07d1.jpg",
+    "ann_id": 45,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      359.0,
+      452.0,
+      505.5,
+      524.0
+    ],
+    "bbox_coco": [
+      359.0,
+      452.0,
+      146.5,
+      72.0
+    ],
+    "text": "51F-075.68",
+    "raw_ocr": [
+      "51F-075.68"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.03,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay2031_jpg.rf.fa45d3f4012c99883921a3c3a27b8f93.jpg",
+    "file_name": "xemay2031_jpg.rf.fa45d3f4012c99883921a3c3a27b8f93.jpg",
+    "ann_id": 46,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      220.0,
+      268.0,
+      296.0,
+      359.0
+    ],
+    "bbox_coco": [
+      220.0,
+      268.0,
+      76.0,
+      91.0
+    ],
+    "text": "86H7-9591",
+    "raw_ocr": [
+      "86-H7",
+      "9591"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.84,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay231_jpg.rf.d3dc70f5fba6ee62e4059e1198ab6abe.jpg",
+    "file_name": "xemay231_jpg.rf.d3dc70f5fba6ee62e4059e1198ab6abe.jpg",
+    "ann_id": 47,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      233.0,
+      376.0,
+      360.5,
+      528.0
+    ],
+    "bbox_coco": [
+      233.0,
+      376.0,
+      127.5,
+      152.0
+    ],
+    "text": "59X1-602.10",
+    "raw_ocr": [
+      "59-X1",
+      "602.10"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.84,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1540_jpg.rf.5d483c6a617c51b41168617dee2664da.jpg",
+    "file_name": "xemay1540_jpg.rf.5d483c6a617c51b41168617dee2664da.jpg",
+    "ann_id": 48,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      282.0,
+      340.0,
+      393.0,
+      483.5
+    ],
+    "bbox_coco": [
+      282.0,
+      340.0,
+      111.0,
+      143.5
+    ],
+    "text": "52T8-5761",
+    "raw_ocr": [
+      "52-T8",
+      "5761"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate652_jpg.rf.2ec2430129e165cdd49e73f80cbc54f6.jpg",
+    "file_name": "CarLongPlate652_jpg.rf.2ec2430129e165cdd49e73f80cbc54f6.jpg",
+    "ann_id": 49,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      288.0,
+      359.0,
+      417.0,
+      418.0
+    ],
+    "bbox_coco": [
+      288.0,
+      359.0,
+      129.0,
+      59.0
+    ],
+    "text": "51G-014.40",
+    "raw_ocr": [
+      "51G-014.40"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.19,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate207_jpg.rf.0725b0dc646343d6bc8e9e65211a50ab.jpg",
+    "file_name": "CarLongPlate207_jpg.rf.0725b0dc646343d6bc8e9e65211a50ab.jpg",
+    "ann_id": 50,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      383.0,
+      541.0,
+      493.0,
+      577.0
+    ],
+    "bbox_coco": [
+      383.0,
+      541.0,
+      110.0,
+      36.0
+    ],
+    "text": "48A-051.77",
+    "raw_ocr": [
+      "48A-05177"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 3.06,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1345_jpg.rf.0c34bb04d74ca898fe54bfe304541e29.jpg",
+    "file_name": "xemay1345_jpg.rf.0c34bb04d74ca898fe54bfe304541e29.jpg",
+    "ann_id": 51,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      268.0,
+      245.0,
+      399.5,
+      422.5
+    ],
+    "bbox_coco": [
+      268.0,
+      245.0,
+      131.5,
+      177.5
+    ],
+    "text": "59C-391.13",
+    "raw_ocr": [
+      "59·C",
+      "39113"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.74,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate143_jpg.rf.707acec28cda45596289c4282bb0f99a.jpg",
+    "file_name": "CarLongPlate143_jpg.rf.707acec28cda45596289c4282bb0f99a.jpg",
+    "ann_id": 52,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      404.0,
+      456.0,
+      515.0,
+      506.5
+    ],
+    "bbox_coco": [
+      404.0,
+      456.0,
+      111.0,
+      50.5
+    ],
+    "text": "51A-012.04",
+    "raw_ocr": [
+      "51A-01204"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.2,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay885_jpg.rf.dd793025f7b9ed0fb463d44b206f15fb.jpg",
+    "file_name": "xemay885_jpg.rf.dd793025f7b9ed0fb463d44b206f15fb.jpg",
+    "ann_id": 53,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      329.0,
+      237.0,
+      448.5,
+      404.0
+    ],
+    "bbox_coco": [
+      329.0,
+      237.0,
+      119.5,
+      167.0
+    ],
+    "text": "81G1-135.56",
+    "raw_ocr": [
+      "81-G1",
+      "13556"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.72,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate133_jpg.rf.f7670b1b111bb6505e604d9c85b3119c.jpg",
+    "file_name": "CarLongPlate133_jpg.rf.f7670b1b111bb6505e604d9c85b3119c.jpg",
+    "ann_id": 54,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      275.0,
+      125.0,
+      414.5,
+      300.5
+    ],
+    "bbox_coco": [
+      275.0,
+      125.0,
+      139.5,
+      175.5
+    ],
+    "text": "68C1-375.20",
+    "raw_ocr": [
+      "68-C1",
+      "375.20"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.79,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate893_jpg.rf.d0ec19365382f8f85a1c0668cecdd85a.jpg",
+    "file_name": "CarLongPlate893_jpg.rf.d0ec19365382f8f85a1c0668cecdd85a.jpg",
+    "ann_id": 55,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      376.0,
+      402.0,
+      482.0,
+      459.0
+    ],
+    "bbox_coco": [
+      376.0,
+      402.0,
+      106.0,
+      57.0
+    ],
+    "text": "51F-278.09",
+    "raw_ocr": [
+      "51F-278.09"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.86,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1223_jpg.rf.4bdd512cc6a02c02a054929e6e68883a.jpg",
+    "file_name": "xemay1223_jpg.rf.4bdd512cc6a02c02a054929e6e68883a.jpg",
+    "ann_id": 56,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      210.0,
+      317.0,
+      345.5,
+      492.5
+    ],
+    "bbox_coco": [
+      210.0,
+      317.0,
+      135.5,
+      175.5
+    ],
+    "text": "59C-1110",
+    "raw_ocr": [
+      "59-C",
+      "1110"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate506_jpg.rf.ab4eb0b4d86a854f06bc61b19ca99344.jpg",
+    "file_name": "CarLongPlate506_jpg.rf.ab4eb0b4d86a854f06bc61b19ca99344.jpg",
+    "ann_id": 57,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      289.0,
+      435.0,
+      422.0,
+      500.5
+    ],
+    "bbox_coco": [
+      289.0,
+      435.0,
+      133.0,
+      65.5
+    ],
+    "text": "51F-244.76",
+    "raw_ocr": [
+      "51F24476"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.03,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay658_jpg.rf.38a5e392b80dfd3b6a166fabe4ff0482.jpg",
+    "file_name": "xemay658_jpg.rf.38a5e392b80dfd3b6a166fabe4ff0482.jpg",
+    "ann_id": 58,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      167.0,
+      287.0,
+      305.5,
+      456.0
+    ],
+    "bbox_coco": [
+      167.0,
+      287.0,
+      138.5,
+      169.0
+    ],
+    "text": "67H1-036.55",
+    "raw_ocr": [
+      "67-H1",
+      "03655"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.82,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay827_jpg.rf.760ef952865c4fd0e8e57c7c99924eaa.jpg",
+    "file_name": "xemay827_jpg.rf.760ef952865c4fd0e8e57c7c99924eaa.jpg",
+    "ann_id": 59,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      241.0,
+      279.0,
+      353.5,
+      431.0
+    ],
+    "bbox_coco": [
+      241.0,
+      279.0,
+      112.5,
+      152.0
+    ],
+    "text": "82H1-0886",
+    "raw_ocr": [
+      "82-H1",
+      "0886"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.74,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay648_jpg.rf.7c7a110069e58c47fb6bda2957950b8a.jpg",
+    "file_name": "xemay648_jpg.rf.7c7a110069e58c47fb6bda2957950b8a.jpg",
+    "ann_id": 60,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      225.0,
+      228.0,
+      352.5,
+      397.0
+    ],
+    "bbox_coco": [
+      225.0,
+      228.0,
+      127.5,
+      169.0
+    ],
+    "text": "59P2-112.06",
+    "raw_ocr": [
+      "59-P2",
+      "112.06"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1089_jpg.rf.fc8184950ba9f851e67c90b4cc7c08d9.jpg",
+    "file_name": "xemay1089_jpg.rf.fc8184950ba9f851e67c90b4cc7c08d9.jpg",
+    "ann_id": 61,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      252.0,
+      230.0,
+      368.5,
+      397.0
+    ],
+    "bbox_coco": [
+      252.0,
+      230.0,
+      116.5,
+      167.0
+    ],
+    "text": "60B2-369.12",
+    "raw_ocr": [
+      "60-82",
+      "36912"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.7,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate342_jpg.rf.09c215e0d6974c903dd75e307087b85d.jpg",
+    "file_name": "CarLongPlate342_jpg.rf.09c215e0d6974c903dd75e307087b85d.jpg",
+    "ann_id": 62,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      285.0,
+      241.0,
+      407.0,
+      296.0
+    ],
+    "bbox_coco": [
+      285.0,
+      241.0,
+      122.0,
+      55.0
+    ],
+    "text": "51F-730.29",
+    "raw_ocr": [
+      "51F-730.29"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.22,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1067_jpg.rf.f1aa33860b3247c9d41e3116744ab713.jpg",
+    "file_name": "xemay1067_jpg.rf.f1aa33860b3247c9d41e3116744ab713.jpg",
+    "ann_id": 63,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      221.0,
+      319.0,
+      335.0,
+      471.0
+    ],
+    "bbox_coco": [
+      221.0,
+      319.0,
+      114.0,
+      152.0
+    ],
+    "text": "55R1-1147",
+    "raw_ocr": [
+      "55-R1",
+      "1147"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate30_jpg.rf.905a6fea59f75a6a7a1e21fbeade6203.jpg",
+    "file_name": "xemayBigPlate30_jpg.rf.905a6fea59f75a6a7a1e21fbeade6203.jpg",
+    "ann_id": 64,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      250.0,
+      357.0,
+      383.5,
+      480.5
+    ],
+    "bbox_coco": [
+      250.0,
+      357.0,
+      133.5,
+      123.5
+    ],
+    "text": "65HC-1012",
+    "raw_ocr": [
+      "65-HC",
+      "1012"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.08,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1727_jpg.rf.4f022451777a1fccfadc71f4dd32e179.jpg",
+    "file_name": "xemay1727_jpg.rf.4f022451777a1fccfadc71f4dd32e179.jpg",
+    "ann_id": 65,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      232.0,
+      277.0,
+      362.0,
+      437.5
+    ],
+    "bbox_coco": [
+      232.0,
+      277.0,
+      130.0,
+      160.5
+    ],
+    "text": "59P2-230.50",
+    "raw_ocr": [
+      "59-P2",
+      "230.50"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.81,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1699_jpg.rf.e5d88d8e044254ebcb9176e7c3ca9df2.jpg",
+    "file_name": "xemay1699_jpg.rf.e5d88d8e044254ebcb9176e7c3ca9df2.jpg",
+    "ann_id": 66,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      229.0,
+      167.0,
+      387.5,
+      344.5
+    ],
+    "bbox_coco": [
+      229.0,
+      167.0,
+      158.5,
+      177.5
+    ],
+    "text": "52M9-0589",
+    "raw_ocr": [
+      "52-M9",
+      "0589"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.89,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate391_jpg.rf.836a3d5b84e2242ec94beca79334efbb.jpg",
+    "file_name": "CarLongPlate391_jpg.rf.836a3d5b84e2242ec94beca79334efbb.jpg",
+    "ann_id": 67,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      237.0,
+      182.0,
+      383.5,
+      249.5
+    ],
+    "bbox_coco": [
+      237.0,
+      182.0,
+      146.5,
+      67.5
+    ],
+    "text": "56N-7186",
+    "raw_ocr": [
+      "56N-7186"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.17,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate690_jpg.rf.062bcb30ff0a5fc7f1d20246b2b7cdb0.jpg",
+    "file_name": "CarLongPlate690_jpg.rf.062bcb30ff0a5fc7f1d20246b2b7cdb0.jpg",
+    "ann_id": 68,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      346.0,
+      545.0,
+      466.5,
+      595.5
+    ],
+    "bbox_coco": [
+      346.0,
+      545.0,
+      120.5,
+      50.5
+    ],
+    "text": "51G-491.60",
+    "raw_ocr": [
+      "51G-491.60"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.39,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay8_jpg.rf.7b7d5b99b0d5e0332c3eef20bd55927a.jpg",
+    "file_name": "xemay8_jpg.rf.7b7d5b99b0d5e0332c3eef20bd55927a.jpg",
+    "ann_id": 69,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      201.0,
+      272.0,
+      335.0,
+      430.5
+    ],
+    "bbox_coco": [
+      201.0,
+      272.0,
+      134.0,
+      158.5
+    ],
+    "text": "63B9-579.26",
+    "raw_ocr": [
+      "63-89",
+      "57926"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.85,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate754_jpg.rf.ea26f1d806f562d49b8b09dbe83708cd.jpg",
+    "file_name": "CarLongPlate754_jpg.rf.ea26f1d806f562d49b8b09dbe83708cd.jpg",
+    "ann_id": 70,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      346.0,
+      524.0,
+      458.5,
+      564.0
+    ],
+    "bbox_coco": [
+      346.0,
+      524.0,
+      112.5,
+      40.0
+    ],
+    "text": "51G-472.81",
+    "raw_ocr": [
+      "51G-47281"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.81,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate403_jpg.rf.72e515b4c966e0affa1eab650e4840f3.jpg",
+    "file_name": "CarLongPlate403_jpg.rf.72e515b4c966e0affa1eab650e4840f3.jpg",
+    "ann_id": 71,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      228.0,
+      74.0,
+      377.0,
+      146.0
+    ],
+    "bbox_coco": [
+      228.0,
+      74.0,
+      149.0,
+      72.0
+    ],
+    "text": "51G-344.71",
+    "raw_ocr": [
+      "51G-344.71"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.07,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1525_jpg.rf.507119954ee85795ca6dd2be0d4f23c2.jpg",
+    "file_name": "xemay1525_jpg.rf.507119954ee85795ca6dd2be0d4f23c2.jpg",
+    "ann_id": 72,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      270.0,
+      270.0,
+      374.5,
+      411.5
+    ],
+    "bbox_coco": [
+      270.0,
+      270.0,
+      104.5,
+      141.5
+    ],
+    "text": "59M1-876.68",
+    "raw_ocr": [
+      "59-M1",
+      "87668"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.74,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2422_jpg.rf.c2c5d4912cc9169fa2f3828db16ee6d0.jpg",
+    "file_name": "xemay2422_jpg.rf.c2c5d4912cc9169fa2f3828db16ee6d0.jpg",
+    "ann_id": 73,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      328.0,
+      418.0,
+      389.0,
+      500.5
+    ],
+    "bbox_coco": [
+      328.0,
+      418.0,
+      61.0,
+      82.5
+    ],
+    "text": "59P2-323.34",
+    "raw_ocr": [
+      "59-P2",
+      "32334"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.74,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2208_jpg.rf.92262aca9bf15cb5cb43813da6fb390e.jpg",
+    "file_name": "xemay2208_jpg.rf.92262aca9bf15cb5cb43813da6fb390e.jpg",
+    "ann_id": 74,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      320.0,
+      195.0,
+      394.5,
+      290.0
+    ],
+    "bbox_coco": [
+      320.0,
+      195.0,
+      74.5,
+      95.0
+    ],
+    "text": "72K1-254.76",
+    "raw_ocr": [
+      "72-K1",
+      "254.76"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate602_jpg.rf.5751821096e8184c53f874ed61a5f5e2.jpg",
+    "file_name": "CarLongPlate602_jpg.rf.5751821096e8184c53f874ed61a5f5e2.jpg",
+    "ann_id": 75,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      231.0,
+      129.0,
+      376.0,
+      194.5
+    ],
+    "bbox_coco": [
+      231.0,
+      129.0,
+      145.0,
+      65.5
+    ],
+    "text": "51F-582.50",
+    "raw_ocr": [
+      "51F-582.50"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.21,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate639_jpg.rf.c8572d47fecc12ef8e6c4615bee0d581.jpg",
+    "file_name": "CarLongPlate639_jpg.rf.c8572d47fecc12ef8e6c4615bee0d581.jpg",
+    "ann_id": 76,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      209.0,
+      289.0,
+      359.5,
+      356.5
+    ],
+    "bbox_coco": [
+      209.0,
+      289.0,
+      150.5,
+      67.5
+    ],
+    "text": "51G-439.47",
+    "raw_ocr": [
+      "51G-43947"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.23,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate558_jpg.rf.4474dcf139c070375384379cbb2e4815.jpg",
+    "file_name": "CarLongPlate558_jpg.rf.4474dcf139c070375384379cbb2e4815.jpg",
+    "ann_id": 77,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      255.0,
+      340.0,
+      390.5,
+      395.0
+    ],
+    "bbox_coco": [
+      255.0,
+      340.0,
+      135.5,
+      55.0
+    ],
+    "text": "51F-220.29",
+    "raw_ocr": [
+      "51F-220.29"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.46,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay142_jpg.rf.d6ad54cb107b385ee0058b49064382c3.jpg",
+    "file_name": "xemay142_jpg.rf.d6ad54cb107b385ee0058b49064382c3.jpg",
+    "ann_id": 78,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      293.0,
+      116.0,
+      415.0,
+      266.0
+    ],
+    "bbox_coco": [
+      293.0,
+      116.0,
+      122.0,
+      150.0
+    ],
+    "text": "59E1-6239",
+    "raw_ocr": [
+      "59-E1",
+      "6239"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.81,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay666_jpg.rf.8f0b68353e6e0a3a41c9b524351b0e3a.jpg",
+    "file_name": "xemay666_jpg.rf.8f0b68353e6e0a3a41c9b524351b0e3a.jpg",
+    "ann_id": 79,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      279.0,
+      207.0,
+      406.5,
+      382.5
+    ],
+    "bbox_coco": [
+      279.0,
+      207.0,
+      127.5,
+      175.5
+    ],
+    "text": "59H1-677.91",
+    "raw_ocr": [
+      "59-H1",
+      "677.91"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.73,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay592_jpg.rf.743dda1ef4065cdda59e10406bae7588.jpg",
+    "file_name": "xemay592_jpg.rf.743dda1ef4065cdda59e10406bae7588.jpg",
+    "ann_id": 80,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      254.0,
+      163.0,
+      376.0,
+      334.0
+    ],
+    "bbox_coco": [
+      254.0,
+      163.0,
+      122.0,
+      171.0
+    ],
+    "text": "59H-206.39",
+    "raw_ocr": [
+      "59H",
+      "20639"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.71,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay248_jpg.rf.c05f8827ec169c65cb130a2b0cf3267a.jpg",
+    "file_name": "xemay248_jpg.rf.c05f8827ec169c65cb130a2b0cf3267a.jpg",
+    "ann_id": 81,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      297.0,
+      232.0,
+      385.0,
+      354.5
+    ],
+    "bbox_coco": [
+      297.0,
+      232.0,
+      88.0,
+      122.5
+    ],
+    "text": "72F1-207.41",
+    "raw_ocr": [
+      "72F1",
+      "20741"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.72,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate156_jpg.rf.a832d5d3b7525d545e09d3aaa4ab6dbb.jpg",
+    "file_name": "xemayBigPlate156_jpg.rf.a832d5d3b7525d545e09d3aaa4ab6dbb.jpg",
+    "ann_id": 82,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      173.0,
+      203.0,
+      346.0,
+      362.5
+    ],
+    "bbox_coco": [
+      173.0,
+      203.0,
+      173.0,
+      159.5
+    ],
+    "text": "65P7-5647",
+    "raw_ocr": [
+      "65-P7",
+      "5647"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.08,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay495_jpg.rf.4c05c6a719be2ba41bef203cc4efbbf9.jpg",
+    "file_name": "xemay495_jpg.rf.4c05c6a719be2ba41bef203cc4efbbf9.jpg",
+    "ann_id": 83,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      255.0,
+      332.0,
+      367.5,
+      452.5
+    ],
+    "bbox_coco": [
+      255.0,
+      332.0,
+      112.5,
+      120.5
+    ],
+    "text": "72X1-8179",
+    "raw_ocr": [
+      "72-X1",
+      "8179"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.93,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate859_jpg.rf.ac9aaad207556ef6ddc4c3ef78950c43.jpg",
+    "file_name": "CarLongPlate859_jpg.rf.ac9aaad207556ef6ddc4c3ef78950c43.jpg",
+    "ann_id": 84,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      161.0,
+      53.0,
+      288.5,
+      101.5
+    ],
+    "bbox_coco": [
+      161.0,
+      53.0,
+      127.5,
+      48.5
+    ],
+    "text": "86A-066.42",
+    "raw_ocr": [
+      "86A-066.42"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.63,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay385_jpg.rf.aa9ed14a0331da28af3235975fa3b764.jpg",
+    "file_name": "xemay385_jpg.rf.aa9ed14a0331da28af3235975fa3b764.jpg",
+    "ann_id": 85,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      335.0,
+      165.0,
+      443.5,
+      323.5
+    ],
+    "bbox_coco": [
+      335.0,
+      165.0,
+      108.5,
+      158.5
+    ],
+    "text": "60P7-1246",
+    "raw_ocr": [
+      "60-P7",
+      "1246"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.68,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate177_jpg.rf.31ae64e39a4f727d4ce4176231f5c6d0.jpg",
+    "file_name": "CarLongPlate177_jpg.rf.31ae64e39a4f727d4ce4176231f5c6d0.jpg",
+    "ann_id": 86,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      365.0,
+      549.0,
+      491.0,
+      595.5
+    ],
+    "bbox_coco": [
+      365.0,
+      549.0,
+      126.0,
+      46.5
+    ],
+    "text": "51F-244.03",
+    "raw_ocr": [
+      "51F-244.03"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.71,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1489_jpg.rf.8a98b1bba5ecb5beae14c475e5d0b293.jpg",
+    "file_name": "xemay1489_jpg.rf.8a98b1bba5ecb5beae14c475e5d0b293.jpg",
+    "ann_id": 87,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      279.0,
+      247.0,
+      403.5,
+      407.5
+    ],
+    "bbox_coco": [
+      279.0,
+      247.0,
+      124.5,
+      160.5
+    ],
+    "text": "59V2-1874",
+    "raw_ocr": [
+      "59-V2",
+      "1874"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1113_jpg.rf.9fc9de94b2c3a1b5d81e0b77cf83d286.jpg",
+    "file_name": "xemay1113_jpg.rf.9fc9de94b2c3a1b5d81e0b77cf83d286.jpg",
+    "ann_id": 88,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      220.0,
+      177.0,
+      349.0,
+      354.5
+    ],
+    "bbox_coco": [
+      220.0,
+      177.0,
+      129.0,
+      177.5
+    ],
+    "text": "50NT-026.54",
+    "raw_ocr": [
+      "50-NT",
+      "026.54"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.73,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate876_jpg.rf.0548eb0e84b2eba11ac55c6b1ad6a968.jpg",
+    "file_name": "CarLongPlate876_jpg.rf.0548eb0e84b2eba11ac55c6b1ad6a968.jpg",
+    "ann_id": 89,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      392.0,
+      423.0,
+      493.5,
+      473.5
+    ],
+    "bbox_coco": [
+      392.0,
+      423.0,
+      101.5,
+      50.5
+    ],
+    "text": "29A-239.50",
+    "raw_ocr": [
+      "29A-23950"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.01,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate84_jpg.rf.f287439d6e8515dbec61b02d18286401.jpg",
+    "file_name": "xemayBigPlate84_jpg.rf.f287439d6e8515dbec61b02d18286401.jpg",
+    "ann_id": 90,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      191.0,
+      295.0,
+      383.0,
+      463.0
+    ],
+    "bbox_coco": [
+      191.0,
+      295.0,
+      192.0,
+      168.0
+    ],
+    "text": "65H7-8003",
+    "raw_ocr": [
+      "65-H7",
+      "8003"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.14,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay570_jpg.rf.8d926924ab0ea41c221c4b3a072fd068.jpg",
+    "file_name": "xemay570_jpg.rf.8d926924ab0ea41c221c4b3a072fd068.jpg",
+    "ann_id": 91,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      267.0,
+      479.0,
+      396.0,
+      639.5
+    ],
+    "bbox_coco": [
+      267.0,
+      479.0,
+      129.0,
+      160.5
+    ],
+    "text": "79M1-791.17",
+    "raw_ocr": [
+      "79-M1",
+      "791.17"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1847_jpg.rf.2b05e168b440617658bbe75f5b275644.jpg",
+    "file_name": "xemay1847_jpg.rf.2b05e168b440617658bbe75f5b275644.jpg",
+    "ann_id": 92,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      228.0,
+      254.0,
+      309.5,
+      345.0
+    ],
+    "bbox_coco": [
+      228.0,
+      254.0,
+      81.5,
+      91.0
+    ],
+    "text": "59F1-123.29",
+    "raw_ocr": [
+      "59F1",
+      "12329"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.9,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate189_jpg.rf.d9473a91370f0052ef7a674226c9af1c.jpg",
+    "file_name": "CarLongPlate189_jpg.rf.d9473a91370f0052ef7a674226c9af1c.jpg",
+    "ann_id": 93,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      172.0,
+      245.0,
+      313.0,
+      302.0
+    ],
+    "bbox_coco": [
+      172.0,
+      245.0,
+      141.0,
+      57.0
+    ],
+    "text": "52P-5688",
+    "raw_ocr": [
+      "52P-5688"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.47,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate513_jpg.rf.8ca7688e1fa889a44fb5fabd018787d2.jpg",
+    "file_name": "CarLongPlate513_jpg.rf.8ca7688e1fa889a44fb5fabd018787d2.jpg",
+    "ann_id": 94,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      334.0,
+      501.0,
+      482.0,
+      573.0
+    ],
+    "bbox_coco": [
+      334.0,
+      501.0,
+      148.0,
+      72.0
+    ],
+    "text": "51G-254.81",
+    "raw_ocr": [
+      "51G-25481"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.06,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate769_jpg.rf.56044c5487874bb8ae937472be0b93d8.jpg",
+    "file_name": "CarLongPlate769_jpg.rf.56044c5487874bb8ae937472be0b93d8.jpg",
+    "ann_id": 95,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      415.0,
+      537.0,
+      527.5,
+      587.5
+    ],
+    "bbox_coco": [
+      415.0,
+      537.0,
+      112.5,
+      50.5
+    ],
+    "text": "51F-491.42",
+    "raw_ocr": [
+      "51F-49142"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.23,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate268_jpg.rf.d487768182068a04b7ad1b06a25ead35.jpg",
+    "file_name": "CarLongPlate268_jpg.rf.d487768182068a04b7ad1b06a25ead35.jpg",
+    "ann_id": 96,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      361.0,
+      338.0,
+      494.0,
+      399.5
+    ],
+    "bbox_coco": [
+      361.0,
+      338.0,
+      133.0,
+      61.5
+    ],
+    "text": "51A-648.26",
+    "raw_ocr": [
+      "51A-648.26"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.16,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay426_jpg.rf.9e17b852b91b481aaad129dc533e53af.jpg",
+    "file_name": "xemay426_jpg.rf.9e17b852b91b481aaad129dc533e53af.jpg",
+    "ann_id": 97,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      179.0,
+      154.0,
+      291.5,
+      293.5
+    ],
+    "bbox_coco": [
+      179.0,
+      154.0,
+      112.5,
+      139.5
+    ],
+    "text": "59F1-561.29",
+    "raw_ocr": [
+      "59-F1",
+      "56129"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.81,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate246_jpg.rf.8247cd1c3965a0630aade6b1d015664f.jpg",
+    "file_name": "CarLongPlate246_jpg.rf.8247cd1c3965a0630aade6b1d015664f.jpg",
+    "ann_id": 98,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      335.0,
+      530.0,
+      441.0,
+      574.5
+    ],
+    "bbox_coco": [
+      335.0,
+      530.0,
+      106.0,
+      44.5
+    ],
+    "text": "51F-893.57",
+    "raw_ocr": [
+      "51F89357"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.38,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate23_jpg.rf.e4a87c3c19697c6295da513b3a570634.jpg",
+    "file_name": "xemayBigPlate23_jpg.rf.e4a87c3c19697c6295da513b3a570634.jpg",
+    "ann_id": 99,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      218.0,
+      352.0,
+      345.0,
+      467.0
+    ],
+    "bbox_coco": [
+      218.0,
+      352.0,
+      127.0,
+      115.0
+    ],
+    "text": "65D1-177.80",
+    "raw_ocr": [
+      "65·D1",
+      "17780"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.1,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate500_jpg.rf.9a81aefa407402e787f7e278a77e551a.jpg",
+    "file_name": "CarLongPlate500_jpg.rf.9a81aefa407402e787f7e278a77e551a.jpg",
+    "ann_id": 100,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      306.0,
+      410.0,
+      441.5,
+      473.5
+    ],
+    "bbox_coco": [
+      306.0,
+      410.0,
+      135.5,
+      63.5
+    ],
+    "text": "62A-055.16",
+    "raw_ocr": [
+      "62A-05516"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.13,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1902_jpg.rf.702c4ad73cdcfcaa54e9db5b2350e10e.jpg",
+    "file_name": "xemay1902_jpg.rf.702c4ad73cdcfcaa54e9db5b2350e10e.jpg",
+    "ann_id": 101,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      301.0,
+      216.0,
+      363.5,
+      292.0
+    ],
+    "bbox_coco": [
+      301.0,
+      216.0,
+      62.5,
+      76.0
+    ],
+    "text": "59Y1-423.23",
+    "raw_ocr": [
+      "59-Y1",
+      "42323"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.82,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1656_jpg.rf.7b09fc024b23da3c4429906fbb6271c4.jpg",
+    "file_name": "xemay1656_jpg.rf.7b09fc024b23da3c4429906fbb6271c4.jpg",
+    "ann_id": 102,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      228.0,
+      435.0,
+      369.0,
+      595.5
+    ],
+    "bbox_coco": [
+      228.0,
+      435.0,
+      141.0,
+      160.5
+    ],
+    "text": "59E1-639.78",
+    "raw_ocr": [
+      "59-E1",
+      "639.78"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.88,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1469_jpg.rf.884807846b4acfeee33e18bdda14bd75.jpg",
+    "file_name": "xemay1469_jpg.rf.884807846b4acfeee33e18bdda14bd75.jpg",
+    "ann_id": 103,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      274.0,
+      304.0,
+      397.5,
+      462.5
+    ],
+    "bbox_coco": [
+      274.0,
+      304.0,
+      123.5,
+      158.5
+    ],
+    "text": "59P2-239.30",
+    "raw_ocr": [
+      "59-P2",
+      "23930"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate43_jpg.rf.9c616da056c72b92a9155116e12b00ff.jpg",
+    "file_name": "CarLongPlate43_jpg.rf.9c616da056c72b92a9155116e12b00ff.jpg",
+    "ann_id": 104,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      302.0,
+      446.0,
+      440.5,
+      496.5
+    ],
+    "bbox_coco": [
+      302.0,
+      446.0,
+      138.5,
+      50.5
+    ],
+    "text": "51G-216.70",
+    "raw_ocr": [
+      "51G-216.70"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.74,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate444_jpg.rf.dd5c1609531930f4cb123e9362973496.jpg",
+    "file_name": "CarLongPlate444_jpg.rf.dd5c1609531930f4cb123e9362973496.jpg",
+    "ann_id": 105,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      278.0,
+      270.0,
+      404.0,
+      331.5
+    ],
+    "bbox_coco": [
+      278.0,
+      270.0,
+      126.0,
+      61.5
+    ],
+    "text": "51A-256.68",
+    "raw_ocr": [
+      "51A256.68"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.05,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate40_jpg.rf.2716f4de607f434350e1476fa41e251e.jpg",
+    "file_name": "CarLongPlate40_jpg.rf.2716f4de607f434350e1476fa41e251e.jpg",
+    "ann_id": 106,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      196.0,
+      336.0,
+      345.0,
+      403.5
+    ],
+    "bbox_coco": [
+      196.0,
+      336.0,
+      149.0,
+      67.5
+    ],
+    "text": "51G-290.34",
+    "raw_ocr": [
+      "51G-290.34"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.21,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate121_jpg.rf.b786285a583ed255452b7a20a125e3d7.jpg",
+    "file_name": "CarLongPlate121_jpg.rf.b786285a583ed255452b7a20a125e3d7.jpg",
+    "ann_id": 107,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      267.0,
+      516.0,
+      413.5,
+      588.0
+    ],
+    "bbox_coco": [
+      267.0,
+      516.0,
+      146.5,
+      72.0
+    ],
+    "text": "51F-065.32",
+    "raw_ocr": [
+      "51F-065.32"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.03,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate14_jpg.rf.268f4a368adb96ed6d969f53e4e24bf4.jpg",
+    "file_name": "CarLongPlate14_jpg.rf.268f4a368adb96ed6d969f53e4e24bf4.jpg",
+    "ann_id": 108,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      405.0,
+      460.0,
+      502.5,
+      506.5
+    ],
+    "bbox_coco": [
+      405.0,
+      460.0,
+      97.5,
+      46.5
+    ],
+    "text": "60A-359.81",
+    "raw_ocr": [
+      "60A-359.81"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.1,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate580_jpg.rf.794a46cc85371509ee01afaceda100a4.jpg",
+    "file_name": "CarLongPlate580_jpg.rf.794a46cc85371509ee01afaceda100a4.jpg",
+    "ann_id": 109,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      180.0,
+      296.0,
+      330.5,
+      361.5
+    ],
+    "bbox_coco": [
+      180.0,
+      296.0,
+      150.5,
+      65.5
+    ],
+    "text": "51G-102.09",
+    "raw_ocr": [
+      "51G-102.09"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.3,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate884_jpg.rf.e8b6c2179282832629cea101ca8c0172.jpg",
+    "file_name": "CarLongPlate884_jpg.rf.e8b6c2179282832629cea101ca8c0172.jpg",
+    "ann_id": 110,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      136.0,
+      207.0,
+      298.5,
+      274.5
+    ],
+    "bbox_coco": [
+      136.0,
+      207.0,
+      162.5,
+      67.5
+    ],
+    "text": "51F-984.66",
+    "raw_ocr": [
+      "51F-984.66"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.41,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate233_jpg.rf.1e578c130ed13aca77563e9ad6088ee2.jpg",
+    "file_name": "CarLongPlate233_jpg.rf.1e578c130ed13aca77563e9ad6088ee2.jpg",
+    "ann_id": 111,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      374.0,
+      490.0,
+      490.5,
+      536.5
+    ],
+    "bbox_coco": [
+      374.0,
+      490.0,
+      116.5,
+      46.5
+    ],
+    "text": "60LD-005.84",
+    "raw_ocr": [
+      "60LD-005.84"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.51,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate233_jpg.rf.c55bd253b9daa08c16a7d98f5d32aa46.jpg",
+    "file_name": "xemayBigPlate233_jpg.rf.c55bd253b9daa08c16a7d98f5d32aa46.jpg",
+    "ann_id": 112,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      157.0,
+      161.0,
+      509.0,
+      479.5
+    ],
+    "bbox_coco": [
+      157.0,
+      161.0,
+      352.0,
+      318.5
+    ],
+    "text": "66K8-6475",
+    "raw_ocr": [
+      "66-K8",
+      "6475"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.11,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1363_jpg.rf.839ea47262a076226259e8e8726c3194.jpg",
+    "file_name": "xemay1363_jpg.rf.839ea47262a076226259e8e8726c3194.jpg",
+    "ann_id": 113,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      231.0,
+      190.0,
+      364.0,
+      361.0
+    ],
+    "bbox_coco": [
+      231.0,
+      190.0,
+      133.0,
+      171.0
+    ],
+    "text": "59T1-272.42",
+    "raw_ocr": [
+      "59-T1",
+      "27242"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1604_jpg.rf.94b81ceb96f405a77e5c643d1ab54123.jpg",
+    "file_name": "xemay1604_jpg.rf.94b81ceb96f405a77e5c643d1ab54123.jpg",
+    "ann_id": 114,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      191.0,
+      234.0,
+      303.5,
+      392.5
+    ],
+    "bbox_coco": [
+      191.0,
+      234.0,
+      112.5,
+      158.5
+    ],
+    "text": "77F1-284.72",
+    "raw_ocr": [
+      "77-F1",
+      "284.72"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.71,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate165_jpg.rf.9970f630bd564cd9e727e82289db044b.jpg",
+    "file_name": "xemayBigPlate165_jpg.rf.9970f630bd564cd9e727e82289db044b.jpg",
+    "ann_id": 115,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      158.0,
+      259.0,
+      307.5,
+      397.0
+    ],
+    "bbox_coco": [
+      158.0,
+      259.0,
+      149.5,
+      138.0
+    ],
+    "text": "94R1-9764",
+    "raw_ocr": [
+      "94-R1",
+      "9764"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.08,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2477_jpg.rf.d3a24027b1821adfaff71ee6fcb90a1f.jpg",
+    "file_name": "xemay2477_jpg.rf.d3a24027b1821adfaff71ee6fcb90a1f.jpg",
+    "ann_id": 116,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      257.0,
+      277.0,
+      341.0,
+      378.5
+    ],
+    "bbox_coco": [
+      257.0,
+      277.0,
+      84.0,
+      101.5
+    ],
+    "text": "59V2-1023",
+    "raw_ocr": [
+      "59-V2",
+      "10.23"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.83,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate744_jpg.rf.08750b4309bd1d83a0401372e4edf8c1.jpg",
+    "file_name": "CarLongPlate744_jpg.rf.08750b4309bd1d83a0401372e4edf8c1.jpg",
+    "ann_id": 117,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      285.0,
+      389.0,
+      420.5,
+      450.5
+    ],
+    "bbox_coco": [
+      285.0,
+      389.0,
+      135.5,
+      61.5
+    ],
+    "text": "51F-026.87",
+    "raw_ocr": [
+      "51F-026.87"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.2,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay998_jpg.rf.dd0c6c63650b417efd17c9cfd23f782f.jpg",
+    "file_name": "xemay998_jpg.rf.dd0c6c63650b417efd17c9cfd23f782f.jpg",
+    "ann_id": 118,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      214.0,
+      2.0,
+      334.5,
+      152.0
+    ],
+    "bbox_coco": [
+      214.0,
+      2.0,
+      120.5,
+      150.0
+    ],
+    "text": "59V1-136.29",
+    "raw_ocr": [
+      "59-v1",
+      "136.29"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1135_jpg.rf.8b1c54e247de062c5fe7d509036b115a.jpg",
+    "file_name": "xemay1135_jpg.rf.8b1c54e247de062c5fe7d509036b115a.jpg",
+    "ann_id": 119,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      191.0,
+      213.0,
+      318.5,
+      378.0
+    ],
+    "bbox_coco": [
+      191.0,
+      213.0,
+      127.5,
+      165.0
+    ],
+    "text": "52K3-8683",
+    "raw_ocr": [
+      "52-K3",
+      "8683"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate458_jpg.rf.21cfcb1dd4ad260f8dea050c5ae6c15f.jpg",
+    "file_name": "CarLongPlate458_jpg.rf.21cfcb1dd4ad260f8dea050c5ae6c15f.jpg",
+    "ann_id": 120,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      336.0,
+      469.0,
+      469.0,
+      534.5
+    ],
+    "bbox_coco": [
+      336.0,
+      469.0,
+      133.0,
+      65.5
+    ],
+    "text": "52Z-9755",
+    "raw_ocr": [
+      "52Z.9755"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.03,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate61_jpg.rf.b6fd74af0493ab3f2b377e94ace0502e.jpg",
+    "file_name": "CarLongPlate61_jpg.rf.b6fd74af0493ab3f2b377e94ace0502e.jpg",
+    "ann_id": 121,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      216.0,
+      459.0,
+      369.0,
+      535.0
+    ],
+    "bbox_coco": [
+      216.0,
+      459.0,
+      153.0,
+      76.0
+    ],
+    "text": "51F-311.18",
+    "raw_ocr": [
+      "51F-31118"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.01,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate205_jpg.rf.25d1ba29f1dee58eff712341318f72ec.jpg",
+    "file_name": "CarLongPlate205_jpg.rf.25d1ba29f1dee58eff712341318f72ec.jpg",
+    "ann_id": 122,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      190.0,
+      296.0,
+      347.5,
+      365.5
+    ],
+    "bbox_coco": [
+      190.0,
+      296.0,
+      157.5,
+      69.5
+    ],
+    "text": "51A-165.98",
+    "raw_ocr": [
+      "51A-165.98"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.27,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate108_jpg.rf.bfd6f5a153a49c9088ecfeebde09c797.jpg",
+    "file_name": "CarLongPlate108_jpg.rf.bfd6f5a153a49c9088ecfeebde09c797.jpg",
+    "ann_id": 123,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      266.0,
+      266.0,
+      397.5,
+      325.0
+    ],
+    "bbox_coco": [
+      266.0,
+      266.0,
+      131.5,
+      59.0
+    ],
+    "text": "51F-207.54",
+    "raw_ocr": [
+      "51F-207.54"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.23,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1154_jpg.rf.f1bd61978d03222cd150efe53eb2feb4.jpg",
+    "file_name": "xemay1154_jpg.rf.f1bd61978d03222cd150efe53eb2feb4.jpg",
+    "ann_id": 124,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      343.0,
+      192.0,
+      476.0,
+      367.5
+    ],
+    "bbox_coco": [
+      343.0,
+      192.0,
+      133.0,
+      175.5
+    ],
+    "text": "59T1-875.64",
+    "raw_ocr": [
+      "59-T1",
+      "87564"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.76,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate897_jpg.rf.ec157fe91d2c6fe9f3b6eb15fe3fec99.jpg",
+    "file_name": "CarLongPlate897_jpg.rf.ec157fe91d2c6fe9f3b6eb15fe3fec99.jpg",
+    "ann_id": 125,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      404.0,
+      473.0,
+      527.5,
+      534.5
+    ],
+    "bbox_coco": [
+      404.0,
+      473.0,
+      123.5,
+      61.5
+    ],
+    "text": "30V-3993",
+    "raw_ocr": [
+      "30V-3993"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.01,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate30_jpg.rf.33fccb64f269b25be7717b12b365f2aa.jpg",
+    "file_name": "CarLongPlate30_jpg.rf.33fccb64f269b25be7717b12b365f2aa.jpg",
+    "ann_id": 126,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      383.0,
+      530.0,
+      493.0,
+      576.5
+    ],
+    "bbox_coco": [
+      383.0,
+      530.0,
+      110.0,
+      46.5
+    ],
+    "text": "50LD-044.11",
+    "raw_ocr": [
+      "50LD-044.11"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.37,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate533_jpg.rf.8d9ee34f00ca32cc5d05e4dea3776fa8.jpg",
+    "file_name": "CarLongPlate533_jpg.rf.8d9ee34f00ca32cc5d05e4dea3776fa8.jpg",
+    "ann_id": 127,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      267.0,
+      520.0,
+      409.5,
+      596.0
+    ],
+    "bbox_coco": [
+      267.0,
+      520.0,
+      142.5,
+      76.0
+    ],
+    "text": "51G-394.66",
+    "raw_ocr": [
+      "51G-394.66"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.88,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate992_jpg.rf.11e08326ba1231364a46691fcd2df15e.jpg",
+    "file_name": "CarLongPlate992_jpg.rf.11e08326ba1231364a46691fcd2df15e.jpg",
+    "ann_id": 128,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      290.0,
+      444.0,
+      417.5,
+      494.5
+    ],
+    "bbox_coco": [
+      290.0,
+      444.0,
+      127.5,
+      50.5
+    ],
+    "text": "51F-582.14",
+    "raw_ocr": [
+      "51F-58214"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.52,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate138_jpg.rf.4ac80e226a00c99d8b7893cb7f32d9fc.jpg",
+    "file_name": "xemayBigPlate138_jpg.rf.4ac80e226a00c99d8b7893cb7f32d9fc.jpg",
+    "ann_id": 129,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      227.0,
+      357.0,
+      371.0,
+      492.0
+    ],
+    "bbox_coco": [
+      227.0,
+      357.0,
+      144.0,
+      135.0
+    ],
+    "text": "67K7-9747",
+    "raw_ocr": [
+      "67-K7",
+      "9747"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.07,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2108_jpg.rf.830ac280e271aedfc12b6495993d5a17.jpg",
+    "file_name": "xemay2108_jpg.rf.830ac280e271aedfc12b6495993d5a17.jpg",
+    "ann_id": 130,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      275.0,
+      224.0,
+      322.5,
+      285.5
+    ],
+    "bbox_coco": [
+      275.0,
+      224.0,
+      47.5,
+      61.5
+    ],
+    "text": "59K1-563.78",
+    "raw_ocr": [
+      "59-K1",
+      "56378"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate862_jpg.rf.2b521fab929f1240ec1ae0978be46245.jpg",
+    "file_name": "CarLongPlate862_jpg.rf.2b521fab929f1240ec1ae0978be46245.jpg",
+    "ann_id": 131,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      311.0,
+      532.0,
+      431.5,
+      599.5
+    ],
+    "bbox_coco": [
+      311.0,
+      532.0,
+      120.5,
+      67.5
+    ],
+    "text": "51G-205.36",
+    "raw_ocr": [
+      "51G-205.36"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.79,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay2082_jpg.rf.4db33a72eda9c56fa43b300c6d3ff206.jpg",
+    "file_name": "xemay2082_jpg.rf.4db33a72eda9c56fa43b300c6d3ff206.jpg",
+    "ann_id": 132,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      195.0,
+      281.0,
+      257.5,
+      350.5
+    ],
+    "bbox_coco": [
+      195.0,
+      281.0,
+      62.5,
+      69.5
+    ],
+    "text": "79K7-8987",
+    "raw_ocr": [
+      "79-K7",
+      "8987"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.9,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate953_jpg.rf.751465996e2a6f551834472a44982b2a.jpg",
+    "file_name": "CarLongPlate953_jpg.rf.751465996e2a6f551834472a44982b2a.jpg",
+    "ann_id": 133,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      322.0,
+      439.0,
+      455.0,
+      500.5
+    ],
+    "bbox_coco": [
+      322.0,
+      439.0,
+      133.0,
+      61.5
+    ],
+    "text": "51F-753.26",
+    "raw_ocr": [
+      "51F-753.26"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.16,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay638_jpg.rf.4da88b5df622a6b1dc0e2954b5181002.jpg",
+    "file_name": "xemay638_jpg.rf.4da88b5df622a6b1dc0e2954b5181002.jpg",
+    "ann_id": 134,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      233.0,
+      198.0,
+      353.5,
+      354.5
+    ],
+    "bbox_coco": [
+      233.0,
+      198.0,
+      120.5,
+      156.5
+    ],
+    "text": "59K1-0787",
+    "raw_ocr": [
+      "59-K1",
+      "0787"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay524_jpg.rf.fee9a61349496c4daef7c0dc2ae4e90d.jpg",
+    "file_name": "xemay524_jpg.rf.fee9a61349496c4daef7c0dc2ae4e90d.jpg",
+    "ann_id": 135,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      296.0,
+      410.0,
+      406.0,
+      547.5
+    ],
+    "bbox_coco": [
+      296.0,
+      410.0,
+      110.0,
+      137.5
+    ],
+    "text": "59P1-128.75",
+    "raw_ocr": [
+      "59-P1",
+      "128.75"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2403_jpg.rf.4ca97155dcde8eee5c6ed2637ea8472d.jpg",
+    "file_name": "xemay2403_jpg.rf.4ca97155dcde8eee5c6ed2637ea8472d.jpg",
+    "ann_id": 136,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      412.0,
+      237.0,
+      475.5,
+      296.0
+    ],
+    "bbox_coco": [
+      412.0,
+      237.0,
+      63.5,
+      59.0
+    ],
+    "text": "59X7-374.38",
+    "raw_ocr": [
+      "59X7",
+      "37438"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.08,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate282_jpg.rf.dd1a77c7b54c210d8d644aae0d1d495e.jpg",
+    "file_name": "CarLongPlate282_jpg.rf.dd1a77c7b54c210d8d644aae0d1d495e.jpg",
+    "ann_id": 137,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      281.0,
+      511.0,
+      430.0,
+      585.0
+    ],
+    "bbox_coco": [
+      281.0,
+      511.0,
+      149.0,
+      74.0
+    ],
+    "text": "51G-436.30",
+    "raw_ocr": [
+      "51G-436.30"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.01,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay48_jpg.rf.f9b18def9d9d09b908ec9b9fd6e9ea4e.jpg",
+    "file_name": "xemay48_jpg.rf.f9b18def9d9d09b908ec9b9fd6e9ea4e.jpg",
+    "ann_id": 138,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      245.0,
+      311.0,
+      349.5,
+      440.0
+    ],
+    "bbox_coco": [
+      245.0,
+      311.0,
+      104.5,
+      129.0
+    ],
+    "text": "51R5-6273",
+    "raw_ocr": [
+      "51R5",
+      "6273"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.81,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate402_jpg.rf.0fb77b3b1b9350de00a0644bc78a2b5d.jpg",
+    "file_name": "CarLongPlate402_jpg.rf.0fb77b3b1b9350de00a0644bc78a2b5d.jpg",
+    "ann_id": 139,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      173.0,
+      131.0,
+      311.5,
+      190.0
+    ],
+    "bbox_coco": [
+      173.0,
+      131.0,
+      138.5,
+      59.0
+    ],
+    "text": "51G-217.48",
+    "raw_ocr": [
+      "51G-217.48"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.35,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay2144_jpg.rf.48f8815f741648adeb0920efadf532b2.jpg",
+    "file_name": "xemay2144_jpg.rf.48f8815f741648adeb0920efadf532b2.jpg",
+    "ann_id": 140,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      220.0,
+      131.0,
+      283.5,
+      205.0
+    ],
+    "bbox_coco": [
+      220.0,
+      131.0,
+      63.5,
+      74.0
+    ],
+    "text": "59F1-2582",
+    "raw_ocr": [
+      "59-F1",
+      "2582"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.86,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate986_jpg.rf.1e65435621cfc6efd34f2fac70e819e9.jpg",
+    "file_name": "CarLongPlate986_jpg.rf.1e65435621cfc6efd34f2fac70e819e9.jpg",
+    "ann_id": 141,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      312.0,
+      380.0,
+      436.5,
+      447.5
+    ],
+    "bbox_coco": [
+      312.0,
+      380.0,
+      124.5,
+      67.5
+    ],
+    "text": "51G-481.54",
+    "raw_ocr": [
+      "51G-48154"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.84,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate521_jpg.rf.8c728c4bf7943b4b153941890222f792.jpg",
+    "file_name": "CarLongPlate521_jpg.rf.8c728c4bf7943b4b153941890222f792.jpg",
+    "ann_id": 142,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      275.0,
+      439.0,
+      418.5,
+      511.0
+    ],
+    "bbox_coco": [
+      275.0,
+      439.0,
+      143.5,
+      72.0
+    ],
+    "text": "51A-853.25",
+    "raw_ocr": [
+      "51A-85325"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.99,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate203_jpg.rf.7aa976d56639fab07b830075fc87cbb2.jpg",
+    "file_name": "CarLongPlate203_jpg.rf.7aa976d56639fab07b830075fc87cbb2.jpg",
+    "ann_id": 143,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      185.0,
+      291.0,
+      341.0,
+      356.5
+    ],
+    "bbox_coco": [
+      185.0,
+      291.0,
+      156.0,
+      65.5
+    ],
+    "text": "51F-747.76",
+    "raw_ocr": [
+      "51F-747.76"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.38,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate311_jpg.rf.83d603d9af6cee2d8875bbcf233a4de7.jpg",
+    "file_name": "CarLongPlate311_jpg.rf.83d603d9af6cee2d8875bbcf233a4de7.jpg",
+    "ann_id": 144,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      300.0,
+      380.0,
+      446.5,
+      452.0
+    ],
+    "bbox_coco": [
+      300.0,
+      380.0,
+      146.5,
+      72.0
+    ],
+    "text": "51G-316.91",
+    "raw_ocr": [
+      "51G-316.91"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.03,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate325_jpg.rf.979e728b4915e913052852a7c85f7b09.jpg",
+    "file_name": "CarLongPlate325_jpg.rf.979e728b4915e913052852a7c85f7b09.jpg",
+    "ann_id": 145,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      344.0,
+      471.0,
+      425.5,
+      557.5
+    ],
+    "bbox_coco": [
+      344.0,
+      471.0,
+      81.5,
+      86.5
+    ],
+    "text": "60M-8965",
+    "raw_ocr": [
+      "60M",
+      "8965"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.94,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1782_jpg.rf.614cfc815437d559ae604c9e8a44a6a1.jpg",
+    "file_name": "xemay1782_jpg.rf.614cfc815437d559ae604c9e8a44a6a1.jpg",
+    "ann_id": 146,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      231.0,
+      304.0,
+      313.5,
+      407.5
+    ],
+    "bbox_coco": [
+      231.0,
+      304.0,
+      82.5,
+      103.5
+    ],
+    "text": "59H-622.81",
+    "raw_ocr": [
+      "59-H",
+      "62281"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate473_jpg.rf.6ef1bccbea3cb5ef197614b129bb7091.jpg",
+    "file_name": "CarLongPlate473_jpg.rf.6ef1bccbea3cb5ef197614b129bb7091.jpg",
+    "ann_id": 147,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      318.0,
+      437.0,
+      452.0,
+      504.5
+    ],
+    "bbox_coco": [
+      318.0,
+      437.0,
+      134.0,
+      67.5
+    ],
+    "text": "51A-111.22",
+    "raw_ocr": [
+      "51A-111.22"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.99,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1746_jpg.rf.fe2563c25e6e230832be88e9ef5269b9.jpg",
+    "file_name": "xemay1746_jpg.rf.fe2563c25e6e230832be88e9ef5269b9.jpg",
+    "ann_id": 148,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      239.0,
+      218.0,
+      316.5,
+      313.0
+    ],
+    "bbox_coco": [
+      239.0,
+      218.0,
+      77.5,
+      95.0
+    ],
+    "text": "59S2-366.23",
+    "raw_ocr": [
+      "59-S2",
+      "36623"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.82,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1751_jpg.rf.abe0294312b241eda9a071d2894be727.jpg",
+    "file_name": "xemay1751_jpg.rf.abe0294312b241eda9a071d2894be727.jpg",
+    "ann_id": 149,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      294.0,
+      247.0,
+      362.0,
+      338.0
+    ],
+    "bbox_coco": [
+      294.0,
+      247.0,
+      68.0,
+      91.0
+    ],
+    "text": "51H2-3397",
+    "raw_ocr": [
+      "51-H2",
+      "3397"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2417_jpg.rf.f12e006c2516e2b52a150f7e932e5f78.jpg",
+    "file_name": "xemay2417_jpg.rf.f12e006c2516e2b52a150f7e932e5f78.jpg",
+    "ann_id": 150,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      236.0,
+      268.0,
+      287.5,
+      314.5
+    ],
+    "bbox_coco": [
+      236.0,
+      268.0,
+      51.5,
+      46.5
+    ],
+    "text": "59V2-453.87",
+    "raw_ocr": [
+      "59 V2",
+      "45387"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.11,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate385_jpg.rf.d1596b4e2e3c0f76242caf6172d60e81.jpg",
+    "file_name": "CarLongPlate385_jpg.rf.d1596b4e2e3c0f76242caf6172d60e81.jpg",
+    "ann_id": 151,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      228.0,
+      203.0,
+      382.5,
+      291.5
+    ],
+    "bbox_coco": [
+      228.0,
+      203.0,
+      154.5,
+      88.5
+    ],
+    "text": "51G-217.97",
+    "raw_ocr": [
+      "51G-21797"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.75,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1346_jpg.rf.35df36998298654404c5cbf65b1d9aa6.jpg",
+    "file_name": "xemay1346_jpg.rf.35df36998298654404c5cbf65b1d9aa6.jpg",
+    "ann_id": 152,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      175.0,
+      264.0,
+      323.0,
+      437.0
+    ],
+    "bbox_coco": [
+      175.0,
+      264.0,
+      148.0,
+      173.0
+    ],
+    "text": "59S2-316.06",
+    "raw_ocr": [
+      "59-S2",
+      "316.06"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.86,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate741_jpg.rf.8876de15b2de56f1e747f718d879251d.jpg",
+    "file_name": "CarLongPlate741_jpg.rf.8876de15b2de56f1e747f718d879251d.jpg",
+    "ann_id": 153,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      316.0,
+      334.0,
+      461.0,
+      408.0
+    ],
+    "bbox_coco": [
+      316.0,
+      334.0,
+      145.0,
+      74.0
+    ],
+    "text": "61A-300.01",
+    "raw_ocr": [
+      "61A-300.01"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.96,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1136_jpg.rf.da72f146493048a69949ec99cddef21c.jpg",
+    "file_name": "xemay1136_jpg.rf.da72f146493048a69949ec99cddef21c.jpg",
+    "ann_id": 154,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      303.0,
+      146.0,
+      433.0,
+      323.5
+    ],
+    "bbox_coco": [
+      303.0,
+      146.0,
+      130.0,
+      177.5
+    ],
+    "text": "63HT-6799",
+    "raw_ocr": [
+      "G3-HT",
+      "6799"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.73,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay911_jpg.rf.387591a83e20b68360a3ebbdc379afbc.jpg",
+    "file_name": "xemay911_jpg.rf.387591a83e20b68360a3ebbdc379afbc.jpg",
+    "ann_id": 155,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      209.0,
+      165.0,
+      327.0,
+      313.0
+    ],
+    "bbox_coco": [
+      209.0,
+      165.0,
+      118.0,
+      148.0
+    ],
+    "text": "59ET-029.93",
+    "raw_ocr": [
+      "59ET",
+      "02993"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate488_jpg.rf.7117ebf87b461fb55ef49dc4ef0382af.jpg",
+    "file_name": "CarLongPlate488_jpg.rf.7117ebf87b461fb55ef49dc4ef0382af.jpg",
+    "ann_id": 156,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      290.0,
+      425.0,
+      444.5,
+      494.5
+    ],
+    "bbox_coco": [
+      290.0,
+      425.0,
+      154.5,
+      69.5
+    ],
+    "text": "51F-590.11",
+    "raw_ocr": [
+      "51F-590.11"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.22,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate322_jpg.rf.25ed7bddba42b5a90f528b3ad879c2a4.jpg",
+    "file_name": "CarLongPlate322_jpg.rf.25ed7bddba42b5a90f528b3ad879c2a4.jpg",
+    "ann_id": 157,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      388.0,
+      460.0,
+      529.0,
+      523.5
+    ],
+    "bbox_coco": [
+      388.0,
+      460.0,
+      141.0,
+      63.5
+    ],
+    "text": "51G-495.39",
+    "raw_ocr": [
+      "51G-49539"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.22,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate625_jpg.rf.e9e187bbf1433b9527a2a8d16c0989f6.jpg",
+    "file_name": "CarLongPlate625_jpg.rf.e9e187bbf1433b9527a2a8d16c0989f6.jpg",
+    "ann_id": 158,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      228.0,
+      275.0,
+      371.5,
+      342.5
+    ],
+    "bbox_coco": [
+      228.0,
+      275.0,
+      143.5,
+      67.5
+    ],
+    "text": "51G-428.61",
+    "raw_ocr": [
+      "51G-428.61"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.13,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate359_jpg.rf.6c27acca1d30855224e10daca13c5df2.jpg",
+    "file_name": "CarLongPlate359_jpg.rf.6c27acca1d30855224e10daca13c5df2.jpg",
+    "ann_id": 159,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      289.0,
+      448.0,
+      389.5,
+      505.0
+    ],
+    "bbox_coco": [
+      289.0,
+      448.0,
+      100.5,
+      57.0
+    ],
+    "text": "51F-612.12",
+    "raw_ocr": [
+      "51F-612.12"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.76,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate221_jpg.rf.3c222c5290e756dcbfd83fc78848f01d.jpg",
+    "file_name": "xemayBigPlate221_jpg.rf.3c222c5290e756dcbfd83fc78848f01d.jpg",
+    "ann_id": 160,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      168.0,
+      226.0,
+      426.0,
+      458.0
+    ],
+    "bbox_coco": [
+      168.0,
+      226.0,
+      258.0,
+      232.0
+    ],
+    "text": "65B1-045.66",
+    "raw_ocr": [
+      "65-B1",
+      "045.66"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.11,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2078_jpg.rf.955a38f67872af6b050a622b3c30b694.jpg",
+    "file_name": "xemay2078_jpg.rf.955a38f67872af6b050a622b3c30b694.jpg",
+    "ann_id": 161,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      313.0,
+      306.0,
+      374.0,
+      375.5
+    ],
+    "bbox_coco": [
+      313.0,
+      306.0,
+      61.0,
+      69.5
+    ],
+    "text": "59V1-597.16",
+    "raw_ocr": [
+      "59V1",
+      "59716"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.88,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay92_jpg.rf.f09cedb56a4299029c035b9b33d4c067.jpg",
+    "file_name": "xemay92_jpg.rf.f09cedb56a4299029c035b9b33d4c067.jpg",
+    "ann_id": 162,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      239.0,
+      213.0,
+      338.0,
+      335.5
+    ],
+    "bbox_coco": [
+      239.0,
+      213.0,
+      99.0,
+      122.5
+    ],
+    "text": "59L1-540.63",
+    "raw_ocr": [
+      "59-L1",
+      "540.63"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.81,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate101_jpg.rf.b5620cf6b8e3d3b6fe5b25e5becba840.jpg",
+    "file_name": "xemayBigPlate101_jpg.rf.b5620cf6b8e3d3b6fe5b25e5becba840.jpg",
+    "ann_id": 163,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      234.0,
+      301.0,
+      416.5,
+      484.5
+    ],
+    "bbox_coco": [
+      234.0,
+      301.0,
+      182.5,
+      183.5
+    ],
+    "text": "83P1-649.32",
+    "raw_ocr": [
+      "83·P1",
+      "649.32"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.99,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate412_jpg.rf.1ac53a545d6d0792bf417235be4f0cae.jpg",
+    "file_name": "CarLongPlate412_jpg.rf.1ac53a545d6d0792bf417235be4f0cae.jpg",
+    "ann_id": 164,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      198.0,
+      461.0,
+      337.5,
+      516.0
+    ],
+    "bbox_coco": [
+      198.0,
+      461.0,
+      139.5,
+      55.0
+    ],
+    "text": "51F-687.84",
+    "raw_ocr": [
+      "51F-687.84"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.54,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1305_jpg.rf.f46948fa622692389fbfd3d79bfbdf34.jpg",
+    "file_name": "xemay1305_jpg.rf.f46948fa622692389fbfd3d79bfbdf34.jpg",
+    "ann_id": 165,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      243.0,
+      285.0,
+      372.0,
+      464.5
+    ],
+    "bbox_coco": [
+      243.0,
+      285.0,
+      129.0,
+      179.5
+    ],
+    "text": "83P2-131.73",
+    "raw_ocr": [
+      "83P2",
+      "131.73"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.72,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1424_jpg.rf.97b5be5746f6a0f8ac526a10d34b44d9.jpg",
+    "file_name": "xemay1424_jpg.rf.97b5be5746f6a0f8ac526a10d34b44d9.jpg",
+    "ann_id": 166,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      358.0,
+      150.0,
+      474.5,
+      306.5
+    ],
+    "bbox_coco": [
+      358.0,
+      150.0,
+      116.5,
+      156.5
+    ],
+    "text": "51H2-4476",
+    "raw_ocr": [
+      "51-H2",
+      "4476"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.74,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate384_jpg.rf.3695764e8e4391d35f778cb444c5890b.jpg",
+    "file_name": "CarLongPlate384_jpg.rf.3695764e8e4391d35f778cb444c5890b.jpg",
+    "ann_id": 167,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      255.0,
+      122.0,
+      389.0,
+      183.5
+    ],
+    "bbox_coco": [
+      255.0,
+      122.0,
+      134.0,
+      61.5
+    ],
+    "text": "51F-783.96",
+    "raw_ocr": [
+      "51F-78396"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.18,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate9_jpg.rf.765546ec1146406d1720cd71cfae6356.jpg",
+    "file_name": "xemayBigPlate9_jpg.rf.765546ec1146406d1720cd71cfae6356.jpg",
+    "ann_id": 168,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      220.0,
+      299.0,
+      367.0,
+      442.5
+    ],
+    "bbox_coco": [
+      220.0,
+      299.0,
+      147.0,
+      143.5
+    ],
+    "text": "65V2-0206",
+    "raw_ocr": [
+      "65-V2",
+      "0206"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.02,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1730_jpg.rf.4f5a596fb6393489b420e2a2b2a03889.jpg",
+    "file_name": "xemay1730_jpg.rf.4f5a596fb6393489b420e2a2b2a03889.jpg",
+    "ann_id": 169,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      244.0,
+      100.0,
+      375.5,
+      269.0
+    ],
+    "bbox_coco": [
+      244.0,
+      100.0,
+      131.5,
+      169.0
+    ],
+    "text": "59C7-560.86",
+    "raw_ocr": [
+      "59-C7",
+      "56086"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate35_jpg.rf.3de2b29cc9dfe38a3b1c6592546660d7.jpg",
+    "file_name": "CarLongPlate35_jpg.rf.3de2b29cc9dfe38a3b1c6592546660d7.jpg",
+    "ann_id": 170,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      182.0,
+      279.0,
+      340.5,
+      346.5
+    ],
+    "bbox_coco": [
+      182.0,
+      279.0,
+      158.5,
+      67.5
+    ],
+    "text": "51F-795.12",
+    "raw_ocr": [
+      "51F-795.12"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.35,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate305_jpg.rf.68e6779b0803820f921ec8eebbdbec93.jpg",
+    "file_name": "CarLongPlate305_jpg.rf.68e6779b0803820f921ec8eebbdbec93.jpg",
+    "ann_id": 171,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      341.0,
+      399.0,
+      486.0,
+      473.0
+    ],
+    "bbox_coco": [
+      341.0,
+      399.0,
+      145.0,
+      74.0
+    ],
+    "text": "51G-006.72",
+    "raw_ocr": [
+      "51G-006.72"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.96,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay847_jpg.rf.b36f294e8d342478422ca19d420533ce.jpg",
+    "file_name": "xemay847_jpg.rf.b36f294e8d342478422ca19d420533ce.jpg",
+    "ann_id": 172,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      263.0,
+      163.0,
+      377.0,
+      328.0
+    ],
+    "bbox_coco": [
+      263.0,
+      163.0,
+      114.0,
+      165.0
+    ],
+    "text": "59V2-455.06",
+    "raw_ocr": [
+      "59V2",
+      "45506"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.69,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate944_jpg.rf.f35d86b48f56b81710c7ba2991d67f2c.jpg",
+    "file_name": "CarLongPlate944_jpg.rf.f35d86b48f56b81710c7ba2991d67f2c.jpg",
+    "ann_id": 173,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      175.0,
+      562.0,
+      317.5,
+      621.0
+    ],
+    "bbox_coco": [
+      175.0,
+      562.0,
+      142.5,
+      59.0
+    ],
+    "text": "51A-961.41",
+    "raw_ocr": [
+      "51A-961.41"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.42,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate221_jpg.rf.63643a6c267319fdae9812db01b5bf65.jpg",
+    "file_name": "CarLongPlate221_jpg.rf.63643a6c267319fdae9812db01b5bf65.jpg",
+    "ann_id": 174,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      339.0,
+      528.0,
+      445.0,
+      589.5
+    ],
+    "bbox_coco": [
+      339.0,
+      528.0,
+      106.0,
+      61.5
+    ],
+    "text": "51C-512.92",
+    "raw_ocr": [
+      "51C-51292"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.72,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate797_jpg.rf.7fbf160ca1376fd67ce24d30120ee0d6.jpg",
+    "file_name": "CarLongPlate797_jpg.rf.7fbf160ca1376fd67ce24d30120ee0d6.jpg",
+    "ann_id": 175,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      292.0,
+      507.0,
+      426.0,
+      560.0
+    ],
+    "bbox_coco": [
+      292.0,
+      507.0,
+      134.0,
+      53.0
+    ],
+    "text": "60A-214.18",
+    "raw_ocr": [
+      "60A-214.18"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.53,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1372_jpg.rf.902afc3703fbb36a49be514a4ea849c7.jpg",
+    "file_name": "xemay1372_jpg.rf.902afc3703fbb36a49be514a4ea849c7.jpg",
+    "ann_id": 176,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      247.0,
+      285.0,
+      367.5,
+      439.0
+    ],
+    "bbox_coco": [
+      247.0,
+      285.0,
+      120.5,
+      154.0
+    ],
+    "text": "59H7-609.19",
+    "raw_ocr": [
+      "59-H7",
+      "60919"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2389_jpg.rf.ba1d05ca571ef17ac742e7d9670b4ce6.jpg",
+    "file_name": "xemay2389_jpg.rf.ba1d05ca571ef17ac742e7d9670b4ce6.jpg",
+    "ann_id": 177,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      183.0,
+      384.0,
+      245.5,
+      449.5
+    ],
+    "bbox_coco": [
+      183.0,
+      384.0,
+      62.5,
+      65.5
+    ],
+    "text": "71B1-125.22",
+    "raw_ocr": [
+      "71-81",
+      "12522"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.95,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate609_jpg.rf.d378819eb9860649bcfd51fa836dc63d.jpg",
+    "file_name": "CarLongPlate609_jpg.rf.d378819eb9860649bcfd51fa836dc63d.jpg",
+    "ann_id": 178,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      134.0,
+      296.0,
+      284.5,
+      368.0
+    ],
+    "bbox_coco": [
+      134.0,
+      296.0,
+      150.5,
+      72.0
+    ],
+    "text": "51G-274.71",
+    "raw_ocr": [
+      "51G-274.71"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.09,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay793_jpg.rf.e26ce7a0de28902bbd042e3894a8cee8.jpg",
+    "file_name": "xemay793_jpg.rf.e26ce7a0de28902bbd042e3894a8cee8.jpg",
+    "ann_id": 179,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      252.0,
+      349.0,
+      351.0,
+      480.0
+    ],
+    "bbox_coco": [
+      252.0,
+      349.0,
+      99.0,
+      131.0
+    ],
+    "text": "51P9-8308",
+    "raw_ocr": [
+      "51-P9",
+      "8308"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.76,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2007_jpg.rf.e9ef9d2e0467b7321aaf762de90af469.jpg",
+    "file_name": "xemay2007_jpg.rf.e9ef9d2e0467b7321aaf762de90af469.jpg",
+    "ann_id": 180,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      258.0,
+      270.0,
+      335.5,
+      358.5
+    ],
+    "bbox_coco": [
+      258.0,
+      270.0,
+      77.5,
+      88.5
+    ],
+    "text": "67C7-053.55",
+    "raw_ocr": [
+      "67.C7",
+      "05355"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.88,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate176_jpg.rf.0e77420363290914df95c958b7df4242.jpg",
+    "file_name": "CarLongPlate176_jpg.rf.0e77420363290914df95c958b7df4242.jpg",
+    "ann_id": 181,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      205.0,
+      279.0,
+      369.0,
+      348.5
+    ],
+    "bbox_coco": [
+      205.0,
+      279.0,
+      164.0,
+      69.5
+    ],
+    "text": "51G-376.75",
+    "raw_ocr": [
+      "51G-376.75"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.36,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate223_jpg.rf.1bb5c82561531944b39dafe83327279f.jpg",
+    "file_name": "CarLongPlate223_jpg.rf.1bb5c82561531944b39dafe83327279f.jpg",
+    "ann_id": 182,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      297.0,
+      311.0,
+      416.5,
+      366.0
+    ],
+    "bbox_coco": [
+      297.0,
+      311.0,
+      119.5,
+      55.0
+    ],
+    "text": "51A-654.74",
+    "raw_ocr": [
+      "51A-654.74"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.17,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1798_jpg.rf.cbec0492dec4082cc9b39549cb4e7937.jpg",
+    "file_name": "xemay1798_jpg.rf.cbec0492dec4082cc9b39549cb4e7937.jpg",
+    "ann_id": 183,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      240.0,
+      279.0,
+      317.5,
+      374.0
+    ],
+    "bbox_coco": [
+      240.0,
+      279.0,
+      77.5,
+      95.0
+    ],
+    "text": "83P1-675.60",
+    "raw_ocr": [
+      "83-P1",
+      "675.60"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.82,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate284_jpg.rf.0d1caf533303e64293a2e4d3ccdf82cd.jpg",
+    "file_name": "CarLongPlate284_jpg.rf.0d1caf533303e64293a2e4d3ccdf82cd.jpg",
+    "ann_id": 184,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      299.0,
+      420.0,
+      436.0,
+      487.5
+    ],
+    "bbox_coco": [
+      299.0,
+      420.0,
+      137.0,
+      67.5
+    ],
+    "text": "50Z-1630",
+    "raw_ocr": [
+      "50Z-1630"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.03,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate682_jpg.rf.5da0a440f7cff1c7ccbbabfed438d152.jpg",
+    "file_name": "CarLongPlate682_jpg.rf.5da0a440f7cff1c7ccbbabfed438d152.jpg",
+    "ann_id": 185,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      237.0,
+      500.0,
+      370.0,
+      561.5
+    ],
+    "bbox_coco": [
+      237.0,
+      500.0,
+      133.0,
+      61.5
+    ],
+    "text": "51F-558.27",
+    "raw_ocr": [
+      "51F-558.27"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.16,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay718_jpg.rf.5f7b5c9d9384b18e964b73121784779e.jpg",
+    "file_name": "xemay718_jpg.rf.5f7b5c9d9384b18e964b73121784779e.jpg",
+    "ann_id": 186,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      349.0,
+      212.0,
+      460.0,
+      383.0
+    ],
+    "bbox_coco": [
+      349.0,
+      212.0,
+      111.0,
+      171.0
+    ],
+    "text": "83C7-171.11",
+    "raw_ocr": [
+      "83-C7",
+      "171.11"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.65,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate18_jpg.rf.f834a439cb3e3215dd0102bc15fd9241.jpg",
+    "file_name": "CarLongPlate18_jpg.rf.f834a439cb3e3215dd0102bc15fd9241.jpg",
+    "ann_id": 187,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      370.0,
+      547.0,
+      474.5,
+      587.0
+    ],
+    "bbox_coco": [
+      370.0,
+      547.0,
+      104.5,
+      40.0
+    ],
+    "text": "51F-042.75",
+    "raw_ocr": [
+      "51F-04275"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.61,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate922_jpg.rf.efc3ad95957e8993a5f8926305a78673.jpg",
+    "file_name": "CarLongPlate922_jpg.rf.efc3ad95957e8993a5f8926305a78673.jpg",
+    "ann_id": 188,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      258.0,
+      315.0,
+      381.5,
+      357.0
+    ],
+    "bbox_coco": [
+      258.0,
+      315.0,
+      123.5,
+      42.0
+    ],
+    "text": "51F-069.48",
+    "raw_ocr": [
+      "51F-069.48"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.94,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate766_jpg.rf.1995cdb8db4d6c7d40e1427b78e30fb2.jpg",
+    "file_name": "CarLongPlate766_jpg.rf.1995cdb8db4d6c7d40e1427b78e30fb2.jpg",
+    "ann_id": 189,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      227.0,
+      336.0,
+      372.0,
+      399.5
+    ],
+    "bbox_coco": [
+      227.0,
+      336.0,
+      145.0,
+      63.5
+    ],
+    "text": "51G-251.81",
+    "raw_ocr": [
+      "51G-251.81"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.28,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate653_jpg.rf.161f972df47ed1287a5a999ba48a5b47.jpg",
+    "file_name": "CarLongPlate653_jpg.rf.161f972df47ed1287a5a999ba48a5b47.jpg",
+    "ann_id": 190,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      346.0,
+      368.0,
+      488.5,
+      435.5
+    ],
+    "bbox_coco": [
+      346.0,
+      368.0,
+      142.5,
+      67.5
+    ],
+    "text": "51C-593.23",
+    "raw_ocr": [
+      "51C-593.23"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.11,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1292_jpg.rf.3c5156a4e1d711ff7a2a152c90f245aa.jpg",
+    "file_name": "xemay1292_jpg.rf.3c5156a4e1d711ff7a2a152c90f245aa.jpg",
+    "ann_id": 191,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      218.0,
+      159.0,
+      338.5,
+      326.0
+    ],
+    "bbox_coco": [
+      218.0,
+      159.0,
+      120.5,
+      167.0
+    ],
+    "text": "39F1-5014",
+    "raw_ocr": [
+      "39-F1",
+      "5014"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.72,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay352_jpg.rf.54bea0b512b91b4ecde41500b0ca937d.jpg",
+    "file_name": "xemay352_jpg.rf.54bea0b512b91b4ecde41500b0ca937d.jpg",
+    "ann_id": 192,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      250.0,
+      239.0,
+      372.0,
+      395.5
+    ],
+    "bbox_coco": [
+      250.0,
+      239.0,
+      122.0,
+      156.5
+    ],
+    "text": "52F6-4378",
+    "raw_ocr": [
+      "52-F6",
+      "4378"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate882_jpg.rf.90756549f7c78bceeb871799552dc44d.jpg",
+    "file_name": "CarLongPlate882_jpg.rf.90756549f7c78bceeb871799552dc44d.jpg",
+    "ann_id": 193,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      199.0,
+      224.0,
+      345.5,
+      296.0
+    ],
+    "bbox_coco": [
+      199.0,
+      224.0,
+      146.5,
+      72.0
+    ],
+    "text": "51F-778.36",
+    "raw_ocr": [
+      "51F-778.36"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.03,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay76_jpg.rf.3e2e89a959a05687cd7e7945c94c9efe.jpg",
+    "file_name": "xemay76_jpg.rf.3e2e89a959a05687cd7e7945c94c9efe.jpg",
+    "ann_id": 194,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      254.0,
+      412.0,
+      368.0,
+      560.0
+    ],
+    "bbox_coco": [
+      254.0,
+      412.0,
+      114.0,
+      148.0
+    ],
+    "text": "59F1-704.24",
+    "raw_ocr": [
+      "59-F1",
+      "704.24"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1728_jpg.rf.49b2cf24b1e1eecc4f573e3a80928ce2.jpg",
+    "file_name": "xemay1728_jpg.rf.49b2cf24b1e1eecc4f573e3a80928ce2.jpg",
+    "ann_id": 195,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      274.0,
+      194.0,
+      400.0,
+      371.5
+    ],
+    "bbox_coco": [
+      274.0,
+      194.0,
+      126.0,
+      177.5
+    ],
+    "text": "59P7-332.02",
+    "raw_ocr": [
+      "59-P7",
+      "332.02"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.71,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay700_jpg.rf.167f63e9efb08d42182ed9d1b516f30b.jpg",
+    "file_name": "xemay700_jpg.rf.167f63e9efb08d42182ed9d1b516f30b.jpg",
+    "ann_id": 196,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      213.0,
+      378.0,
+      323.0,
+      519.5
+    ],
+    "bbox_coco": [
+      213.0,
+      378.0,
+      110.0,
+      141.5
+    ],
+    "text": "59MT-077.90",
+    "raw_ocr": [
+      "59-MT",
+      "077 90"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay257_jpg.rf.db244f9eda3cf7148ca48a5fbb9a42a1.jpg",
+    "file_name": "xemay257_jpg.rf.db244f9eda3cf7148ca48a5fbb9a42a1.jpg",
+    "ann_id": 197,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      216.0,
+      289.0,
+      320.5,
+      413.5
+    ],
+    "bbox_coco": [
+      216.0,
+      289.0,
+      104.5,
+      124.5
+    ],
+    "text": "49N7-1975",
+    "raw_ocr": [
+      "49-N7",
+      "1975"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.84,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate902_jpg.rf.86668e3ede712c23bc1d2f6066b6066c.jpg",
+    "file_name": "CarLongPlate902_jpg.rf.86668e3ede712c23bc1d2f6066b6066c.jpg",
+    "ann_id": 198,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      323.0,
+      488.0,
+      434.0,
+      534.5
+    ],
+    "bbox_coco": [
+      323.0,
+      488.0,
+      111.0,
+      46.5
+    ],
+    "text": "60LD-4379",
+    "raw_ocr": [
+      "60LD4379"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.39,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate771_jpg.rf.5b3fbd04284cd0bca832b40232fe7d5b.jpg",
+    "file_name": "CarLongPlate771_jpg.rf.5b3fbd04284cd0bca832b40232fe7d5b.jpg",
+    "ann_id": 199,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      134.0,
+      179.0,
+      288.5,
+      242.5
+    ],
+    "bbox_coco": [
+      134.0,
+      179.0,
+      154.5,
+      63.5
+    ],
+    "text": "51B-216.66",
+    "raw_ocr": [
+      "51B-216.66"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.43,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate43_jpg.rf.50e6512788e5862e98db4128e3ef3fd3.jpg",
+    "file_name": "xemayBigPlate43_jpg.rf.50e6512788e5862e98db4128e3ef3fd3.jpg",
+    "ann_id": 200,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      223.0,
+      307.0,
+      373.5,
+      443.5
+    ],
+    "bbox_coco": [
+      223.0,
+      307.0,
+      150.5,
+      136.5
+    ],
+    "text": "68S6-0789",
+    "raw_ocr": [
+      "68·S6",
+      "0789"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.1,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1933_jpg.rf.27032a490cfc51215c6e8e571891379a.jpg",
+    "file_name": "xemay1933_jpg.rf.27032a490cfc51215c6e8e571891379a.jpg",
+    "ann_id": 201,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      270.0,
+      270.0,
+      331.0,
+      337.5
+    ],
+    "bbox_coco": [
+      270.0,
+      270.0,
+      61.0,
+      67.5
+    ],
+    "text": "59W1-217.04",
+    "raw_ocr": [
+      "59W1",
+      "217 04"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.9,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate135_jpg.rf.c2da9c05f4d18843ff2693556244647a.jpg",
+    "file_name": "CarLongPlate135_jpg.rf.c2da9c05f4d18843ff2693556244647a.jpg",
+    "ann_id": 202,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      163.0,
+      315.0,
+      304.0,
+      380.5
+    ],
+    "bbox_coco": [
+      163.0,
+      315.0,
+      141.0,
+      65.5
+    ],
+    "text": "51G-228.07",
+    "raw_ocr": [
+      "51G-228.07"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.15,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate937_jpg.rf.c5a57d5875d621cb270a3e0ad488054c.jpg",
+    "file_name": "CarLongPlate937_jpg.rf.c5a57d5875d621cb270a3e0ad488054c.jpg",
+    "ann_id": 203,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      266.0,
+      359.0,
+      390.5,
+      403.5
+    ],
+    "bbox_coco": [
+      266.0,
+      359.0,
+      124.5,
+      44.5
+    ],
+    "text": "61A-229.59",
+    "raw_ocr": [
+      "61A-229.59"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.8,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate190_jpg.rf.8424c8c7b7e85c4f3ad430076531e6fa.jpg",
+    "file_name": "CarLongPlate190_jpg.rf.8424c8c7b7e85c4f3ad430076531e6fa.jpg",
+    "ann_id": 204,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      228.0,
+      249.0,
+      378.5,
+      318.5
+    ],
+    "bbox_coco": [
+      228.0,
+      249.0,
+      150.5,
+      69.5
+    ],
+    "text": "51F-734.20",
+    "raw_ocr": [
+      "51F-734.20"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.17,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1550_jpg.rf.9eeca931db9083eb35af8b309e148f8d.jpg",
+    "file_name": "xemay1550_jpg.rf.9eeca931db9083eb35af8b309e148f8d.jpg",
+    "ann_id": 205,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      346.0,
+      184.0,
+      470.5,
+      357.0
+    ],
+    "bbox_coco": [
+      346.0,
+      184.0,
+      124.5,
+      173.0
+    ],
+    "text": "81B1-387.46",
+    "raw_ocr": [
+      "81-81",
+      "38746"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.72,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate798_jpg.rf.b34f3097abc30ee2f9bb509dd08c625d.jpg",
+    "file_name": "CarLongPlate798_jpg.rf.b34f3097abc30ee2f9bb509dd08c625d.jpg",
+    "ann_id": 206,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      158.0,
+      431.0,
+      292.0,
+      479.5
+    ],
+    "bbox_coco": [
+      158.0,
+      431.0,
+      134.0,
+      48.5
+    ],
+    "text": "51A-720.78",
+    "raw_ocr": [
+      "51A-720.78"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.76,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay11_jpg.rf.e53f666b8319c87a96fa4a7dbcd4611b.jpg",
+    "file_name": "xemay11_jpg.rf.e53f666b8319c87a96fa4a7dbcd4611b.jpg",
+    "ann_id": 207,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      190.0,
+      65.0,
+      335.0,
+      240.5
+    ],
+    "bbox_coco": [
+      190.0,
+      65.0,
+      145.0,
+      175.5
+    ],
+    "text": "59F1-138.60",
+    "raw_ocr": [
+      "59-F1",
+      "138.60"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.83,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate14_jpg.rf.b2d827fd6ce611e86360c9767ea874f8.jpg",
+    "file_name": "xemayBigPlate14_jpg.rf.b2d827fd6ce611e86360c9767ea874f8.jpg",
+    "ann_id": 208,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      214.0,
+      316.0,
+      388.0,
+      489.5
+    ],
+    "bbox_coco": [
+      214.0,
+      316.0,
+      174.0,
+      173.5
+    ],
+    "text": "83C1-062.71",
+    "raw_ocr": [
+      "83-C1",
+      "062.71"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.0,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate255_jpg.rf.70c532923ac751c0374bdf2745ed9558.jpg",
+    "file_name": "CarLongPlate255_jpg.rf.70c532923ac751c0374bdf2745ed9558.jpg",
+    "ann_id": 209,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      306.0,
+      403.0,
+      441.5,
+      468.5
+    ],
+    "bbox_coco": [
+      306.0,
+      403.0,
+      135.5,
+      65.5
+    ],
+    "text": "51G-429.71",
+    "raw_ocr": [
+      "51G-429.71"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.07,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate6_jpg.rf.8bfc5b4af9ba9b56cf7cbe2b5b0a003a.jpg",
+    "file_name": "xemayBigPlate6_jpg.rf.8bfc5b4af9ba9b56cf7cbe2b5b0a003a.jpg",
+    "ann_id": 210,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      235.0,
+      313.0,
+      396.0,
+      469.5
+    ],
+    "bbox_coco": [
+      235.0,
+      313.0,
+      161.0,
+      156.5
+    ],
+    "text": "65D1-029.72",
+    "raw_ocr": [
+      "65-D1",
+      "029.72"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.03,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate162_jpg.rf.6c766ef91b40f7606660e310a98b0821.jpg",
+    "file_name": "CarLongPlate162_jpg.rf.6c766ef91b40f7606660e310a98b0821.jpg",
+    "ann_id": 211,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      195.0,
+      201.0,
+      351.0,
+      266.5
+    ],
+    "bbox_coco": [
+      195.0,
+      201.0,
+      156.0,
+      65.5
+    ],
+    "text": "51F-066.09",
+    "raw_ocr": [
+      "51F-066.09"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.38,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate210_jpg.rf.b01cb801a72187c658b2ada78e8c0a5b.jpg",
+    "file_name": "xemayBigPlate210_jpg.rf.b01cb801a72187c658b2ada78e8c0a5b.jpg",
+    "ann_id": 212,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      188.0,
+      207.0,
+      471.5,
+      479.0
+    ],
+    "bbox_coco": [
+      188.0,
+      207.0,
+      283.5,
+      272.0
+    ],
+    "text": "65P7-9679",
+    "raw_ocr": [
+      "65-P7",
+      "9679"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.04,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1353_jpg.rf.86b733b0d11b097c084d9fa557753d6e.jpg",
+    "file_name": "xemay1353_jpg.rf.86b733b0d11b097c084d9fa557753d6e.jpg",
+    "ann_id": 213,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      336.0,
+      138.0,
+      465.0,
+      309.0
+    ],
+    "bbox_coco": [
+      336.0,
+      138.0,
+      129.0,
+      171.0
+    ],
+    "text": "63B5-125",
+    "raw_ocr": [
+      "63-85",
+      "125"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2166_jpg.rf.8f18a156b002ab36102d86e3b72c15d3.jpg",
+    "file_name": "xemay2166_jpg.rf.8f18a156b002ab36102d86e3b72c15d3.jpg",
+    "ann_id": 214,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      248.0,
+      311.0,
+      345.5,
+      380.5
+    ],
+    "bbox_coco": [
+      248.0,
+      311.0,
+      97.5,
+      69.5
+    ],
+    "text": "59C1-131.83",
+    "raw_ocr": [
+      "59-C1",
+      "13183"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.4,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate784_jpg.rf.a9f3b28d295bd1c99d59e54551ef5d54.jpg",
+    "file_name": "CarLongPlate784_jpg.rf.a9f3b28d295bd1c99d59e54551ef5d54.jpg",
+    "ann_id": 215,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      183.0,
+      467.0,
+      312.0,
+      515.5
+    ],
+    "bbox_coco": [
+      183.0,
+      467.0,
+      129.0,
+      48.5
+    ],
+    "text": "51G-373.07",
+    "raw_ocr": [
+      "51G-373.07"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.66,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay147_jpg.rf.edaa05a4fe2e322775bc4b3362814493.jpg",
+    "file_name": "xemay147_jpg.rf.edaa05a4fe2e322775bc4b3362814493.jpg",
+    "ann_id": 216,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      242.0,
+      215.0,
+      356.0,
+      373.5
+    ],
+    "bbox_coco": [
+      242.0,
+      215.0,
+      114.0,
+      158.5
+    ],
+    "text": "59C1-397",
+    "raw_ocr": [
+      "59-C1",
+      "397."
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.72,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate445_jpg.rf.f2849a66d6e53e9bbd9c5437d8962d1f.jpg",
+    "file_name": "CarLongPlate445_jpg.rf.f2849a66d6e53e9bbd9c5437d8962d1f.jpg",
+    "ann_id": 217,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      294.0,
+      482.0,
+      402.5,
+      526.5
+    ],
+    "bbox_coco": [
+      294.0,
+      482.0,
+      108.5,
+      44.5
+    ],
+    "text": "51G-519.36",
+    "raw_ocr": [
+      "51G-519.36"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.44,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1124_jpg.rf.cbfe85d5a73ef01224b77fce9e76cff5.jpg",
+    "file_name": "xemay1124_jpg.rf.cbfe85d5a73ef01224b77fce9e76cff5.jpg",
+    "ann_id": 218,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      240.0,
+      243.0,
+      363.5,
+      397.0
+    ],
+    "bbox_coco": [
+      240.0,
+      243.0,
+      123.5,
+      154.0
+    ],
+    "text": "49G1-0999",
+    "raw_ocr": [
+      "49-G1",
+      "0999"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate509_jpg.rf.109bdb553082bcad7430b81ea6913b61.jpg",
+    "file_name": "CarLongPlate509_jpg.rf.109bdb553082bcad7430b81ea6913b61.jpg",
+    "ann_id": 219,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      324.0,
+      294.0,
+      457.0,
+      357.5
+    ],
+    "bbox_coco": [
+      324.0,
+      294.0,
+      133.0,
+      63.5
+    ],
+    "text": "51A-724.44",
+    "raw_ocr": [
+      "51A724.44"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.09,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemayBigPlate203_jpg.rf.5dcb678f5784a72a5b41b1185ceaa019.jpg",
+    "file_name": "xemayBigPlate203_jpg.rf.5dcb678f5784a72a5b41b1185ceaa019.jpg",
+    "ann_id": 220,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      57.0,
+      106.0,
+      507.0,
+      534.0
+    ],
+    "bbox_coco": [
+      57.0,
+      106.0,
+      450.0,
+      428.0
+    ],
+    "text": "65X1-7953",
+    "raw_ocr": [
+      "65-X1",
+      "7953"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.05,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate724_jpg.rf.6c18f67f0c1cbc5233436b8147cc0023.jpg",
+    "file_name": "CarLongPlate724_jpg.rf.6c18f67f0c1cbc5233436b8147cc0023.jpg",
+    "ann_id": 221,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      305.0,
+      380.0,
+      443.5,
+      445.5
+    ],
+    "bbox_coco": [
+      305.0,
+      380.0,
+      138.5,
+      65.5
+    ],
+    "text": "61A-395.34",
+    "raw_ocr": [
+      "61A-395.34"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.11,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate337_jpg.rf.bfdf6ab6c11ac8999cb135fb9867406b.jpg",
+    "file_name": "CarLongPlate337_jpg.rf.bfdf6ab6c11ac8999cb135fb9867406b.jpg",
+    "ann_id": 222,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      300.0,
+      258.0,
+      410.0,
+      317.0
+    ],
+    "bbox_coco": [
+      300.0,
+      258.0,
+      110.0,
+      59.0
+    ],
+    "text": "51G-100.96",
+    "raw_ocr": [
+      "51G-100.96"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.86,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1322_jpg.rf.23933f7f657d5868792008a9d5755e7c.jpg",
+    "file_name": "xemay1322_jpg.rf.23933f7f657d5868792008a9d5755e7c.jpg",
+    "ann_id": 223,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      279.0,
+      28.0,
+      408.0,
+      190.5
+    ],
+    "bbox_coco": [
+      279.0,
+      28.0,
+      129.0,
+      162.5
+    ],
+    "text": "86B2-2765",
+    "raw_ocr": [
+      "8682",
+      "2765"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.79,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2421_jpg.rf.a798588b39c80c8bb220486184ee6d35.jpg",
+    "file_name": "xemay2421_jpg.rf.a798588b39c80c8bb220486184ee6d35.jpg",
+    "ann_id": 224,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      235.0,
+      384.0,
+      309.5,
+      449.5
+    ],
+    "bbox_coco": [
+      235.0,
+      384.0,
+      74.5,
+      65.5
+    ],
+    "text": "47HZ-5226",
+    "raw_ocr": [
+      "47-HZ",
+      "5226"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.14,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate756_jpg.rf.891780afad3639f042f82efa57ebd44d.jpg",
+    "file_name": "CarLongPlate756_jpg.rf.891780afad3639f042f82efa57ebd44d.jpg",
+    "ann_id": 225,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      391.0,
+      524.0,
+      498.0,
+      570.5
+    ],
+    "bbox_coco": [
+      391.0,
+      524.0,
+      107.0,
+      46.5
+    ],
+    "text": "51F-882.70",
+    "raw_ocr": [
+      "51F-88270"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.3,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay425_jpg.rf.d90c1f0886a74a5f5a162a10bb5981da.jpg",
+    "file_name": "xemay425_jpg.rf.d90c1f0886a74a5f5a162a10bb5981da.jpg",
+    "ann_id": 226,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      229.0,
+      328.0,
+      314.5,
+      444.0
+    ],
+    "bbox_coco": [
+      229.0,
+      328.0,
+      85.5,
+      116.0
+    ],
+    "text": "59T1-289.66",
+    "raw_ocr": [
+      "59 T1",
+      "28966"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.74,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1643_jpg.rf.0d2e3e85374aa109ca03fc5b5ceabd9d.jpg",
+    "file_name": "xemay1643_jpg.rf.0d2e3e85374aa109ca03fc5b5ceabd9d.jpg",
+    "ann_id": 227,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      196.0,
+      319.0,
+      322.0,
+      471.0
+    ],
+    "bbox_coco": [
+      196.0,
+      319.0,
+      126.0,
+      152.0
+    ],
+    "text": "77G7-257.59",
+    "raw_ocr": [
+      "77-G7",
+      "25759"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.83,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay2452_jpg.rf.498f825a5be9147dd5919133f6665b08.jpg",
+    "file_name": "xemay2452_jpg.rf.498f825a5be9147dd5919133f6665b08.jpg",
+    "ann_id": 228,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      261.0,
+      395.0,
+      330.0,
+      494.5
+    ],
+    "bbox_coco": [
+      261.0,
+      395.0,
+      69.0,
+      99.5
+    ],
+    "text": "59F1-629.19",
+    "raw_ocr": [
+      "59-F1",
+      "62919"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.69,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate81_jpg.rf.ef5ef290701e651b20fabdd922db3c89.jpg",
+    "file_name": "CarLongPlate81_jpg.rf.ef5ef290701e651b20fabdd922db3c89.jpg",
+    "ann_id": 229,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      285.0,
+      497.0,
+      434.0,
+      552.0
+    ],
+    "bbox_coco": [
+      285.0,
+      497.0,
+      149.0,
+      55.0
+    ],
+    "text": "51A-721.10",
+    "raw_ocr": [
+      "51A-72110"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.71,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1447_jpg.rf.144c91f96d41922b7188890db83efb85.jpg",
+    "file_name": "xemay1447_jpg.rf.144c91f96d41922b7188890db83efb85.jpg",
+    "ann_id": 230,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      278.0,
+      338.0,
+      390.5,
+      503.0
+    ],
+    "bbox_coco": [
+      278.0,
+      338.0,
+      112.5,
+      165.0
+    ],
+    "text": "59H-341.59",
+    "raw_ocr": [
+      "59-H",
+      "34159"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.68,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate611_jpg.rf.a0e781e4a7c90b06292e49e50597d1a5.jpg",
+    "file_name": "CarLongPlate611_jpg.rf.a0e781e4a7c90b06292e49e50597d1a5.jpg",
+    "ann_id": 231,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      233.0,
+      310.0,
+      376.5,
+      371.5
+    ],
+    "bbox_coco": [
+      233.0,
+      310.0,
+      143.5,
+      61.5
+    ],
+    "text": "56N-0666",
+    "raw_ocr": [
+      "56N-0666"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.33,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate589_jpg.rf.f23df2c8b7fdeec36605dac62ab90d13.jpg",
+    "file_name": "CarLongPlate589_jpg.rf.f23df2c8b7fdeec36605dac62ab90d13.jpg",
+    "ann_id": 232,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      255.0,
+      294.0,
+      416.5,
+      344.5
+    ],
+    "bbox_coco": [
+      255.0,
+      294.0,
+      161.5,
+      50.5
+    ],
+    "text": "62A-051.95",
+    "raw_ocr": [
+      "62A-051.95"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 3.2,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate168_jpg.rf.d431d4abb39fdc1ff6d5f7c7c6295dcf.jpg",
+    "file_name": "CarLongPlate168_jpg.rf.d431d4abb39fdc1ff6d5f7c7c6295dcf.jpg",
+    "ann_id": 233,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      230.0,
+      279.0,
+      376.5,
+      348.5
+    ],
+    "bbox_coco": [
+      230.0,
+      279.0,
+      146.5,
+      69.5
+    ],
+    "text": "43A-186.50",
+    "raw_ocr": [
+      "43A-186.50"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.11,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate869_jpg.rf.d157402e7eda5865a8bcbc7078e4e2be.jpg",
+    "file_name": "CarLongPlate869_jpg.rf.d157402e7eda5865a8bcbc7078e4e2be.jpg",
+    "ann_id": 234,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      189.0,
+      184.0,
+      334.0,
+      260.0
+    ],
+    "bbox_coco": [
+      189.0,
+      184.0,
+      145.0,
+      76.0
+    ],
+    "text": "51F-692.59",
+    "raw_ocr": [
+      "51F-692.59"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.91,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate973_jpg.rf.adc2d7cb910713880a41486d2d3e6fd5.jpg",
+    "file_name": "CarLongPlate973_jpg.rf.adc2d7cb910713880a41486d2d3e6fd5.jpg",
+    "ann_id": 235,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      300.0,
+      442.0,
+      427.5,
+      497.0
+    ],
+    "bbox_coco": [
+      300.0,
+      442.0,
+      127.5,
+      55.0
+    ],
+    "text": "51F-789.04",
+    "raw_ocr": [
+      "51F-789.04"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.32,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay750_jpg.rf.7755d26ef476171bf47faf090fd3e28e.jpg",
+    "file_name": "xemay750_jpg.rf.7755d26ef476171bf47faf090fd3e28e.jpg",
+    "ann_id": 236,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      354.0,
+      273.0,
+      470.5,
+      435.5
+    ],
+    "bbox_coco": [
+      354.0,
+      273.0,
+      116.5,
+      162.5
+    ],
+    "text": "59P1-179.69",
+    "raw_ocr": [
+      "59-P1",
+      "17969"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.72,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay358_jpg.rf.a1f1738e57f1cb37deab54ddf8a6097f.jpg",
+    "file_name": "xemay358_jpg.rf.a1f1738e57f1cb37deab54ddf8a6097f.jpg",
+    "ann_id": 237,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      255.0,
+      211.0,
+      377.0,
+      369.5
+    ],
+    "bbox_coco": [
+      255.0,
+      211.0,
+      122.0,
+      158.5
+    ],
+    "text": "59NT-180.63",
+    "raw_ocr": [
+      "59-NT",
+      "180.63"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate101_jpg.rf.3e4d13338f6a428588dda96e05344b79.jpg",
+    "file_name": "CarLongPlate101_jpg.rf.3e4d13338f6a428588dda96e05344b79.jpg",
+    "ann_id": 238,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      155.0,
+      192.0,
+      308.0,
+      253.5
+    ],
+    "bbox_coco": [
+      155.0,
+      192.0,
+      153.0,
+      61.5
+    ],
+    "text": "30N-4616",
+    "raw_ocr": [
+      "30N-4616"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.49,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay2430_jpg.rf.f836ba78da0521f4f57cea337093dc22.jpg",
+    "file_name": "xemay2430_jpg.rf.f836ba78da0521f4f57cea337093dc22.jpg",
+    "ann_id": 239,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      351.0,
+      306.0,
+      412.0,
+      386.5
+    ],
+    "bbox_coco": [
+      351.0,
+      306.0,
+      61.0,
+      80.5
+    ],
+    "text": "59S7-554.83",
+    "raw_ocr": [
+      "59S7",
+      "55483"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.76,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate340_jpg.rf.702672bf1b87433cdd5968e417a78c46.jpg",
+    "file_name": "CarLongPlate340_jpg.rf.702672bf1b87433cdd5968e417a78c46.jpg",
+    "ann_id": 240,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      247.0,
+      382.0,
+      374.5,
+      443.5
+    ],
+    "bbox_coco": [
+      247.0,
+      382.0,
+      127.5,
+      61.5
+    ],
+    "text": "51G-512.92",
+    "raw_ocr": [
+      "51G-51292"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.07,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate242_jpg.rf.f1ec7c2bd250008393e83bf486a80b78.jpg",
+    "file_name": "CarLongPlate242_jpg.rf.f1ec7c2bd250008393e83bf486a80b78.jpg",
+    "ann_id": 241,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      297.0,
+      410.0,
+      427.0,
+      460.5
+    ],
+    "bbox_coco": [
+      297.0,
+      410.0,
+      130.0,
+      50.5
+    ],
+    "text": "51F-598.81",
+    "raw_ocr": [
+      "51F-598.81"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.57,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay2067_jpg.rf.ba1e148a7530fa8c5bbe25656a006d7b.jpg",
+    "file_name": "xemay2067_jpg.rf.ba1e148a7530fa8c5bbe25656a006d7b.jpg",
+    "ann_id": 242,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      331.0,
+      260.0,
+      378.5,
+      317.0
+    ],
+    "bbox_coco": [
+      331.0,
+      260.0,
+      47.5,
+      57.0
+    ],
+    "text": "59N1-000.18",
+    "raw_ocr": [
+      "59N1",
+      "00018"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.83,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate849_jpg.rf.64235b29f51828cc6f17c92aee4113cd.jpg",
+    "file_name": "CarLongPlate849_jpg.rf.64235b29f51828cc6f17c92aee4113cd.jpg",
+    "ann_id": 243,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      206.0,
+      179.0,
+      354.0,
+      261.5
+    ],
+    "bbox_coco": [
+      206.0,
+      179.0,
+      148.0,
+      82.5
+    ],
+    "text": "51F-155.85",
+    "raw_ocr": [
+      "51F-155.85"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.79,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1773_jpg.rf.6c8c257680c4d2008e06b72f46a0ec6c.jpg",
+    "file_name": "xemay1773_jpg.rf.6c8c257680c4d2008e06b72f46a0ec6c.jpg",
+    "ann_id": 244,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      206.0,
+      194.0,
+      288.5,
+      276.5
+    ],
+    "bbox_coco": [
+      206.0,
+      194.0,
+      82.5,
+      82.5
+    ],
+    "text": "48FF-1856",
+    "raw_ocr": [
+      "48-FF",
+      "1856"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.0,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate995_jpg.rf.0fce595512b264423a38cd6bafa55564.jpg",
+    "file_name": "CarLongPlate995_jpg.rf.0fce595512b264423a38cd6bafa55564.jpg",
+    "ann_id": 245,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      210.0,
+      391.0,
+      339.0,
+      444.0
+    ],
+    "bbox_coco": [
+      210.0,
+      391.0,
+      129.0,
+      53.0
+    ],
+    "text": "50Z-0618",
+    "raw_ocr": [
+      "50Z-0618"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.43,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate225_jpg.rf.5b06a0a6b8f56a080da75eea29452503.jpg",
+    "file_name": "CarLongPlate225_jpg.rf.5b06a0a6b8f56a080da75eea29452503.jpg",
+    "ann_id": 246,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      175.0,
+      296.0,
+      337.5,
+      357.5
+    ],
+    "bbox_coco": [
+      175.0,
+      296.0,
+      162.5,
+      61.5
+    ],
+    "text": "60A-399.51",
+    "raw_ocr": [
+      "60A-399.51"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.64,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1821_jpg.rf.d53470fb43b7ce907435988156fc7928.jpg",
+    "file_name": "xemay1821_jpg.rf.d53470fb43b7ce907435988156fc7928.jpg",
+    "ann_id": 247,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      378.0,
+      277.0,
+      465.0,
+      376.5
+    ],
+    "bbox_coco": [
+      378.0,
+      277.0,
+      87.0,
+      99.5
+    ],
+    "text": "82K3-7689",
+    "raw_ocr": [
+      "82-K3",
+      "7689"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.87,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate7_jpg.rf.3b138ecbd1e86b31a0b03253f98e18c9.jpg",
+    "file_name": "CarLongPlate7_jpg.rf.3b138ecbd1e86b31a0b03253f98e18c9.jpg",
+    "ann_id": 248,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      269.0,
+      275.0,
+      421.0,
+      353.0
+    ],
+    "bbox_coco": [
+      269.0,
+      275.0,
+      152.0,
+      78.0
+    ],
+    "text": "51G-513.32",
+    "raw_ocr": [
+      "51G-51332"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.95,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1811_jpg.rf.280e6d86ab4303b56b8311033db89202.jpg",
+    "file_name": "xemay1811_jpg.rf.280e6d86ab4303b56b8311033db89202.jpg",
+    "ann_id": 249,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      324.0,
+      254.0,
+      415.0,
+      359.5
+    ],
+    "bbox_coco": [
+      324.0,
+      254.0,
+      91.0,
+      105.5
+    ],
+    "text": "59D1-627.87",
+    "raw_ocr": [
+      "59D1",
+      "627.87"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.86,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate156_jpg.rf.53228b82ad301818575203cc0a045388.jpg",
+    "file_name": "CarLongPlate156_jpg.rf.53228b82ad301818575203cc0a045388.jpg",
+    "ann_id": 250,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      393.0,
+      498.0,
+      508.5,
+      544.5
+    ],
+    "bbox_coco": [
+      393.0,
+      498.0,
+      115.5,
+      46.5
+    ],
+    "text": "51F-630.34",
+    "raw_ocr": [
+      "51F-630.34"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.48,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate772_jpg.rf.b2108e32027b7c853a4993885d5c1111.jpg",
+    "file_name": "CarLongPlate772_jpg.rf.b2108e32027b7c853a4993885d5c1111.jpg",
+    "ann_id": 251,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      183.0,
+      389.0,
+      314.5,
+      442.0
+    ],
+    "bbox_coco": [
+      183.0,
+      389.0,
+      131.5,
+      53.0
+    ],
+    "text": "51A-909.05",
+    "raw_ocr": [
+      "51A-909.05"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.48,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay950_jpg.rf.75b12289f44003ea4d8a302c073e5eb3.jpg",
+    "file_name": "xemay950_jpg.rf.75b12289f44003ea4d8a302c073e5eb3.jpg",
+    "ann_id": 252,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      261.0,
+      118.0,
+      356.0,
+      244.5
+    ],
+    "bbox_coco": [
+      261.0,
+      118.0,
+      95.0,
+      126.5
+    ],
+    "text": "59P1-857.00",
+    "raw_ocr": [
+      "59-P1",
+      "857.00"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay42_jpg.rf.82903a0dd53dd29b8a1924f5ebe906b6.jpg",
+    "file_name": "xemay42_jpg.rf.82903a0dd53dd29b8a1924f5ebe906b6.jpg",
+    "ann_id": 253,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      266.0,
+      186.0,
+      367.5,
+      312.5
+    ],
+    "bbox_coco": [
+      266.0,
+      186.0,
+      101.5,
+      126.5
+    ],
+    "text": "59V2-0085",
+    "raw_ocr": [
+      "59-V2",
+      "00.85"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate647_jpg.rf.15cdb0d4b57f1974ac1d66b9e2afbf31.jpg",
+    "file_name": "CarLongPlate647_jpg.rf.15cdb0d4b57f1974ac1d66b9e2afbf31.jpg",
+    "ann_id": 254,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      172.0,
+      307.0,
+      328.0,
+      385.0
+    ],
+    "bbox_coco": [
+      172.0,
+      307.0,
+      156.0,
+      78.0
+    ],
+    "text": "51F-695.45",
+    "raw_ocr": [
+      "51F-695.45"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.0,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay2114_jpg.rf.77c9d11ee4cfe22d3bec8a854618df71.jpg",
+    "file_name": "xemay2114_jpg.rf.77c9d11ee4cfe22d3bec8a854618df71.jpg",
+    "ann_id": 255,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      293.0,
+      336.0,
+      355.5,
+      395.0
+    ],
+    "bbox_coco": [
+      293.0,
+      336.0,
+      62.5,
+      59.0
+    ],
+    "text": "59P1-892.67",
+    "raw_ocr": [
+      "59·P1",
+      "89267"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.06,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1800_jpg.rf.eff67e007a4955214bd00e299e269e10.jpg",
+    "file_name": "xemay1800_jpg.rf.eff67e007a4955214bd00e299e269e10.jpg",
+    "ann_id": 256,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      253.0,
+      319.0,
+      322.0,
+      407.5
+    ],
+    "bbox_coco": [
+      253.0,
+      319.0,
+      69.0,
+      88.5
+    ],
+    "text": "59N1-875.15",
+    "raw_ocr": [
+      "59-N1",
+      "87515"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.78,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate266_jpg.rf.d952b90b6e91ec5efe2ead040387d3fa.jpg",
+    "file_name": "CarLongPlate266_jpg.rf.d952b90b6e91ec5efe2ead040387d3fa.jpg",
+    "ann_id": 257,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      306.0,
+      446.0,
+      448.5,
+      528.5
+    ],
+    "bbox_coco": [
+      306.0,
+      446.0,
+      142.5,
+      82.5
+    ],
+    "text": "51F-161.59",
+    "raw_ocr": [
+      "51F-16159"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.73,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay727_jpg.rf.fa87acbca283682662757801efceabad.jpg",
+    "file_name": "xemay727_jpg.rf.fa87acbca283682662757801efceabad.jpg",
+    "ann_id": 258,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      331.0,
+      157.0,
+      432.5,
+      311.0
+    ],
+    "bbox_coco": [
+      331.0,
+      157.0,
+      101.5,
+      154.0
+    ],
+    "text": "51H5-8092",
+    "raw_ocr": [
+      "51-H5",
+      "8092"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.66,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate163_jpg.rf.e656dd6c02a7a16086850ad87252c977.jpg",
+    "file_name": "CarLongPlate163_jpg.rf.e656dd6c02a7a16086850ad87252c977.jpg",
+    "ann_id": 259,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      244.0,
+      222.0,
+      402.5,
+      294.0
+    ],
+    "bbox_coco": [
+      244.0,
+      222.0,
+      158.5,
+      72.0
+    ],
+    "text": "51A-897.14",
+    "raw_ocr": [
+      "51A-897.14"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.2,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay246_jpg.rf.3b53479cf6d18c4465ce1e6f925b42ff.jpg",
+    "file_name": "xemay246_jpg.rf.3b53479cf6d18c4465ce1e6f925b42ff.jpg",
+    "ann_id": 260,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      274.0,
+      311.0,
+      400.0,
+      492.5
+    ],
+    "bbox_coco": [
+      274.0,
+      311.0,
+      126.0,
+      181.5
+    ],
+    "text": "95G1-016.43",
+    "raw_ocr": [
+      "95-G1",
+      "016.43"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.69,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate354_jpg.rf.ef55412395f4435c7414378f031ebe70.jpg",
+    "file_name": "CarLongPlate354_jpg.rf.ef55412395f4435c7414378f031ebe70.jpg",
+    "ann_id": 261,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      400.0,
+      416.0,
+      501.5,
+      456.0
+    ],
+    "bbox_coco": [
+      400.0,
+      416.0,
+      101.5,
+      40.0
+    ],
+    "text": "51G-510.08",
+    "raw_ocr": [
+      "51G-51008"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.54,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate899_jpg.rf.037857178f530334c76af1dcaaee19e1.jpg",
+    "file_name": "CarLongPlate899_jpg.rf.037857178f530334c76af1dcaaee19e1.jpg",
+    "ann_id": 262,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      251.0,
+      118.0,
+      403.0,
+      183.5
+    ],
+    "bbox_coco": [
+      251.0,
+      118.0,
+      152.0,
+      65.5
+    ],
+    "text": "51A-759.32",
+    "raw_ocr": [
+      "51A759.32"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.32,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1713_jpg.rf.855d9e1d6c53ac314324ed9973009fa8.jpg",
+    "file_name": "xemay1713_jpg.rf.855d9e1d6c53ac314324ed9973009fa8.jpg",
+    "ann_id": 263,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      174.0,
+      317.0,
+      281.0,
+      450.0
+    ],
+    "bbox_coco": [
+      174.0,
+      317.0,
+      107.0,
+      133.0
+    ],
+    "text": "59Y1-584.47",
+    "raw_ocr": [
+      "59-Y1",
+      "58447"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay773_jpg.rf.b45069b54cc6540d18fd787ed2153a82.jpg",
+    "file_name": "xemay773_jpg.rf.b45069b54cc6540d18fd787ed2153a82.jpg",
+    "ann_id": 264,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      159.0,
+      317.0,
+      282.5,
+      486.0
+    ],
+    "bbox_coco": [
+      159.0,
+      317.0,
+      123.5,
+      169.0
+    ],
+    "text": "71E1-305.77",
+    "raw_ocr": [
+      "71-E1",
+      "30577"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.73,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate823_jpg.rf.486cf2e46b3ca997ad1c423a85f83914.jpg",
+    "file_name": "CarLongPlate823_jpg.rf.486cf2e46b3ca997ad1c423a85f83914.jpg",
+    "ann_id": 265,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      340.0,
+      467.0,
+      452.5,
+      520.0
+    ],
+    "bbox_coco": [
+      340.0,
+      467.0,
+      112.5,
+      53.0
+    ],
+    "text": "52Y-6490",
+    "raw_ocr": [
+      "52Y-6490"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.12,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay588_jpg.rf.d2a48922f7acd64efe96bb4b67302835.jpg",
+    "file_name": "xemay588_jpg.rf.d2a48922f7acd64efe96bb4b67302835.jpg",
+    "ann_id": 266,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      275.0,
+      184.0,
+      399.5,
+      346.5
+    ],
+    "bbox_coco": [
+      275.0,
+      184.0,
+      124.5,
+      162.5
+    ],
+    "text": "59F1-090.31",
+    "raw_ocr": [
+      "59-F1",
+      "090.31"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.77,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay712_jpg.rf.c4ff60b2884c546bf882d41c423844b0.jpg",
+    "file_name": "xemay712_jpg.rf.c4ff60b2884c546bf882d41c423844b0.jpg",
+    "ann_id": 267,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      280.0,
+      273.0,
+      406.0,
+      454.5
+    ],
+    "bbox_coco": [
+      280.0,
+      273.0,
+      126.0,
+      181.5
+    ],
+    "text": "82B1-261.69",
+    "raw_ocr": [
+      "82-B1",
+      "26169"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.69,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay630_jpg.rf.9be33f36b4218a98dda9db13e2e54cbe.jpg",
+    "file_name": "xemay630_jpg.rf.9be33f36b4218a98dda9db13e2e54cbe.jpg",
+    "ann_id": 268,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      217.0,
+      228.0,
+      331.0,
+      367.5
+    ],
+    "bbox_coco": [
+      217.0,
+      228.0,
+      114.0,
+      139.5
+    ],
+    "text": "59E1-070.59",
+    "raw_ocr": [
+      "59-E1",
+      "07059"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.82,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1002_jpg.rf.286ddcd2d6af64e6b28a8620b149a363.jpg",
+    "file_name": "xemay1002_jpg.rf.286ddcd2d6af64e6b28a8620b149a363.jpg",
+    "ann_id": 269,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      173.0,
+      254.0,
+      288.5,
+      397.5
+    ],
+    "bbox_coco": [
+      173.0,
+      254.0,
+      115.5,
+      143.5
+    ],
+    "text": "93F1-170.78",
+    "raw_ocr": [
+      "93-F1",
+      "170.78"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.8,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate166_jpg.rf.b2d2f4851a02e60ab4b24a162e80a86d.jpg",
+    "file_name": "CarLongPlate166_jpg.rf.b2d2f4851a02e60ab4b24a162e80a86d.jpg",
+    "ann_id": 270,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      205.0,
+      190.0,
+      347.5,
+      262.0
+    ],
+    "bbox_coco": [
+      205.0,
+      190.0,
+      142.5,
+      72.0
+    ],
+    "text": "51G-222.37",
+    "raw_ocr": [
+      "51G-22237"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.98,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate582_jpg.rf.53271905fc5ec4fe6840e05dd73260fb.jpg",
+    "file_name": "CarLongPlate582_jpg.rf.53271905fc5ec4fe6840e05dd73260fb.jpg",
+    "ann_id": 271,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      274.0,
+      266.0,
+      416.5,
+      331.5
+    ],
+    "bbox_coco": [
+      274.0,
+      266.0,
+      142.5,
+      65.5
+    ],
+    "text": "51A-602.16",
+    "raw_ocr": [
+      "51A-602.16"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.18,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay144_jpg.rf.255137a1a72e37c33db4c4bc95b4dcd2.jpg",
+    "file_name": "xemay144_jpg.rf.255137a1a72e37c33db4c4bc95b4dcd2.jpg",
+    "ann_id": 272,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      247.0,
+      213.0,
+      355.5,
+      358.5
+    ],
+    "bbox_coco": [
+      247.0,
+      213.0,
+      108.5,
+      145.5
+    ],
+    "text": "59P1-325",
+    "raw_ocr": [
+      "59-P1",
+      "325"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay398_jpg.rf.2c84b622b006c27a1752c4861e08a1a8.jpg",
+    "file_name": "xemay398_jpg.rf.2c84b622b006c27a1752c4861e08a1a8.jpg",
+    "ann_id": 273,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      200.0,
+      264.0,
+      337.0,
+      429.0
+    ],
+    "bbox_coco": [
+      200.0,
+      264.0,
+      137.0,
+      165.0
+    ],
+    "text": "59B1-352.94",
+    "raw_ocr": [
+      "59-81",
+      "35294"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.83,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay1822_jpg.rf.6eae1bd49e923937e0bba90c0289bf9f.jpg",
+    "file_name": "xemay1822_jpg.rf.6eae1bd49e923937e0bba90c0289bf9f.jpg",
+    "ann_id": 274,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      262.0,
+      380.0,
+      347.5,
+      473.0
+    ],
+    "bbox_coco": [
+      262.0,
+      380.0,
+      85.5,
+      93.0
+    ],
+    "text": "59P1-179.80",
+    "raw_ocr": [
+      "59P1",
+      "179.80"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.92,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate854_jpg.rf.994349830bace81f173b3a3764e20216.jpg",
+    "file_name": "CarLongPlate854_jpg.rf.994349830bace81f173b3a3764e20216.jpg",
+    "ann_id": 275,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      187.0,
+      260.0,
+      345.5,
+      348.5
+    ],
+    "bbox_coco": [
+      187.0,
+      260.0,
+      158.5,
+      88.5
+    ],
+    "text": "29A-517.96",
+    "raw_ocr": [
+      "29A-517.96"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.79,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate868_jpg.rf.e08b878294ab817c324a1eab4d313743.jpg",
+    "file_name": "CarLongPlate868_jpg.rf.e08b878294ab817c324a1eab4d313743.jpg",
+    "ann_id": 276,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      367.0,
+      539.0,
+      482.5,
+      585.5
+    ],
+    "bbox_coco": [
+      367.0,
+      539.0,
+      115.5,
+      46.5
+    ],
+    "text": "51F-212.55",
+    "raw_ocr": [
+      "51F-21255"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.48,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate346_jpg.rf.8a2f6706e27802d18462947452aae1c1.jpg",
+    "file_name": "CarLongPlate346_jpg.rf.8a2f6706e27802d18462947452aae1c1.jpg",
+    "ann_id": 277,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      180.0,
+      467.0,
+      315.5,
+      520.0
+    ],
+    "bbox_coco": [
+      180.0,
+      467.0,
+      135.5,
+      53.0
+    ],
+    "text": "51G-495.24",
+    "raw_ocr": [
+      "51G-495.24"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.56,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay340_jpg.rf.5ab16d8eeebc86ac6bf1eed4cac6d29a.jpg",
+    "file_name": "xemay340_jpg.rf.5ab16d8eeebc86ac6bf1eed4cac6d29a.jpg",
+    "ann_id": 278,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      244.0,
+      224.0,
+      359.5,
+      376.0
+    ],
+    "bbox_coco": [
+      244.0,
+      224.0,
+      115.5,
+      152.0
+    ],
+    "text": "54P1-1782",
+    "raw_ocr": [
+      "54-P1",
+      "1782"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.76,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate399_jpg.rf.547cb2c409f986fcc0fc3b4327a19aa5.jpg",
+    "file_name": "CarLongPlate399_jpg.rf.547cb2c409f986fcc0fc3b4327a19aa5.jpg",
+    "ann_id": 279,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      225.0,
+      258.0,
+      378.0,
+      332.0
+    ],
+    "bbox_coco": [
+      225.0,
+      258.0,
+      153.0,
+      74.0
+    ],
+    "text": "51F-646.19",
+    "raw_ocr": [
+      "51F-646.19"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.07,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1475_jpg.rf.0fcdb7a967f287e2c6be937d2e774ca7.jpg",
+    "file_name": "xemay1475_jpg.rf.0fcdb7a967f287e2c6be937d2e774ca7.jpg",
+    "ann_id": 280,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      256.0,
+      330.0,
+      387.5,
+      482.0
+    ],
+    "bbox_coco": [
+      256.0,
+      330.0,
+      131.5,
+      152.0
+    ],
+    "text": "54P2-4739",
+    "raw_ocr": [
+      "54-P2",
+      "4739"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.87,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/xemay767_jpg.rf.5d5305800daeaad58d44397656d636bd.jpg",
+    "file_name": "xemay767_jpg.rf.5d5305800daeaad58d44397656d636bd.jpg",
+    "ann_id": 281,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      221.0,
+      344.0,
+      331.0,
+      483.5
+    ],
+    "bbox_coco": [
+      221.0,
+      344.0,
+      110.0,
+      139.5
+    ],
+    "text": "59P1-928.93",
+    "raw_ocr": [
+      "59-P1",
+      "928.93"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.79,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate224_jpg.rf.683325dc9b30794530f5b11aeb9826d2.jpg",
+    "file_name": "CarLongPlate224_jpg.rf.683325dc9b30794530f5b11aeb9826d2.jpg",
+    "ann_id": 282,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      357.0,
+      513.0,
+      465.5,
+      559.5
+    ],
+    "bbox_coco": [
+      357.0,
+      513.0,
+      108.5,
+      46.5
+    ],
+    "text": "47A-065.46",
+    "raw_ocr": [
+      "47A-065.46"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.33,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate100_jpg.rf.5909d6289ac6f7b51f817aef33bda33f.jpg",
+    "file_name": "CarLongPlate100_jpg.rf.5909d6289ac6f7b51f817aef33bda33f.jpg",
+    "ann_id": 283,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      281.0,
+      355.0,
+      424.5,
+      412.0
+    ],
+    "bbox_coco": [
+      281.0,
+      355.0,
+      143.5,
+      57.0
+    ],
+    "text": "51F-324.88",
+    "raw_ocr": [
+      "51F:324.88"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.52,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay663_jpg.rf.25c37456205899c9660ad0100fde0362.jpg",
+    "file_name": "xemay663_jpg.rf.25c37456205899c9660ad0100fde0362.jpg",
+    "ann_id": 284,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      270.0,
+      226.0,
+      404.0,
+      395.0
+    ],
+    "bbox_coco": [
+      270.0,
+      226.0,
+      134.0,
+      169.0
+    ],
+    "text": "59H-677.91",
+    "raw_ocr": [
+      "59-H",
+      "67791"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.79,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate171_jpg.rf.674cd400fb69fd0538edbede32ce0bbf.jpg",
+    "file_name": "CarLongPlate171_jpg.rf.674cd400fb69fd0538edbede32ce0bbf.jpg",
+    "ann_id": 285,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      369.0,
+      524.0,
+      476.0,
+      602.0
+    ],
+    "bbox_coco": [
+      369.0,
+      524.0,
+      107.0,
+      78.0
+    ],
+    "text": "51A-7210",
+    "raw_ocr": [
+      "51A7210"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.37,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate864_jpg.rf.20b8b28c08426a0a4b909397add23cee.jpg",
+    "file_name": "CarLongPlate864_jpg.rf.20b8b28c08426a0a4b909397add23cee.jpg",
+    "ann_id": 286,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      136.0,
+      250.0,
+      278.5,
+      326.0
+    ],
+    "bbox_coco": [
+      136.0,
+      250.0,
+      142.5,
+      76.0
+    ],
+    "text": "51F-153.80",
+    "raw_ocr": [
+      "51F-153.80"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.88,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate857_jpg.rf.37f06c27051958c8ba23251aca65a87e.jpg",
+    "file_name": "CarLongPlate857_jpg.rf.37f06c27051958c8ba23251aca65a87e.jpg",
+    "ann_id": 287,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      222.0,
+      306.0,
+      379.5,
+      371.5
+    ],
+    "bbox_coco": [
+      222.0,
+      306.0,
+      157.5,
+      65.5
+    ],
+    "text": "51F-048.77",
+    "raw_ocr": [
+      "51F-048.77"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.4,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate200_jpg.rf.871791d84c75c1e9a275d7c2ca0b093e.jpg",
+    "file_name": "CarLongPlate200_jpg.rf.871791d84c75c1e9a275d7c2ca0b093e.jpg",
+    "ann_id": 288,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      193.0,
+      215.0,
+      360.0,
+      282.5
+    ],
+    "bbox_coco": [
+      193.0,
+      215.0,
+      167.0,
+      67.5
+    ],
+    "text": "51A-029.23",
+    "raw_ocr": [
+      "51A-029.23"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.47,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate169_jpg.rf.cb06ed91f732a2c1f8e526375edbe335.jpg",
+    "file_name": "CarLongPlate169_jpg.rf.cb06ed91f732a2c1f8e526375edbe335.jpg",
+    "ann_id": 289,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      270.0,
+      304.0,
+      427.5,
+      386.5
+    ],
+    "bbox_coco": [
+      270.0,
+      304.0,
+      157.5,
+      82.5
+    ],
+    "text": "60A-038.68",
+    "raw_ocr": [
+      "60A-038.68"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.91,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1122_jpg.rf.4ce23330742a2fb14669fd75af631993.jpg",
+    "file_name": "xemay1122_jpg.rf.4ce23330742a2fb14669fd75af631993.jpg",
+    "ann_id": 290,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      238.0,
+      357.0,
+      375.0,
+      538.5
+    ],
+    "bbox_coco": [
+      238.0,
+      357.0,
+      137.0,
+      181.5
+    ],
+    "text": "79N2-098.54",
+    "raw_ocr": [
+      "79-N2",
+      "098.54"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.75,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate209_jpg.rf.488696f40367f24ccf9eb27eec801947.jpg",
+    "file_name": "CarLongPlate209_jpg.rf.488696f40367f24ccf9eb27eec801947.jpg",
+    "ann_id": 291,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      137.0,
+      148.0,
+      280.5,
+      215.5
+    ],
+    "bbox_coco": [
+      137.0,
+      148.0,
+      143.5,
+      67.5
+    ],
+    "text": "51G-011.77",
+    "raw_ocr": [
+      "51G-011.77"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.13,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/xemay1998_jpg.rf.298f290d43b1840e4403148b9f07c0c2.jpg",
+    "file_name": "xemay1998_jpg.rf.298f290d43b1840e4403148b9f07c0c2.jpg",
+    "ann_id": 292,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      301.0,
+      243.0,
+      366.0,
+      308.5
+    ],
+    "bbox_coco": [
+      301.0,
+      243.0,
+      65.0,
+      65.5
+    ],
+    "text": "59C2-019.09",
+    "raw_ocr": [
+      "59-C2",
+      "019.09"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 0.99,
+    "vehicle_type": "moto"
+  },
+  {
+    "image_id": "source_a/CarLongPlate603_jpg.rf.6e3fd58ae0832d4ec2129902ffd88a17.jpg",
+    "file_name": "CarLongPlate603_jpg.rf.6e3fd58ae0832d4ec2129902ffd88a17.jpg",
+    "ann_id": 293,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      186.0,
+      370.0,
+      335.0,
+      435.5
+    ],
+    "bbox_coco": [
+      186.0,
+      370.0,
+      149.0,
+      65.5
+    ],
+    "text": "51F-646.65",
+    "raw_ocr": [
+      "51F-646.65"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.27,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate543_jpg.rf.c3404bcd2fae72368552b59c3d0364e4.jpg",
+    "file_name": "CarLongPlate543_jpg.rf.c3404bcd2fae72368552b59c3d0364e4.jpg",
+    "ann_id": 294,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      309.0,
+      380.0,
+      438.0,
+      449.5
+    ],
+    "bbox_coco": [
+      309.0,
+      380.0,
+      129.0,
+      69.5
+    ],
+    "text": "51A-775.29",
+    "raw_ocr": [
+      "51A775.29"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.86,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate286_jpg.rf.bb45b7c751a494ebbb06494a867e5e2b.jpg",
+    "file_name": "CarLongPlate286_jpg.rf.bb45b7c751a494ebbb06494a867e5e2b.jpg",
+    "ann_id": 295,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      271.0,
+      288.0,
+      391.5,
+      347.0
+    ],
+    "bbox_coco": [
+      271.0,
+      288.0,
+      120.5,
+      59.0
+    ],
+    "text": "51A-459.74",
+    "raw_ocr": [
+      "51A459.74"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.04,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate824_jpg.rf.b2f83bc686b8191339a6601f8e5ee16f.jpg",
+    "file_name": "CarLongPlate824_jpg.rf.b2f83bc686b8191339a6601f8e5ee16f.jpg",
+    "ann_id": 296,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      178.0,
+      262.0,
+      323.0,
+      344.5
+    ],
+    "bbox_coco": [
+      178.0,
+      262.0,
+      145.0,
+      82.5
+    ],
+    "text": "30E-000.90",
+    "raw_ocr": [
+      "30E-000.90"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.76,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate544_jpg.rf.48249ffe79acbb61303c26468cdf6277.jpg",
+    "file_name": "CarLongPlate544_jpg.rf.48249ffe79acbb61303c26468cdf6277.jpg",
+    "ann_id": 297,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      355.0,
+      446.0,
+      492.0,
+      509.5
+    ],
+    "bbox_coco": [
+      355.0,
+      446.0,
+      137.0,
+      63.5
+    ],
+    "text": "86A-068.44",
+    "raw_ocr": [
+      "86A-068.44"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 2.16,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate829_jpg.rf.5aca3fe30b49ee80e1d8ab770f693a95.jpg",
+    "file_name": "CarLongPlate829_jpg.rf.5aca3fe30b49ee80e1d8ab770f693a95.jpg",
+    "ann_id": 298,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      421.0,
+      545.0,
+      531.0,
+      602.0
+    ],
+    "bbox_coco": [
+      421.0,
+      545.0,
+      110.0,
+      57.0
+    ],
+    "text": "51A-691.72",
+    "raw_ocr": [
+      "51A-691.72"
+    ],
+    "layout": "one_line",
+    "aspect_ratio": 1.93,
+    "vehicle_type": "car"
+  },
+  {
+    "image_id": "source_a/CarLongPlate819_jpg.rf.5b87926fee435dad813994815dbb9d3d.jpg",
+    "file_name": "CarLongPlate819_jpg.rf.5b87926fee435dad813994815dbb9d3d.jpg",
+    "ann_id": 299,
+    "width": 640,
+    "height": 640,
+    "class_id": 1,
+    "bbox": [
+      243.0,
+      224.0,
+      384.0,
+      304.5
+    ],
+    "bbox_coco": [
+      243.0,
+      224.0,
+      141.0,
+      80.5
+    ],
+    "text": "51F-617.12",
+    "raw_ocr": [
+      "51F-617.12"
+    ],
+    "layout": "two_line",
+    "aspect_ratio": 1.75,
+    "vehicle_type": "car"
+  }
+]

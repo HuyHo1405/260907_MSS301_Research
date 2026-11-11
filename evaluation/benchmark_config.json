@@ -6,9 +6,9 @@
   },
   "datasets": {
     "source_a": {
-      "images": "datasets/eval_set/images",
-      "annotations": "datasets/eval_set/_annotations.coco.json",
-      "ground_truth": "datasets/eval_set/ground_truth_eval_set.json",
+      "images": "datasets/source_a/images",
+      "annotations": "datasets/source_a/_annotations.coco.json",
+      "ground_truth": "datasets/source_a/ground_truth_source_a.json",
       "labels_verified": false
     },
     "source_b": {
